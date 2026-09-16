@@ -1,0 +1,2335 @@
+[
+    {
+      "listing_id": "HOUS-UNIT-0001-1",
+      "source_type": "platform",
+      "source_name": "Housing.com",
+      "posted_by": "Vikram Malhotra",
+      "posted_date": "2026-08-09",
+      "is_active": true,
+      "address": {
+        "sector": "82",
+        "society": "Vatika India Next",
+        "tower": "T5",
+        "city": "Gurgaon"
+      },
+      "bhk": 2,
+      "floor": 12,
+      "total_floors": 13,
+      "facing": "SW",
+      "carpet_sqft": 983,
+      "rent": 82460,
+      "maintenance": 2800,
+      "club": 2000,
+      "furnishing": "unfurnished",
+      "amenities": [
+        "rainwater harvesting",
+        "piped gas",
+        "swimming pool",
+        "covered parking"
+      ],
+      "photo_hashes": [
+        "79253c8eb5bb6825",
+        "7e873c8eb5bb6825",
+        "79273cfeb5bb6825"
+      ],
+      "description": "2BHK for rent in Vatika India Next, Sector 82. unfurnished, floor 12. Genuine owner listing.",
+      "_true_unit_id": "UNIT-0001"
+    },
+    {
+      "listing_id": "HOUS-UNIT-0007-1",
+      "source_type": "platform",
+      "source_name": "Housing.com",
+      "posted_by": "Vikram Arora",
+      "posted_date": "2026-08-09",
+      "is_active": false,
+      "address": {
+        "sector": "78",
+        "society": "Godrej Habitat",
+        "tower": "T1",
+        "city": "Gurgaon"
+      },
+      "bhk": 2,
+      "floor": 28,
+      "total_floors": 30,
+      "facing": "SE",
+      "carpet_sqft": 864,
+      "rent": 89273,
+      "maintenance": 6000,
+      "club": 1500,
+      "furnishing": "semi-furnished",
+      "amenities": [
+        "visitor parking",
+        "modular kitchen",
+        "clubhouse"
+      ],
+      "photo_hashes": [
+        "69611a11f5115727"
+      ],
+      "description": "Well maintained 2 BHK, Godrej Habitat. Ideal for families. semi-furnished unit, immediate possession.",
+      "_true_unit_id": "UNIT-0007"
+    },
+    {
+      "listing_id": "MAGI-UNIT-0007-2",
+      "source_type": "platform",
+      "source_name": "MagicBricks",
+      "posted_by": "Priya Verma",
+      "posted_date": "2026-08-17",
+      "is_active": true,
+      "address": {
+        "sector": "78",
+        "society": "Godrej Habitat",
+        "tower": "T1",
+        "city": "Gurgaon"
+      },
+      "bhk": 2,
+      "floor": 28,
+      "total_floors": 30,
+      "facing": "SE",
+      "carpet_sqft": 863,
+      "rent": 88622,
+      "maintenance": 6000,
+      "club": 1500,
+      "furnishing": "semi-furnished",
+      "amenities": [
+        "jogging track",
+        "visitor parking",
+        "modular kitchen",
+        "pet friendly",
+        "clubhouse"
+      ],
+      "photo_hashes": [
+        "39611a01f5125827",
+        "c9611aa1f5125b27",
+        "6961da11f5125227"
+      ],
+      "description": "Well maintained 2 BHK, Godrej Habitat. Ideal for families. semi-furnished unit, immediate possession.",
+      "_true_unit_id": "UNIT-0007"
+    },
+    {
+      "listing_id": "99AC-UNIT-0007-3",
+      "source_type": "platform",
+      "source_name": "99acres",
+      "posted_by": "Deepak Bansal",
+      "posted_date": "2026-08-06",
+      "is_active": true,
+      "address": {
+        "sector": "78",
+        "society": "Godrej Habitat",
+        "tower": "T1",
+        "city": "Gurgaon"
+      },
+      "bhk": 2,
+      "floor": 28,
+      "total_floors": 30,
+      "facing": "SE",
+      "carpet_sqft": 862,
+      "rent": 87797,
+      "maintenance": 6000,
+      "club": 1500,
+      "furnishing": "semi-furnished",
+      "amenities": [
+        "jogging track",
+        "visitor parking",
+        "modular kitchen",
+        "pet friendly"
+      ],
+      "photo_hashes": [
+        "69611a11f51f5227",
+        "69611a11fb124227",
+        "69661a11f5125257",
+        "65611a11f5120227"
+      ],
+      "description": "2BHK for rent in Godrej Habitat, Sector 78. semi-furnished, floor 28. Genuine owner listing.",
+      "_true_unit_id": "UNIT-0007"
+    },
+    {
+      "listing_id": "MAGI-UNIT-0011-1",
+      "source_type": "platform",
+      "source_name": "MagicBricks",
+      "posted_by": "Priya Malhotra",
+      "posted_date": "2026-08-27",
+      "is_active": true,
+      "address": {
+        "sector": "112",
+        "society": "Experion Windchants",
+        "tower": "T3",
+        "city": "Gurgaon"
+      },
+      "bhk": 2,
+      "floor": 28,
+      "total_floors": 34,
+      "facing": "N",
+      "carpet_sqft": 897,
+      "rent": 58934,
+      "maintenance": 3300,
+      "club": 1500,
+      "furnishing": "semi-furnished",
+      "amenities": [
+        "gym",
+        "clubhouse",
+        "covered parking",
+        "jogging track"
+      ],
+      "photo_hashes": [
+        "1f76eb77706ca828",
+        "1ff3eb977064a828"
+      ],
+      "description": "Spacious 2 BHK available in Experion Windchants, N-facing, 897 sqft. Contact for viewing.",
+      "_true_unit_id": "UNIT-0011"
+    },
+    {
+      "listing_id": "MAGI-UNIT-0013-1",
+      "source_type": "platform",
+      "source_name": "MagicBricks",
+      "posted_by": "Amit Malhotra",
+      "posted_date": "2026-08-10",
+      "is_active": false,
+      "address": {
+        "sector": "69",
+        "society": "Tulip Violet",
+        "tower": "T7",
+        "city": "Gurgaon"
+      },
+      "bhk": 3,
+      "floor": 17,
+      "total_floors": 27,
+      "facing": "SE",
+      "carpet_sqft": 1569,
+      "rent": 76140,
+      "maintenance": 3100,
+      "club": 1000,
+      "furnishing": "unfurnished",
+      "amenities": [
+        "jogging track",
+        "CCTV surveillance",
+        "clubhouse",
+        "gym"
+      ],
+      "photo_hashes": [
+        "0996daeee6fb8952",
+        "09987aede6f529a2",
+        "0996fa4ee6f529a2",
+        "0996ddeee6f529a2"
+      ],
+      "description": "3BHK for rent in Tulip Violet, Sector 69. unfurnished, floor 17. Genuine owner listing.",
+      "_true_unit_id": "UNIT-0013"
+    },
+    {
+      "listing_id": "MAGI-UNIT-0015-1",
+      "source_type": "platform",
+      "source_name": "MagicBricks",
+      "posted_by": "Sunita Singh",
+      "posted_date": "2026-08-04",
+      "is_active": true,
+      "address": {
+        "sector": "48",
+        "society": "Bestech Park View",
+        "tower": "T9",
+        "city": "Gurgaon"
+      },
+      "bhk": 3,
+      "floor": 20,
+      "total_floors": 33,
+      "facing": "SW",
+      "carpet_sqft": 1353,
+      "rent": 129021,
+      "maintenance": 7600,
+      "club": 2000,
+      "furnishing": "semi-furnished",
+      "amenities": [
+        "CCTV surveillance",
+        "rainwater harvesting",
+        "gym",
+        "modular kitchen"
+      ],
+      "photo_hashes": [
+        "f78e5978ae2447c4"
+      ],
+      "description": "Well maintained 3 BHK, Bestech Park View. Ideal for families. semi-furnished unit, immediate possession.",
+      "_true_unit_id": "UNIT-0015"
+    },
+    {
+      "listing_id": "HOUS-UNIT-0017-1",
+      "source_type": "platform",
+      "source_name": "Housing.com",
+      "posted_by": "Priya Chauhan",
+      "posted_date": "2026-09-15",
+      "is_active": true,
+      "address": {
+        "sector": "22",
+        "society": "Ambience Creacions",
+        "tower": "T1",
+        "city": "Gurgaon"
+      },
+      "bhk": 3,
+      "floor": 1,
+      "total_floors": 6,
+      "facing": "SE",
+      "carpet_sqft": 1328,
+      "rent": 88563,
+      "maintenance": 5500,
+      "club": 1000,
+      "furnishing": "unfurnished",
+      "amenities": [
+        "jogging track",
+        "swimming pool",
+        "pet friendly",
+        "visitor parking"
+      ],
+      "photo_hashes": [
+        "ab8d40f01b721076",
+        "ac8d82f0eb72107e",
+        "ac8d8ef01b721076",
+        "ac8d82f21b7f1976"
+      ],
+      "description": "Spacious 3 BHK available in Ambience Creacions, SE-facing, 1328 sqft. Contact for viewing.",
+      "_true_unit_id": "UNIT-0017"
+    },
+    {
+      "listing_id": "99AC-UNIT-0017-2",
+      "source_type": "platform",
+      "source_name": "99acres",
+      "posted_by": "Deepak Sharma",
+      "posted_date": "2026-08-19",
+      "is_active": true,
+      "address": {
+        "sector": "22",
+        "society": "Ambience Creacions",
+        "tower": "T1",
+        "city": "Gurgaon"
+      },
+      "bhk": 3,
+      "floor": 1,
+      "total_floors": 6,
+      "facing": "SE",
+      "carpet_sqft": 1330,
+      "rent": 87802,
+      "maintenance": 5500,
+      "club": 1000,
+      "furnishing": "unfurnished",
+      "amenities": [
+        "children's play area",
+        "swimming pool",
+        "visitor parking"
+      ],
+      "photo_hashes": [
+        "ac8d82f010721976",
+        "ac8d82f01b761d76",
+        "ac8d82f51b72c076",
+        "ac8d82f02b721076"
+      ],
+      "description": "3BHK for rent in Ambience Creacions, Sector 22. unfurnished, floor 1. Genuine owner listing.",
+      "_true_unit_id": "UNIT-0017"
+    },
+    {
+      "listing_id": "HOUS-UNIT-0020-1",
+      "source_type": "platform",
+      "source_name": "Housing.com",
+      "posted_by": "Neha Verma",
+      "posted_date": "2026-08-22",
+      "is_active": true,
+      "address": {
+        "sector": "63A",
+        "society": "Birla Navya",
+        "tower": "T5",
+        "city": "Gurgaon"
+      },
+      "bhk": 3,
+      "floor": 7,
+      "total_floors": 17,
+      "facing": "NE",
+      "carpet_sqft": 1504,
+      "rent": 80057,
+      "maintenance": 4600,
+      "club": 1500,
+      "furnishing": "fully-furnished",
+      "amenities": [
+        "modular kitchen",
+        "swimming pool",
+        "covered parking"
+      ],
+      "photo_hashes": [
+        "7df7ffe0297c79b2",
+        "7bf73fe0291c79bf"
+      ],
+      "description": "Well maintained 3 BHK, Birla Navya. Ideal for families. fully-furnished unit, immediate possession.",
+      "_true_unit_id": "UNIT-0020"
+    },
+    {
+      "listing_id": "99AC-UNIT-0020-2",
+      "source_type": "platform",
+      "source_name": "99acres",
+      "posted_by": "Priya Sharma",
+      "posted_date": "2026-09-08",
+      "is_active": true,
+      "address": {
+        "sector": "63A",
+        "society": "Birla Navya",
+        "tower": "T5",
+        "city": "Gurgaon"
+      },
+      "bhk": 3,
+      "floor": 7,
+      "total_floors": 17,
+      "facing": "NE",
+      "carpet_sqft": 1520,
+      "rent": 82027,
+      "maintenance": 4600,
+      "club": 1500,
+      "furnishing": "fully-furnished",
+      "amenities": [
+        "modular kitchen",
+        "swimming pool",
+        "covered parking"
+      ],
+      "photo_hashes": [
+        "7ff78fe0297c79bf",
+        "7df7fbe0297c7996",
+        "7df7f2e0297c798f",
+        "7df7efe0287e79bf"
+      ],
+      "description": "Well maintained 3 BHK, Birla Navya. Ideal for families. fully-furnished unit, immediate possession.",
+      "_true_unit_id": "UNIT-0020"
+    },
+    {
+      "listing_id": "HOUS-UNIT-0021-1",
+      "source_type": "platform",
+      "source_name": "Housing.com",
+      "posted_by": "Manoj Singh",
+      "posted_date": "2026-08-14",
+      "is_active": true,
+      "address": {
+        "sector": "108",
+        "society": "Sobha City",
+        "tower": "T9",
+        "city": "Gurgaon"
+      },
+      "bhk": 3,
+      "floor": 12,
+      "total_floors": 22,
+      "facing": "NW",
+      "carpet_sqft": 1543,
+      "rent": 93202,
+      "maintenance": 4300,
+      "club": 1500,
+      "furnishing": "semi-furnished",
+      "amenities": [
+        "visitor parking",
+        "children's play area"
+      ],
+      "photo_hashes": [
+        "3b66f893697b5b04"
+      ],
+      "description": "3BHK for rent in Sobha City, Sector 108. semi-furnished, floor 12. Genuine owner listing.",
+      "_true_unit_id": "UNIT-0021"
+    },
+    {
+      "listing_id": "MAGI-UNIT-0021-2",
+      "source_type": "platform",
+      "source_name": "MagicBricks",
+      "posted_by": "Deepak Verma",
+      "posted_date": "2026-08-02",
+      "is_active": false,
+      "address": {
+        "sector": "108",
+        "society": "Sobha City",
+        "tower": "T9",
+        "city": "Gurgaon"
+      },
+      "bhk": 3,
+      "floor": 12,
+      "total_floors": 22,
+      "facing": "NW",
+      "carpet_sqft": 1558,
+      "rent": 93392,
+      "maintenance": 4300,
+      "club": 1500,
+      "furnishing": "semi-furnished",
+      "amenities": [
+        "covered parking",
+        "visitor parking"
+      ],
+      "photo_hashes": [
+        "3566f865697b5904"
+      ],
+      "description": "Spacious 3 BHK available in Sobha City, NW-facing, 1558 sqft. Contact for viewing.",
+      "_true_unit_id": "UNIT-0021"
+    },
+    {
+      "listing_id": "99AC-UNIT-0021-3",
+      "source_type": "platform",
+      "source_name": "99acres",
+      "posted_by": "Anita Gupta",
+      "posted_date": "2026-08-12",
+      "is_active": true,
+      "address": {
+        "sector": "108",
+        "society": "Sobha City",
+        "tower": "T9",
+        "city": "Gurgaon"
+      },
+      "bhk": 3,
+      "floor": 12,
+      "total_floors": 22,
+      "facing": "NW",
+      "carpet_sqft": 1545,
+      "rent": 91956,
+      "maintenance": 4300,
+      "club": 1500,
+      "furnishing": "semi-furnished",
+      "amenities": [
+        "covered parking",
+        "visitor parking",
+        "swimming pool",
+        "children's play area"
+      ],
+      "photo_hashes": [
+        "3566fe93697aa904",
+        "3566f893697b5d04"
+      ],
+      "description": "Well maintained 3 BHK, Sobha City. Ideal for families. semi-furnished unit, immediate possession.",
+      "_true_unit_id": "UNIT-0021"
+    },
+    {
+      "listing_id": "HOUS-UNIT-0022-1",
+      "source_type": "platform",
+      "source_name": "Housing.com",
+      "posted_by": "Priya Malhotra",
+      "posted_date": "2026-08-19",
+      "is_active": true,
+      "address": {
+        "sector": "62",
+        "society": "Emaar Digi Homes",
+        "tower": "T5",
+        "city": "Gurgaon"
+      },
+      "bhk": 2,
+      "floor": 2,
+      "total_floors": 10,
+      "facing": "SW",
+      "carpet_sqft": 894,
+      "rent": 108335,
+      "maintenance": 6800,
+      "club": 2500,
+      "furnishing": "semi-furnished",
+      "amenities": [
+        "pet friendly",
+        "CCTV surveillance",
+        "children's play area",
+        "clubhouse",
+        "24x7 power backup",
+        "gym"
+      ],
+      "photo_hashes": [
+        "f32cf21449273d7c",
+        "fe2cf21449273d7c",
+        "f32c4214b9273d7c"
+      ],
+      "description": "Spacious 2 BHK available in Emaar Digi Homes, SW-facing, 894 sqft. Contact for viewing.",
+      "_true_unit_id": "UNIT-0022"
+    },
+    {
+      "listing_id": "MAGI-UNIT-0022-2",
+      "source_type": "platform",
+      "source_name": "MagicBricks",
+      "posted_by": "Sunita Arora",
+      "posted_date": "2026-08-10",
+      "is_active": true,
+      "address": {
+        "sector": "62",
+        "society": "Emaar Digi Homes",
+        "tower": "T5",
+        "city": "Gurgaon"
+      },
+      "bhk": 2,
+      "floor": 2,
+      "total_floors": 10,
+      "facing": "SW",
+      "carpet_sqft": 880,
+      "rent": 107152,
+      "maintenance": 6800,
+      "club": 2500,
+      "furnishing": "semi-furnished",
+      "amenities": [
+        "pet friendly",
+        "CCTV surveillance",
+        "24x7 power backup",
+        "gym"
+      ],
+      "photo_hashes": [
+        "fa2cf21441272d7c"
+      ],
+      "description": "Spacious 2 BHK available in Emaar Digi Homes, SW-facing, 880 sqft. Contact for viewing.",
+      "_true_unit_id": "UNIT-0022"
+    },
+    {
+      "listing_id": "99AC-UNIT-0022-3",
+      "source_type": "platform",
+      "source_name": "99acres",
+      "posted_by": "Amit Sharma",
+      "posted_date": "2026-08-25",
+      "is_active": true,
+      "address": {
+        "sector": "62",
+        "society": "Emaar Digi Homes",
+        "tower": "T5",
+        "city": "Gurgaon"
+      },
+      "bhk": 2,
+      "floor": 2,
+      "total_floors": 10,
+      "facing": "SW",
+      "carpet_sqft": 900,
+      "rent": 108648,
+      "maintenance": 6800,
+      "club": 2500,
+      "furnishing": "semi-furnished",
+      "amenities": [
+        "pet friendly",
+        "children's play area",
+        "clubhouse",
+        "gym"
+      ],
+      "photo_hashes": [
+        "fa2ca21449273d7c",
+        "f32cf2144927ed7c",
+        "f37cf2144927497c"
+      ],
+      "description": "Spacious 2 BHK available in Emaar Digi Homes, SW-facing, 900 sqft. Contact for viewing.",
+      "_true_unit_id": "UNIT-0022"
+    },
+    {
+      "listing_id": "HOUS-UNIT-0027-1",
+      "source_type": "platform",
+      "source_name": "Housing.com",
+      "posted_by": "Manoj Chauhan",
+      "posted_date": "2026-08-27",
+      "is_active": true,
+      "address": {
+        "sector": "60",
+        "society": "Ireo Skyon",
+        "tower": "T8",
+        "city": "Gurgaon"
+      },
+      "bhk": 2,
+      "floor": 27,
+      "total_floors": 28,
+      "facing": "E",
+      "carpet_sqft": 971,
+      "rent": 49570,
+      "maintenance": 3300,
+      "club": 1500,
+      "furnishing": "fully-furnished",
+      "amenities": [
+        "jogging track",
+        "pet friendly",
+        "visitor parking",
+        "swimming pool",
+        "rainwater harvesting"
+      ],
+      "photo_hashes": [
+        "4c6428da8099f4ef",
+        "8c6428da8099f4ef"
+      ],
+      "description": "2BHK for rent in Ireo Skyon, Sector 60. fully-furnished, floor 27. Genuine owner listing.",
+      "_true_unit_id": "UNIT-0027"
+    },
+    {
+      "listing_id": "99AC-UNIT-0027-2",
+      "source_type": "platform",
+      "source_name": "99acres",
+      "posted_by": "Kavita Singh",
+      "posted_date": "2026-08-09",
+      "is_active": true,
+      "address": {
+        "sector": "60",
+        "society": "Ireo Skyon",
+        "tower": "T8",
+        "city": "Gurgaon"
+      },
+      "bhk": 2,
+      "floor": 27,
+      "total_floors": 28,
+      "facing": "E",
+      "carpet_sqft": 978,
+      "rent": 49905,
+      "maintenance": 3300,
+      "club": 1500,
+      "furnishing": "fully-furnished",
+      "amenities": [
+        "jogging track",
+        "pet friendly",
+        "visitor parking",
+        "swimming pool",
+        "rainwater harvesting"
+      ],
+      "photo_hashes": [
+        "4c6428da8099f4ef",
+        "4c64587a8099f4ef",
+        "4c6428da8099f0ef"
+      ],
+      "description": "Spacious 2 BHK available in Ireo Skyon, E-facing, 978 sqft. Contact for viewing.",
+      "_true_unit_id": "UNIT-0027"
+    },
+    {
+      "listing_id": "MAGI-UNIT-0027-3",
+      "source_type": "platform",
+      "source_name": "MagicBricks",
+      "posted_by": "Sunita Yadav",
+      "posted_date": "2026-08-30",
+      "is_active": true,
+      "address": {
+        "sector": "60",
+        "society": "Ireo Skyon",
+        "tower": "T8",
+        "city": "Gurgaon"
+      },
+      "bhk": 2,
+      "floor": 27,
+      "total_floors": 28,
+      "facing": "E",
+      "carpet_sqft": 992,
+      "rent": 49872,
+      "maintenance": 3300,
+      "club": 1500,
+      "furnishing": "fully-furnished",
+      "amenities": [
+        "jogging track",
+        "visitor parking",
+        "swimming pool",
+        "rainwater harvesting"
+      ],
+      "photo_hashes": [
+        "4c6428da8099fcef",
+        "4c6428da8099a4ef",
+        "436428da8099f4ef",
+        "4c6428dc8099f4ef"
+      ],
+      "description": "Spacious 2 BHK available in Ireo Skyon, E-facing, 992 sqft. Contact for viewing.",
+      "_true_unit_id": "UNIT-0027"
+    },
+    {
+      "listing_id": "HOUS-UNIT-0028-1",
+      "source_type": "platform",
+      "source_name": "Housing.com",
+      "posted_by": "Manoj Singh",
+      "posted_date": "2026-09-04",
+      "is_active": true,
+      "address": {
+        "sector": "33",
+        "society": "Central Park Flower Valley",
+        "tower": "T7",
+        "city": "Gurgaon"
+      },
+      "bhk": 3,
+      "floor": 18,
+      "total_floors": 32,
+      "facing": "NW",
+      "carpet_sqft": 1356,
+      "rent": 107311,
+      "maintenance": 7200,
+      "club": 1000,
+      "furnishing": "fully-furnished",
+      "amenities": [
+        "swimming pool",
+        "jogging track",
+        "24x7 power backup",
+        "pet friendly"
+      ],
+      "photo_hashes": [
+        "c4f5ca3e3e04da2f"
+      ],
+      "description": "3BHK for rent in Central Park Flower Valley, Sector 33. fully-furnished, floor 18. Genuine owner listing.",
+      "_true_unit_id": "UNIT-0028"
+    },
+    {
+      "listing_id": "99AC-UNIT-0028-2",
+      "source_type": "platform",
+      "source_name": "99acres",
+      "posted_by": "Vikram Verma",
+      "posted_date": "2026-08-19",
+      "is_active": false,
+      "address": {
+        "sector": "33",
+        "society": "Central Park Flower Valley",
+        "tower": "T7",
+        "city": "Gurgaon"
+      },
+      "bhk": 3,
+      "floor": 18,
+      "total_floors": 32,
+      "facing": "NW",
+      "carpet_sqft": 1375,
+      "rent": 107774,
+      "maintenance": 7200,
+      "club": 1000,
+      "furnishing": "fully-furnished",
+      "amenities": [
+        "swimming pool",
+        "jogging track",
+        "children's play area",
+        "pet friendly",
+        "visitor parking"
+      ],
+      "photo_hashes": [
+        "c4f14a3e3e04d4bf"
+      ],
+      "description": "Well maintained 3 BHK, Central Park Flower Valley. Ideal for families. fully-furnished unit, immediate possession.",
+      "_true_unit_id": "UNIT-0028"
+    },
+    {
+      "listing_id": "MAGI-UNIT-0029-1",
+      "source_type": "platform",
+      "source_name": "MagicBricks",
+      "posted_by": "Deepak Chauhan",
+      "posted_date": "2026-08-09",
+      "is_active": true,
+      "address": {
+        "sector": "48",
+        "society": "Bestech Park View",
+        "tower": "T7",
+        "city": "Gurgaon"
+      },
+      "bhk": 3,
+      "floor": 11,
+      "total_floors": 31,
+      "facing": "S",
+      "carpet_sqft": 1419,
+      "rent": 116169,
+      "maintenance": 7300,
+      "club": 2500,
+      "furnishing": "semi-furnished",
+      "amenities": [
+        "rainwater harvesting",
+        "visitor parking",
+        "modular kitchen"
+      ],
+      "photo_hashes": [
+        "27972433e5901a19",
+        "27972d33e5911a19"
+      ],
+      "description": "Well maintained 3 BHK, Bestech Park View. Ideal for families. semi-furnished unit, immediate possession.",
+      "_true_unit_id": "UNIT-0029"
+    },
+    {
+      "listing_id": "99AC-UNIT-0029-2",
+      "source_type": "platform",
+      "source_name": "99acres",
+      "posted_by": "Manoj Chauhan",
+      "posted_date": "2026-09-07",
+      "is_active": true,
+      "address": {
+        "sector": "48",
+        "society": "Bestech Park View",
+        "tower": "T7",
+        "city": "Gurgaon"
+      },
+      "bhk": 3,
+      "floor": 11,
+      "total_floors": 31,
+      "facing": "S",
+      "carpet_sqft": 1427,
+      "rent": 120083,
+      "maintenance": 7300,
+      "club": 2500,
+      "furnishing": "semi-furnished",
+      "amenities": [
+        "rainwater harvesting",
+        "visitor parking",
+        "modular kitchen"
+      ],
+      "photo_hashes": [
+        "27972d33e5911a19",
+        "27d72d33e59c1a19"
+      ],
+      "description": "Well maintained 3 BHK, Bestech Park View. Ideal for families. semi-furnished unit, immediate possession.",
+      "_true_unit_id": "UNIT-0029"
+    },
+    {
+      "listing_id": "99AC-UNIT-0030-1",
+      "source_type": "platform",
+      "source_name": "99acres",
+      "posted_by": "Manoj Bansal",
+      "posted_date": "2026-08-03",
+      "is_active": true,
+      "address": {
+        "sector": "33",
+        "society": "Central Park Flower Valley",
+        "tower": "T4",
+        "city": "Gurgaon"
+      },
+      "bhk": 3,
+      "floor": 14,
+      "total_floors": 30,
+      "facing": "SE",
+      "carpet_sqft": 1504,
+      "rent": 54395,
+      "maintenance": 3000,
+      "club": 1000,
+      "furnishing": "unfurnished",
+      "amenities": [
+        "visitor parking"
+      ],
+      "photo_hashes": [
+        "7f47e8e80d852eb9"
+      ],
+      "description": "Well maintained 3 BHK, Central Park Flower Valley. Ideal for families. unfurnished unit, immediate possession.",
+      "_true_unit_id": "UNIT-0030"
+    },
+    {
+      "listing_id": "HOUS-UNIT-0030-2",
+      "source_type": "platform",
+      "source_name": "Housing.com",
+      "posted_by": "Vikram Arora",
+      "posted_date": "2026-08-14",
+      "is_active": true,
+      "address": {
+        "sector": "33",
+        "society": "Central Park Flower Valley",
+        "tower": "T4",
+        "city": "Gurgaon"
+      },
+      "bhk": 3,
+      "floor": 14,
+      "total_floors": 30,
+      "facing": "SE",
+      "carpet_sqft": 1520,
+      "rent": 55642,
+      "maintenance": 3000,
+      "club": 1000,
+      "furnishing": "unfurnished",
+      "amenities": [
+        "covered parking",
+        "piped gas",
+        "jogging track",
+        "visitor parking"
+      ],
+      "photo_hashes": [
+        "ef47e8e806952eb9",
+        "7a46e8e80e952db9"
+      ],
+      "description": "Spacious 3 BHK available in Central Park Flower Valley, SE-facing, 1520 sqft. Contact for viewing.",
+      "_true_unit_id": "UNIT-0030"
+    },
+    {
+      "listing_id": "MAGI-UNIT-0033-1",
+      "source_type": "platform",
+      "source_name": "MagicBricks",
+      "posted_by": "Sanjay Yadav",
+      "posted_date": "2026-09-15",
+      "is_active": true,
+      "address": {
+        "sector": "62",
+        "society": "Emaar Digi Homes",
+        "tower": "T6",
+        "city": "Gurgaon"
+      },
+      "bhk": 3,
+      "floor": 4,
+      "total_floors": 20,
+      "facing": "SE",
+      "carpet_sqft": 1535,
+      "rent": 95791,
+      "maintenance": 6300,
+      "club": 0,
+      "furnishing": "fully-furnished",
+      "amenities": [
+        "pet friendly",
+        "24x7 power backup",
+        "piped gas",
+        "modular kitchen"
+      ],
+      "photo_hashes": [
+        "a72e9d34119f3277"
+      ],
+      "description": "Spacious 3 BHK available in Emaar Digi Homes, SE-facing, 1535 sqft. Contact for viewing.",
+      "_true_unit_id": "UNIT-0033"
+    },
+    {
+      "listing_id": "MAGI-UNIT-0041-1",
+      "source_type": "platform",
+      "source_name": "MagicBricks",
+      "posted_by": "Sanjay Kapoor",
+      "posted_date": "2026-08-08",
+      "is_active": true,
+      "address": {
+        "sector": "60",
+        "society": "Ireo Skyon",
+        "tower": "T7",
+        "city": "Gurgaon"
+      },
+      "bhk": 2,
+      "floor": 16,
+      "total_floors": 21,
+      "facing": "E",
+      "carpet_sqft": 958,
+      "rent": 135297,
+      "maintenance": 6700,
+      "club": 1000,
+      "furnishing": "fully-furnished",
+      "amenities": [
+        "rainwater harvesting",
+        "covered parking",
+        "24x7 power backup",
+        "piped gas",
+        "modular kitchen"
+      ],
+      "photo_hashes": [
+        "efadcd93c0a5eb2d",
+        "e2ad8d93c0a3eb22",
+        "e22dcd9fc0a5eb2d"
+      ],
+      "description": "2BHK for rent in Ireo Skyon, Sector 60. fully-furnished, floor 16. Genuine owner listing.",
+      "_true_unit_id": "UNIT-0041"
+    },
+    {
+      "listing_id": "HOUS-UNIT-0041-2",
+      "source_type": "platform",
+      "source_name": "Housing.com",
+      "posted_by": "Deepak Singh",
+      "posted_date": "2026-08-07",
+      "is_active": true,
+      "address": {
+        "sector": "60",
+        "society": "Ireo Skyon",
+        "tower": "T7",
+        "city": "Gurgaon"
+      },
+      "bhk": 2,
+      "floor": 16,
+      "total_floors": 21,
+      "facing": "E",
+      "carpet_sqft": 943,
+      "rent": 139988,
+      "maintenance": 6700,
+      "club": 1000,
+      "furnishing": "fully-furnished",
+      "amenities": [
+        "rainwater harvesting",
+        "children's play area",
+        "covered parking",
+        "24x7 power backup",
+        "piped gas",
+        "modular kitchen"
+      ],
+      "photo_hashes": [
+        "e2adcd93c5a9eb2d",
+        "e2adcd93c8a5eb2d",
+        "e2adcd93c0a5eb25"
+      ],
+      "description": "Well maintained 2 BHK, Ireo Skyon. Ideal for families. fully-furnished unit, immediate possession.",
+      "_true_unit_id": "UNIT-0041"
+    },
+    {
+      "listing_id": "99AC-UNIT-0047-1",
+      "source_type": "platform",
+      "source_name": "99acres",
+      "posted_by": "Amit Verma",
+      "posted_date": "2026-09-11",
+      "is_active": true,
+      "address": {
+        "sector": "48",
+        "society": "Bestech Park View",
+        "tower": "T9",
+        "city": "Gurgaon"
+      },
+      "bhk": 3,
+      "floor": 25,
+      "total_floors": 33,
+      "facing": "SE",
+      "carpet_sqft": 1344,
+      "rent": 88049,
+      "maintenance": 5200,
+      "club": 2500,
+      "furnishing": "unfurnished",
+      "amenities": [
+        "rainwater harvesting",
+        "pet friendly",
+        "children's play area",
+        "modular kitchen"
+      ],
+      "photo_hashes": [
+        "33e25844d27eb0d1",
+        "33925804d27eb0d1",
+        "339258efdf7e20d1"
+      ],
+      "description": "Well maintained 3 BHK, Bestech Park View. Ideal for families. unfurnished unit, immediate possession.",
+      "_true_unit_id": "UNIT-0047"
+    },
+    {
+      "listing_id": "MAGI-UNIT-0047-2",
+      "source_type": "platform",
+      "source_name": "MagicBricks",
+      "posted_by": "Manoj Bansal",
+      "posted_date": "2026-08-13",
+      "is_active": true,
+      "address": {
+        "sector": "48",
+        "society": "Bestech Park View",
+        "tower": "T9",
+        "city": "Gurgaon"
+      },
+      "bhk": 3,
+      "floor": 25,
+      "total_floors": 33,
+      "facing": "SE",
+      "carpet_sqft": 1365,
+      "rent": 88390,
+      "maintenance": 5200,
+      "club": 2500,
+      "furnishing": "unfurnished",
+      "amenities": [
+        "pet friendly"
+      ],
+      "photo_hashes": [
+        "3312f8e4d27eb0d1",
+        "f79208e4d27eb0d1",
+        "399258e4d27eb0d1",
+        "339258e4d27eb051"
+      ],
+      "description": "Spacious 3 BHK available in Bestech Park View, SE-facing, 1365 sqft. Contact for viewing.",
+      "_true_unit_id": "UNIT-0047"
+    },
+    {
+      "listing_id": "HOUS-UNIT-0047-3",
+      "source_type": "platform",
+      "source_name": "Housing.com",
+      "posted_by": "Ritu Kapoor",
+      "posted_date": "2026-08-10",
+      "is_active": false,
+      "address": {
+        "sector": "48",
+        "society": "Bestech Park View",
+        "tower": "T9",
+        "city": "Gurgaon"
+      },
+      "bhk": 3,
+      "floor": 25,
+      "total_floors": 33,
+      "facing": "SE",
+      "carpet_sqft": 1338,
+      "rent": 88428,
+      "maintenance": 5200,
+      "club": 2500,
+      "furnishing": "unfurnished",
+      "amenities": [
+        "24x7 power backup",
+        "rainwater harvesting",
+        "modular kitchen"
+      ],
+      "photo_hashes": [
+        "3392a8e4d27eb0d1",
+        "359258e4d27eb0d1",
+        "333258e4427eb0d1"
+      ],
+      "description": "3BHK for rent in Bestech Park View, Sector 48. unfurnished, floor 25. Genuine owner listing.",
+      "_true_unit_id": "UNIT-0047"
+    },
+    {
+      "listing_id": "HOUS-UNIT-0048-1",
+      "source_type": "platform",
+      "source_name": "Housing.com",
+      "posted_by": "Anita Sharma",
+      "posted_date": "2026-08-19",
+      "is_active": true,
+      "address": {
+        "sector": "82",
+        "society": "Vatika India Next",
+        "tower": "T7",
+        "city": "Gurgaon"
+      },
+      "bhk": 3,
+      "floor": 12,
+      "total_floors": 14,
+      "facing": "NW",
+      "carpet_sqft": 1363,
+      "rent": 68026,
+      "maintenance": 2000,
+      "club": 0,
+      "furnishing": "fully-furnished",
+      "amenities": [
+        "CCTV surveillance",
+        "clubhouse",
+        "visitor parking",
+        "gym"
+      ],
+      "photo_hashes": [
+        "f49e020864d39793"
+      ],
+      "description": "Spacious 3 BHK available in Vatika India Next, NW-facing, 1363 sqft. Contact for viewing.",
+      "_true_unit_id": "UNIT-0048"
+    },
+    {
+      "listing_id": "99AC-UNIT-0048-2",
+      "source_type": "platform",
+      "source_name": "99acres",
+      "posted_by": "Vikram Arora",
+      "posted_date": "2026-08-21",
+      "is_active": true,
+      "address": {
+        "sector": "82",
+        "society": "Vatika India Next",
+        "tower": "T7",
+        "city": "Gurgaon"
+      },
+      "bhk": 3,
+      "floor": 12,
+      "total_floors": 14,
+      "facing": "NW",
+      "carpet_sqft": 1374,
+      "rent": 69119,
+      "maintenance": 2000,
+      "club": 0,
+      "furnishing": "fully-furnished",
+      "amenities": [
+        "visitor parking",
+        "24x7 power backup"
+      ],
+      "photo_hashes": [
+        "f49e0f0864dd9793"
+      ],
+      "description": "Well maintained 3 BHK, Vatika India Next. Ideal for families. fully-furnished unit, immediate possession.",
+      "_true_unit_id": "UNIT-0048"
+    },
+    {
+      "listing_id": "MAGI-UNIT-0049-1",
+      "source_type": "platform",
+      "source_name": "MagicBricks",
+      "posted_by": "Priya Singh",
+      "posted_date": "2026-08-20",
+      "is_active": true,
+      "address": {
+        "sector": "65",
+        "society": "M3M Heights",
+        "tower": "T8",
+        "city": "Gurgaon"
+      },
+      "bhk": 2,
+      "floor": 14,
+      "total_floors": 16,
+      "facing": "S",
+      "carpet_sqft": 999,
+      "rent": 121724,
+      "maintenance": 6200,
+      "club": 0,
+      "furnishing": "fully-furnished",
+      "amenities": [
+        "swimming pool",
+        "clubhouse",
+        "jogging track",
+        "24x7 power backup"
+      ],
+      "photo_hashes": [
+        "b7d52ba3cf1cb80b",
+        "b7d52b2dcf1cb80b",
+        "b7d52b20cf1c780b"
+      ],
+      "description": "2BHK for rent in M3M Heights, Sector 65. fully-furnished, floor 14. Genuine owner listing.",
+      "_true_unit_id": "UNIT-0049"
+    },
+    {
+      "listing_id": "99AC-UNIT-0049-2",
+      "source_type": "platform",
+      "source_name": "99acres",
+      "posted_by": "Sanjay Malhotra",
+      "posted_date": "2026-09-12",
+      "is_active": true,
+      "address": {
+        "sector": "65",
+        "society": "M3M Heights",
+        "tower": "T8",
+        "city": "Gurgaon"
+      },
+      "bhk": 2,
+      "floor": 14,
+      "total_floors": 16,
+      "facing": "S",
+      "carpet_sqft": 999,
+      "rent": 120495,
+      "maintenance": 6200,
+      "club": 0,
+      "furnishing": "fully-furnished",
+      "amenities": [
+        "swimming pool",
+        "clubhouse",
+        "gym",
+        "24x7 power backup",
+        "CCTV surveillance"
+      ],
+      "photo_hashes": [
+        "b1d52b20cf1cb80b",
+        "b7d53b20cf1cb8eb",
+        "b7d52a29cf1cb80b"
+      ],
+      "description": "2BHK for rent in M3M Heights, Sector 65. fully-furnished, floor 14. Genuine owner listing.",
+      "_true_unit_id": "UNIT-0049"
+    },
+    {
+      "listing_id": "99AC-UNIT-0052-1",
+      "source_type": "platform",
+      "source_name": "99acres",
+      "posted_by": "Sanjay Sharma",
+      "posted_date": "2026-08-06",
+      "is_active": true,
+      "address": {
+        "sector": "78",
+        "society": "Godrej Habitat",
+        "tower": "T3",
+        "city": "Gurgaon"
+      },
+      "bhk": 3,
+      "floor": 23,
+      "total_floors": 34,
+      "facing": "SW",
+      "carpet_sqft": 1425,
+      "rent": 95686,
+      "maintenance": 4300,
+      "club": 1500,
+      "furnishing": "fully-furnished",
+      "amenities": [
+        "rainwater harvesting",
+        "covered parking",
+        "jogging track",
+        "children's play area"
+      ],
+      "photo_hashes": [
+        "504e1427bbce4eb3"
+      ],
+      "description": "Well maintained 3 BHK, Godrej Habitat. Ideal for families. fully-furnished unit, immediate possession.",
+      "_true_unit_id": "UNIT-0052"
+    },
+    {
+      "listing_id": "HOUS-UNIT-0052-2",
+      "source_type": "platform",
+      "source_name": "Housing.com",
+      "posted_by": "Priya Singh",
+      "posted_date": "2026-08-17",
+      "is_active": true,
+      "address": {
+        "sector": "78",
+        "society": "Godrej Habitat",
+        "tower": "T3",
+        "city": "Gurgaon"
+      },
+      "bhk": 3,
+      "floor": 23,
+      "total_floors": 34,
+      "facing": "SW",
+      "carpet_sqft": 1424,
+      "rent": 93829,
+      "maintenance": 4300,
+      "club": 1500,
+      "furnishing": "fully-furnished",
+      "amenities": [
+        "gym",
+        "rainwater harvesting",
+        "24x7 power backup",
+        "covered parking",
+        "jogging track",
+        "children's play area"
+      ],
+      "photo_hashes": [
+        "504e1427bbc15ebb"
+      ],
+      "description": "3BHK for rent in Godrej Habitat, Sector 78. fully-furnished, floor 23. Genuine owner listing.",
+      "_true_unit_id": "UNIT-0052"
+    },
+    {
+      "listing_id": "HOUS-UNIT-0054-1",
+      "source_type": "platform",
+      "source_name": "Housing.com",
+      "posted_by": "Manoj Yadav",
+      "posted_date": "2026-08-03",
+      "is_active": true,
+      "address": {
+        "sector": "48",
+        "society": "Bestech Park View",
+        "tower": "T6",
+        "city": "Gurgaon"
+      },
+      "bhk": 4,
+      "floor": 28,
+      "total_floors": 29,
+      "facing": "NE",
+      "carpet_sqft": 1862,
+      "rent": 79766,
+      "maintenance": 4800,
+      "club": 1000,
+      "furnishing": "semi-furnished",
+      "amenities": [
+        "covered parking",
+        "CCTV surveillance",
+        "clubhouse",
+        "rainwater harvesting",
+        "24x7 power backup"
+      ],
+      "photo_hashes": [
+        "bbe4229cfdde4a2e",
+        "bbe0299cfdd2fa2e",
+        "bbe4229cfdd24aae"
+      ],
+      "description": "Spacious 4 BHK available in Bestech Park View, NE-facing, 1862 sqft. Contact for viewing.",
+      "_true_unit_id": "UNIT-0054"
+    },
+    {
+      "listing_id": "MAGI-UNIT-0063-1",
+      "source_type": "platform",
+      "source_name": "MagicBricks",
+      "posted_by": "Sanjay Singh",
+      "posted_date": "2026-08-24",
+      "is_active": true,
+      "address": {
+        "sector": "33",
+        "society": "Central Park Flower Valley",
+        "tower": "T3",
+        "city": "Gurgaon"
+      },
+      "bhk": 4,
+      "floor": 16,
+      "total_floors": 16,
+      "facing": "E",
+      "carpet_sqft": 1914,
+      "rent": 49094,
+      "maintenance": 2600,
+      "club": 2000,
+      "furnishing": "semi-furnished",
+      "amenities": [
+        "CCTV surveillance",
+        "children's play area",
+        "visitor parking"
+      ],
+      "photo_hashes": [
+        "12f15d51cf591693",
+        "f27c5d51cf551093"
+      ],
+      "description": "Spacious 4 BHK available in Central Park Flower Valley, E-facing, 1914 sqft. Contact for viewing.",
+      "_true_unit_id": "UNIT-0063"
+    },
+    {
+      "listing_id": "MAGI-UNIT-0073-1",
+      "source_type": "platform",
+      "source_name": "MagicBricks",
+      "posted_by": "Manoj Arora",
+      "posted_date": "2026-08-22",
+      "is_active": true,
+      "address": {
+        "sector": "63A",
+        "society": "Birla Navya",
+        "tower": "T8",
+        "city": "Gurgaon"
+      },
+      "bhk": 2,
+      "floor": 24,
+      "total_floors": 26,
+      "facing": "N",
+      "carpet_sqft": 1007,
+      "rent": 111860,
+      "maintenance": 3300,
+      "club": 0,
+      "furnishing": "fully-furnished",
+      "amenities": [
+        "24x7 power backup",
+        "jogging track"
+      ],
+      "photo_hashes": [
+        "472406eb1ff00d60",
+        "472401eb1ff0dd00"
+      ],
+      "description": "Well maintained 2 BHK, Birla Navya. Ideal for families. fully-furnished unit, immediate possession.",
+      "_true_unit_id": "UNIT-0073"
+    },
+    {
+      "listing_id": "99AC-UNIT-0073-2",
+      "source_type": "platform",
+      "source_name": "99acres",
+      "posted_by": "Amit Singh",
+      "posted_date": "2026-08-09",
+      "is_active": true,
+      "address": {
+        "sector": "63A",
+        "society": "Birla Navya",
+        "tower": "T8",
+        "city": "Gurgaon"
+      },
+      "bhk": 2,
+      "floor": 24,
+      "total_floors": 26,
+      "facing": "N",
+      "carpet_sqft": 990,
+      "rent": 104740,
+      "maintenance": 3300,
+      "club": 0,
+      "furnishing": "fully-furnished",
+      "amenities": [
+        "CCTV surveillance",
+        "jogging track"
+      ],
+      "photo_hashes": [
+        "472406e61ff00d00",
+        "472406eb9ff00d00",
+        "4724d66b1ff00d0c",
+        "47240ddb1ff00d00"
+      ],
+      "description": "Spacious 2 BHK available in Birla Navya, N-facing, 990 sqft. Contact for viewing.",
+      "_true_unit_id": "UNIT-0073"
+    },
+    {
+      "listing_id": "99AC-UNIT-0074-1",
+      "source_type": "platform",
+      "source_name": "99acres",
+      "posted_by": "Manoj Malhotra",
+      "posted_date": "2026-09-01",
+      "is_active": true,
+      "address": {
+        "sector": "108",
+        "society": "Sobha City",
+        "tower": "T5",
+        "city": "Gurgaon"
+      },
+      "bhk": 4,
+      "floor": 9,
+      "total_floors": 9,
+      "facing": "SE",
+      "carpet_sqft": 1807,
+      "rent": 108638,
+      "maintenance": 3500,
+      "club": 0,
+      "furnishing": "fully-furnished",
+      "amenities": [
+        "piped gas",
+        "modular kitchen"
+      ],
+      "photo_hashes": [
+        "813c2bce779218cc",
+        "8b8c2bcf779112cc",
+        "8b8c2bcec79212cc",
+        "8b8c1bce7792b2cc"
+      ],
+      "description": "Spacious 4 BHK available in Sobha City, SE-facing, 1807 sqft. Contact for viewing.",
+      "_true_unit_id": "UNIT-0074"
+    },
+    {
+      "listing_id": "MAGI-UNIT-0074-2",
+      "source_type": "platform",
+      "source_name": "MagicBricks",
+      "posted_by": "Vikram Chauhan",
+      "posted_date": "2026-08-10",
+      "is_active": true,
+      "address": {
+        "sector": "108",
+        "society": "Sobha City",
+        "tower": "T5",
+        "city": "Gurgaon"
+      },
+      "bhk": 4,
+      "floor": 9,
+      "total_floors": 9,
+      "facing": "SE",
+      "carpet_sqft": 1808,
+      "rent": 104399,
+      "maintenance": 3500,
+      "club": 0,
+      "furnishing": "fully-furnished",
+      "amenities": [
+        "swimming pool",
+        "piped gas",
+        "modular kitchen"
+      ],
+      "photo_hashes": [
+        "848c2bce779212c8"
+      ],
+      "description": "4BHK for rent in Sobha City, Sector 108. fully-furnished, floor 9. Genuine owner listing.",
+      "_true_unit_id": "UNIT-0074"
+    },
+    {
+      "listing_id": "MAGI-UNIT-0076-1",
+      "source_type": "platform",
+      "source_name": "MagicBricks",
+      "posted_by": "Ritu Gupta",
+      "posted_date": "2026-08-31",
+      "is_active": true,
+      "address": {
+        "sector": "22",
+        "society": "Ambience Creacions",
+        "tower": "T9",
+        "city": "Gurgaon"
+      },
+      "bhk": 2,
+      "floor": 19,
+      "total_floors": 29,
+      "facing": "SE",
+      "carpet_sqft": 882,
+      "rent": 87139,
+      "maintenance": 5200,
+      "club": 0,
+      "furnishing": "fully-furnished",
+      "amenities": [
+        "covered parking",
+        "jogging track",
+        "swimming pool",
+        "visitor parking"
+      ],
+      "photo_hashes": [
+        "ac608ef7b5d5c297"
+      ],
+      "description": "2BHK for rent in Ambience Creacions, Sector 22. fully-furnished, floor 19. Genuine owner listing.",
+      "_true_unit_id": "UNIT-0076"
+    },
+    {
+      "listing_id": "MAGI-UNIT-0079-1",
+      "source_type": "platform",
+      "source_name": "MagicBricks",
+      "posted_by": "Priya Singh",
+      "posted_date": "2026-09-09",
+      "is_active": true,
+      "address": {
+        "sector": "82",
+        "society": "Vatika India Next",
+        "tower": "T7",
+        "city": "Gurgaon"
+      },
+      "bhk": 3,
+      "floor": 27,
+      "total_floors": 32,
+      "facing": "SW",
+      "carpet_sqft": 1424,
+      "rent": 121306,
+      "maintenance": 5400,
+      "club": 2500,
+      "furnishing": "unfurnished",
+      "amenities": [
+        "children's play area",
+        "piped gas",
+        "swimming pool",
+        "CCTV surveillance"
+      ],
+      "photo_hashes": [
+        "5ca9f7ac8cb36208",
+        "5ca9f7ac8cb56d0e",
+        "5aa9f7ac8cb3650e",
+        "5ca9f7a48cb36502"
+      ],
+      "description": "3BHK for rent in Vatika India Next, Sector 82. unfurnished, floor 27. Genuine owner listing.",
+      "_true_unit_id": "UNIT-0079"
+    },
+    {
+      "listing_id": "99AC-UNIT-0079-2",
+      "source_type": "platform",
+      "source_name": "99acres",
+      "posted_by": "Amit Chauhan",
+      "posted_date": "2026-08-29",
+      "is_active": true,
+      "address": {
+        "sector": "82",
+        "society": "Vatika India Next",
+        "tower": "T7",
+        "city": "Gurgaon"
+      },
+      "bhk": 3,
+      "floor": 27,
+      "total_floors": 32,
+      "facing": "SW",
+      "carpet_sqft": 1426,
+      "rent": 114722,
+      "maintenance": 5400,
+      "club": 2500,
+      "furnishing": "unfurnished",
+      "amenities": [
+        "children's play area",
+        "piped gas",
+        "swimming pool",
+        "pet friendly"
+      ],
+      "photo_hashes": [
+        "5c1df7ac8cb3630e"
+      ],
+      "description": "3BHK for rent in Vatika India Next, Sector 82. unfurnished, floor 27. Genuine owner listing.",
+      "_true_unit_id": "UNIT-0079"
+    },
+    {
+      "listing_id": "MAGI-UNIT-0083-1",
+      "source_type": "platform",
+      "source_name": "MagicBricks",
+      "posted_by": "Anita Yadav",
+      "posted_date": "2026-09-01",
+      "is_active": true,
+      "address": {
+        "sector": "90",
+        "society": "DLF Regal Gardens",
+        "tower": "T2",
+        "city": "Gurgaon"
+      },
+      "bhk": 3,
+      "floor": 25,
+      "total_floors": 34,
+      "facing": "S",
+      "carpet_sqft": 1479,
+      "rent": 125470,
+      "maintenance": 4700,
+      "club": 1500,
+      "furnishing": "unfurnished",
+      "amenities": [
+        "covered parking",
+        "gym",
+        "pet friendly",
+        "modular kitchen"
+      ],
+      "photo_hashes": [
+        "cc3bbe5324a37935",
+        "cc3bbe5fa4a17935",
+        "cc31be5944a379e5",
+        "cc33be5924a37935"
+      ],
+      "description": "3BHK for rent in DLF Regal Gardens, Sector 90. unfurnished, floor 25. Genuine owner listing.",
+      "_true_unit_id": "UNIT-0083"
+    },
+    {
+      "listing_id": "HOUS-UNIT-0083-2",
+      "source_type": "platform",
+      "source_name": "Housing.com",
+      "posted_by": "Ritu Verma",
+      "posted_date": "2026-08-12",
+      "is_active": false,
+      "address": {
+        "sector": "90",
+        "society": "DLF Regal Gardens",
+        "tower": "T2",
+        "city": "Gurgaon"
+      },
+      "bhk": 3,
+      "floor": 25,
+      "total_floors": 34,
+      "facing": "S",
+      "carpet_sqft": 1499,
+      "rent": 126054,
+      "maintenance": 4700,
+      "club": 1500,
+      "furnishing": "unfurnished",
+      "amenities": [
+        "covered parking",
+        "gym",
+        "pet friendly",
+        "modular kitchen",
+        "children's play area"
+      ],
+      "photo_hashes": [
+        "cc3b3ee924aa7935",
+        "7c3bbe5924a3793a"
+      ],
+      "description": "Spacious 3 BHK available in DLF Regal Gardens, S-facing, 1499 sqft. Contact for viewing.",
+      "_true_unit_id": "UNIT-0083"
+    },
+    {
+      "listing_id": "MAGI-UNIT-0085-1",
+      "source_type": "platform",
+      "source_name": "MagicBricks",
+      "posted_by": "Rajesh Bansal",
+      "posted_date": "2026-08-14",
+      "is_active": true,
+      "address": {
+        "sector": "78",
+        "society": "Godrej Habitat",
+        "tower": "T1",
+        "city": "Gurgaon"
+      },
+      "bhk": 2,
+      "floor": 3,
+      "total_floors": 17,
+      "facing": "NE",
+      "carpet_sqft": 855,
+      "rent": 109430,
+      "maintenance": 4400,
+      "club": 2500,
+      "furnishing": "semi-furnished",
+      "amenities": [
+        "CCTV surveillance",
+        "pet friendly",
+        "piped gas"
+      ],
+      "photo_hashes": [
+        "338b1e6d3d91e8b2",
+        "33811e6d3793e8b2",
+        "338e1e6d3791e8b2"
+      ],
+      "description": "Well maintained 2 BHK, Godrej Habitat. Ideal for families. semi-furnished unit, immediate possession.",
+      "_true_unit_id": "UNIT-0085"
+    },
+    {
+      "listing_id": "99AC-UNIT-0085-2",
+      "source_type": "platform",
+      "source_name": "99acres",
+      "posted_by": "Manoj Bansal",
+      "posted_date": "2026-08-28",
+      "is_active": true,
+      "address": {
+        "sector": "78",
+        "society": "Godrej Habitat",
+        "tower": "T1",
+        "city": "Gurgaon"
+      },
+      "bhk": 2,
+      "floor": 3,
+      "total_floors": 17,
+      "facing": "NE",
+      "carpet_sqft": 863,
+      "rent": 107044,
+      "maintenance": 4400,
+      "club": 2500,
+      "furnishing": "semi-furnished",
+      "amenities": [
+        "CCTV surveillance",
+        "pet friendly",
+        "piped gas",
+        "visitor parking"
+      ],
+      "photo_hashes": [
+        "338bce6d3991e8b2",
+        "338b1e63376ee8b2"
+      ],
+      "description": "Spacious 2 BHK available in Godrej Habitat, NE-facing, 863 sqft. Contact for viewing.",
+      "_true_unit_id": "UNIT-0085"
+    },
+    {
+      "listing_id": "MAGI-UNIT-0087-1",
+      "source_type": "platform",
+      "source_name": "MagicBricks",
+      "posted_by": "Kavita Gupta",
+      "posted_date": "2026-08-21",
+      "is_active": true,
+      "address": {
+        "sector": "48",
+        "society": "Bestech Park View",
+        "tower": "T3",
+        "city": "Gurgaon"
+      },
+      "bhk": 4,
+      "floor": 13,
+      "total_floors": 31,
+      "facing": "NE",
+      "carpet_sqft": 2039,
+      "rent": 99403,
+      "maintenance": 4500,
+      "club": 2000,
+      "furnishing": "unfurnished",
+      "amenities": [
+        "jogging track",
+        "modular kitchen",
+        "gym"
+      ],
+      "photo_hashes": [
+        "befa02eb2c2d6f4a",
+        "befa02ec2c1d6c8a"
+      ],
+      "description": "4BHK for rent in Bestech Park View, Sector 48. unfurnished, floor 13. Genuine owner listing.",
+      "_true_unit_id": "UNIT-0087"
+    },
+    {
+      "listing_id": "99AC-UNIT-0087-2",
+      "source_type": "platform",
+      "source_name": "99acres",
+      "posted_by": "Ritu Chauhan",
+      "posted_date": "2026-08-05",
+      "is_active": true,
+      "address": {
+        "sector": "48",
+        "society": "Bestech Park View",
+        "tower": "T3",
+        "city": "Gurgaon"
+      },
+      "bhk": 4,
+      "floor": 13,
+      "total_floors": 31,
+      "facing": "NE",
+      "carpet_sqft": 2045,
+      "rent": 102710,
+      "maintenance": 4500,
+      "club": 2000,
+      "furnishing": "unfurnished",
+      "amenities": [
+        "jogging track",
+        "modular kitchen",
+        "gym"
+      ],
+      "photo_hashes": [
+        "b66a02eb2c6d6f80"
+      ],
+      "description": "Spacious 4 BHK available in Bestech Park View, NE-facing, 2045 sqft. Contact for viewing.",
+      "_true_unit_id": "UNIT-0087"
+    },
+    {
+      "listing_id": "HOUS-UNIT-0087-3",
+      "source_type": "platform",
+      "source_name": "Housing.com",
+      "posted_by": "Kavita Singh",
+      "posted_date": "2026-09-09",
+      "is_active": true,
+      "address": {
+        "sector": "48",
+        "society": "Bestech Park View",
+        "tower": "T3",
+        "city": "Gurgaon"
+      },
+      "bhk": 4,
+      "floor": 13,
+      "total_floors": 31,
+      "facing": "NE",
+      "carpet_sqft": 2055,
+      "rent": 101127,
+      "maintenance": 4500,
+      "club": 2000,
+      "furnishing": "unfurnished",
+      "amenities": [
+        "jogging track",
+        "gym"
+      ],
+      "photo_hashes": [
+        "affa02eb2ccd6f8a"
+      ],
+      "description": "Spacious 4 BHK available in Bestech Park View, NE-facing, 2055 sqft. Contact for viewing.",
+      "_true_unit_id": "UNIT-0087"
+    },
+    {
+      "listing_id": "99AC-UNIT-0089-1",
+      "source_type": "platform",
+      "source_name": "99acres",
+      "posted_by": "Sunita Verma",
+      "posted_date": "2026-08-12",
+      "is_active": true,
+      "address": {
+        "sector": "102",
+        "society": "Adani Oyster Grande",
+        "tower": "T7",
+        "city": "Gurgaon"
+      },
+      "bhk": 4,
+      "floor": 6,
+      "total_floors": 26,
+      "facing": "NE",
+      "carpet_sqft": 2068,
+      "rent": 43214,
+      "maintenance": 2500,
+      "club": 2000,
+      "furnishing": "fully-furnished",
+      "amenities": [
+        "visitor parking",
+        "24x7 power backup"
+      ],
+      "photo_hashes": [
+        "6f247e00a3d5f27c",
+        "6f247e00a3d4fe7c"
+      ],
+      "description": "Well maintained 4 BHK, Adani Oyster Grande. Ideal for families. fully-furnished unit, immediate possession.",
+      "_true_unit_id": "UNIT-0089"
+    },
+    {
+      "listing_id": "HOUS-UNIT-0089-2",
+      "source_type": "platform",
+      "source_name": "Housing.com",
+      "posted_by": "Sunita Chauhan",
+      "posted_date": "2026-09-14",
+      "is_active": false,
+      "address": {
+        "sector": "102",
+        "society": "Adani Oyster Grande",
+        "tower": "T7",
+        "city": "Gurgaon"
+      },
+      "bhk": 4,
+      "floor": 6,
+      "total_floors": 26,
+      "facing": "NE",
+      "carpet_sqft": 2087,
+      "rent": 42524,
+      "maintenance": 2500,
+      "club": 2000,
+      "furnishing": "fully-furnished",
+      "amenities": [
+        "visitor parking",
+        "covered parking"
+      ],
+      "photo_hashes": [
+        "65247e90a3d4b27c",
+        "6fc47e00a3d4f27c",
+        "6f247ea0d384f27c"
+      ],
+      "description": "Well maintained 4 BHK, Adani Oyster Grande. Ideal for families. fully-furnished unit, immediate possession.",
+      "_true_unit_id": "UNIT-0089"
+    },
+    {
+      "listing_id": "MAGI-UNIT-0089-3",
+      "source_type": "platform",
+      "source_name": "MagicBricks",
+      "posted_by": "Ritu Gupta",
+      "posted_date": "2026-08-02",
+      "is_active": true,
+      "address": {
+        "sector": "102",
+        "society": "Adani Oyster Grande",
+        "tower": "T7",
+        "city": "Gurgaon"
+      },
+      "bhk": 4,
+      "floor": 6,
+      "total_floors": 26,
+      "facing": "NE",
+      "carpet_sqft": 2071,
+      "rent": 41806,
+      "maintenance": 2500,
+      "club": 2000,
+      "furnishing": "fully-furnished",
+      "amenities": [
+        "covered parking",
+        "24x7 power backup"
+      ],
+      "photo_hashes": [
+        "5f247e00a3d4ff70"
+      ],
+      "description": "4BHK for rent in Adani Oyster Grande, Sector 102. fully-furnished, floor 6. Genuine owner listing.",
+      "_true_unit_id": "UNIT-0089"
+    },
+    {
+      "listing_id": "HOUS-UNIT-0091-1",
+      "source_type": "platform",
+      "source_name": "Housing.com",
+      "posted_by": "Priya Bansal",
+      "posted_date": "2026-09-06",
+      "is_active": true,
+      "address": {
+        "sector": "48",
+        "society": "Bestech Park View",
+        "tower": "T2",
+        "city": "Gurgaon"
+      },
+      "bhk": 2,
+      "floor": 8,
+      "total_floors": 15,
+      "facing": "NE",
+      "carpet_sqft": 1039,
+      "rent": 73695,
+      "maintenance": 2200,
+      "club": 1500,
+      "furnishing": "unfurnished",
+      "amenities": [
+        "piped gas",
+        "modular kitchen",
+        "24x7 power backup",
+        "CCTV surveillance"
+      ],
+      "photo_hashes": [
+        "8fc37f20ba4cdb5f",
+        "7fc37f20badcd10f",
+        "7fc37f203a4cdbff"
+      ],
+      "description": "Well maintained 2 BHK, Bestech Park View. Ideal for families. unfurnished unit, immediate possession.",
+      "_true_unit_id": "UNIT-0091"
+    },
+    {
+      "listing_id": "MAGI-UNIT-0091-2",
+      "source_type": "platform",
+      "source_name": "MagicBricks",
+      "posted_by": "Rajesh Malhotra",
+      "posted_date": "2026-08-24",
+      "is_active": true,
+      "address": {
+        "sector": "48",
+        "society": "Bestech Park View",
+        "tower": "T2",
+        "city": "Gurgaon"
+      },
+      "bhk": 2,
+      "floor": 8,
+      "total_floors": 15,
+      "facing": "NE",
+      "carpet_sqft": 1044,
+      "rent": 70243,
+      "maintenance": 2200,
+      "club": 1500,
+      "furnishing": "unfurnished",
+      "amenities": [
+        "modular kitchen",
+        "swimming pool",
+        "jogging track",
+        "gym",
+        "24x7 power backup",
+        "CCTV surveillance"
+      ],
+      "photo_hashes": [
+        "7fc37f26ba4cdb5f",
+        "7fc37f20ba9cdb5f",
+        "7fc07f20ba4cdb5f",
+        "7fc37f20ba8cd05f"
+      ],
+      "description": "Spacious 2 BHK available in Bestech Park View, NE-facing, 1044 sqft. Contact for viewing.",
+      "_true_unit_id": "UNIT-0091"
+    },
+    {
+      "listing_id": "99AC-UNIT-0100-1",
+      "source_type": "platform",
+      "source_name": "99acres",
+      "posted_by": "Priya Verma",
+      "posted_date": "2026-08-06",
+      "is_active": false,
+      "address": {
+        "sector": "65",
+        "society": "M3M Heights",
+        "tower": "T3",
+        "city": "Gurgaon"
+      },
+      "bhk": 3,
+      "floor": 22,
+      "total_floors": 27,
+      "facing": "W",
+      "carpet_sqft": 1353,
+      "rent": 95418,
+      "maintenance": 3600,
+      "club": 2000,
+      "furnishing": "unfurnished",
+      "amenities": [
+        "piped gas",
+        "CCTV surveillance",
+        "visitor parking"
+      ],
+      "photo_hashes": [
+        "79fdf128c4d170cb"
+      ],
+      "description": "Well maintained 3 BHK, M3M Heights. Ideal for families. unfurnished unit, immediate possession.",
+      "_true_unit_id": "UNIT-0100"
+    },
+    {
+      "listing_id": "MAGI-UNIT-0100-2",
+      "source_type": "platform",
+      "source_name": "MagicBricks",
+      "posted_by": "Sanjay Malhotra",
+      "posted_date": "2026-08-13",
+      "is_active": true,
+      "address": {
+        "sector": "65",
+        "society": "M3M Heights",
+        "tower": "T3",
+        "city": "Gurgaon"
+      },
+      "bhk": 3,
+      "floor": 22,
+      "total_floors": 27,
+      "facing": "W",
+      "carpet_sqft": 1354,
+      "rent": 90400,
+      "maintenance": 3600,
+      "club": 2000,
+      "furnishing": "unfurnished",
+      "amenities": [
+        "piped gas",
+        "CCTV surveillance",
+        "visitor parking"
+      ],
+      "photo_hashes": [
+        "79fdf12809dc70cb",
+        "f9fdc128c4d670cb"
+      ],
+      "description": "3BHK for rent in M3M Heights, Sector 65. unfurnished, floor 22. Genuine owner listing.",
+      "_true_unit_id": "UNIT-0100"
+    },
+    {
+      "listing_id": "HOUS-UNIT-0104-1",
+      "source_type": "platform",
+      "source_name": "Housing.com",
+      "posted_by": "Sanjay Gupta",
+      "posted_date": "2026-09-08",
+      "is_active": true,
+      "address": {
+        "sector": "33",
+        "society": "Central Park Flower Valley",
+        "tower": "T6",
+        "city": "Gurgaon"
+      },
+      "bhk": 4,
+      "floor": 3,
+      "total_floors": 23,
+      "facing": "E",
+      "carpet_sqft": 2044,
+      "rent": 68893,
+      "maintenance": 4300,
+      "club": 0,
+      "furnishing": "fully-furnished",
+      "amenities": [
+        "24x7 power backup",
+        "swimming pool"
+      ],
+      "photo_hashes": [
+        "2b8501ced5dfcbc3",
+        "2b8c02ced5dfcbc3"
+      ],
+      "description": "4BHK for rent in Central Park Flower Valley, Sector 33. fully-furnished, floor 3. Genuine owner listing.",
+      "_true_unit_id": "UNIT-0104"
+    },
+    {
+      "listing_id": "99AC-UNIT-0105-1",
+      "source_type": "platform",
+      "source_name": "99acres",
+      "posted_by": "Manoj Bansal",
+      "posted_date": "2026-08-25",
+      "is_active": true,
+      "address": {
+        "sector": "109",
+        "society": "ATS Kocoon",
+        "tower": "T4",
+        "city": "Gurgaon"
+      },
+      "bhk": 3,
+      "floor": 26,
+      "total_floors": 28,
+      "facing": "SW",
+      "carpet_sqft": 1330,
+      "rent": 114172,
+      "maintenance": 6700,
+      "club": 0,
+      "furnishing": "semi-furnished",
+      "amenities": [
+        "children's play area",
+        "gym"
+      ],
+      "photo_hashes": [
+        "205c522afed5d513"
+      ],
+      "description": "Well maintained 3 BHK, ATS Kocoon. Ideal for families. semi-furnished unit, immediate possession.",
+      "_true_unit_id": "UNIT-0105"
+    },
+    {
+      "listing_id": "MAGI-UNIT-0105-2",
+      "source_type": "platform",
+      "source_name": "MagicBricks",
+      "posted_by": "Amit Sharma",
+      "posted_date": "2026-09-13",
+      "is_active": true,
+      "address": {
+        "sector": "109",
+        "society": "ATS Kocoon",
+        "tower": "T4",
+        "city": "Gurgaon"
+      },
+      "bhk": 3,
+      "floor": 26,
+      "total_floors": 28,
+      "facing": "SW",
+      "carpet_sqft": 1331,
+      "rent": 114627,
+      "maintenance": 6700,
+      "club": 0,
+      "furnishing": "semi-furnished",
+      "amenities": [
+        "children's play area"
+      ],
+      "photo_hashes": [
+        "2a5c5223f0d5d513"
+      ],
+      "description": "Spacious 3 BHK available in ATS Kocoon, SW-facing, 1331 sqft. Contact for viewing.",
+      "_true_unit_id": "UNIT-0105"
+    },
+    {
+      "listing_id": "HOUS-UNIT-0107-1",
+      "source_type": "platform",
+      "source_name": "Housing.com",
+      "posted_by": "Sanjay Arora",
+      "posted_date": "2026-09-16",
+      "is_active": true,
+      "address": {
+        "sector": "78",
+        "society": "Godrej Habitat",
+        "tower": "T8",
+        "city": "Gurgaon"
+      },
+      "bhk": 2,
+      "floor": 10,
+      "total_floors": 25,
+      "facing": "NE",
+      "carpet_sqft": 869,
+      "rent": 88119,
+      "maintenance": 4700,
+      "club": 2000,
+      "furnishing": "unfurnished",
+      "amenities": [
+        "jogging track",
+        "children's play area",
+        "clubhouse"
+      ],
+      "photo_hashes": [
+        "8ee8781432bd71cd",
+        "8ee8781432cd71cd",
+        "8ee8aa1432bd71c2",
+        "eee8781432bd71cd"
+      ],
+      "description": "Well maintained 2 BHK, Godrej Habitat. Ideal for families. unfurnished unit, immediate possession.",
+      "_true_unit_id": "UNIT-0107"
+    },
+    {
+      "listing_id": "MAGI-UNIT-0107-2",
+      "source_type": "platform",
+      "source_name": "MagicBricks",
+      "posted_by": "Kavita Verma",
+      "posted_date": "2026-08-15",
+      "is_active": true,
+      "address": {
+        "sector": "78",
+        "society": "Godrej Habitat",
+        "tower": "T8",
+        "city": "Gurgaon"
+      },
+      "bhk": 2,
+      "floor": 10,
+      "total_floors": 25,
+      "facing": "NE",
+      "carpet_sqft": 874,
+      "rent": 91720,
+      "maintenance": 4700,
+      "club": 2000,
+      "furnishing": "unfurnished",
+      "amenities": [
+        "jogging track",
+        "children's play area",
+        "clubhouse",
+        "pet friendly",
+        "24x7 power backup"
+      ],
+      "photo_hashes": [
+        "8ee8781432bf71cd"
+      ],
+      "description": "Spacious 2 BHK available in Godrej Habitat, NE-facing, 874 sqft. Contact for viewing.",
+      "_true_unit_id": "UNIT-0107"
+    },
+    {
+      "listing_id": "HOUS-UNIT-0114-1",
+      "source_type": "platform",
+      "source_name": "Housing.com",
+      "posted_by": "Rajesh Kapoor",
+      "posted_date": "2026-09-01",
+      "is_active": true,
+      "address": {
+        "sector": "102",
+        "society": "Adani Oyster Grande",
+        "tower": "T8",
+        "city": "Gurgaon"
+      },
+      "bhk": 2,
+      "floor": 24,
+      "total_floors": 28,
+      "facing": "NE",
+      "carpet_sqft": 954,
+      "rent": 40045,
+      "maintenance": 1800,
+      "club": 0,
+      "furnishing": "fully-furnished",
+      "amenities": [
+        "children's play area",
+        "modular kitchen",
+        "pet friendly",
+        "gym"
+      ],
+      "photo_hashes": [
+        "95593f485a27ba9a",
+        "95593f4b5aa7b79d",
+        "9b593f485a37c79d"
+      ],
+      "description": "Spacious 2 BHK available in Adani Oyster Grande, NE-facing, 954 sqft. Contact for viewing.",
+      "_true_unit_id": "UNIT-0114"
+    }
+  ]

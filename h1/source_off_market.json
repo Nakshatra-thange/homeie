@@ -1,0 +1,2814 @@
+[
+    {
+      "listing_id": "GGN -UNIT-0000-1",
+      "source_type": "hidden_group",
+      "source_name": "GGN 3BHK Exchange (WA)",
+      "posted_by": "Priya Bansal",
+      "posted_date": "2026-08-31",
+      "is_active": true,
+      "address": {
+        "sector": "102",
+        "society": "Adani Oyster Grande",
+        "tower": "T5",
+        "city": "Gurgaon"
+      },
+      "bhk": 2,
+      "floor": 1,
+      "total_floors": 16,
+      "facing": "W",
+      "carpet_sqft": 918,
+      "rent": 126120,
+      "maintenance": 7700,
+      "club": 2500,
+      "furnishing": "unfurnished",
+      "amenities": [
+        "jogging track",
+        "24x7 power backup",
+        "covered parking",
+        "modular kitchen",
+        "gym"
+      ],
+      "photo_hashes": [
+        "e647e805da146a32",
+        "0617e805da846a32",
+        "06d7e8052a846a32",
+        "06d7e808da846cc2"
+      ],
+      "description": "Direct from owner: Adani Oyster Grande 2BHK, 918 sq ft approx, negotiable",
+      "_true_unit_id": "UNIT-0000"
+    },
+    {
+      "listing_id": "GOLF-UNIT-0000-2",
+      "source_type": "hidden_group",
+      "source_name": "Golf Course Ext Owners Group (WA)",
+      "posted_by": "Deepak Verma",
+      "posted_date": "2026-09-03",
+      "is_active": true,
+      "address": {
+        "sector": "102",
+        "society": "Adani Oyster Grande",
+        "tower": "T5",
+        "city": "Gurgaon"
+      },
+      "bhk": 2,
+      "floor": 1,
+      "total_floors": 16,
+      "facing": "W",
+      "carpet_sqft": 876,
+      "rent": 129149,
+      "maintenance": 7700,
+      "club": 2500,
+      "furnishing": "unfurnished",
+      "amenities": [
+        "24x7 power backup",
+        "covered parking",
+        "modular kitchen",
+        "gym"
+      ],
+      "photo_hashes": [
+        "06d7e805de84ca32",
+        "f6d7c705da846a32",
+        "46d7e805db846a32"
+      ],
+      "description": "Direct from owner: Adani Oyster Grande 2BHK, 876 sq ft approx, negotiable",
+      "_true_unit_id": "UNIT-0000"
+    },
+    {
+      "listing_id": "SOHN-UNIT-0002-1",
+      "source_type": "hidden_group",
+      "source_name": "Sohna Road Rentals (WA)",
+      "posted_by": "Neha Yadav",
+      "posted_date": "2026-09-07",
+      "is_active": true,
+      "address": {
+        "sector": "108",
+        "society": "Sobha City",
+        "tower": "T8",
+        "city": "Gurgaon"
+      },
+      "bhk": 4,
+      "floor": 8,
+      "total_floors": 20,
+      "facing": "NE",
+      "carpet_sqft": 2039,
+      "rent": 57310,
+      "maintenance": 3200,
+      "club": 1000,
+      "furnishing": "fully-furnished",
+      "amenities": [
+        "CCTV surveillance",
+        "24x7 power backup",
+        "swimming pool",
+        "visitor parking",
+        "children's play area"
+      ],
+      "photo_hashes": [
+        "a826a6fce48478dc",
+        "c826a6fde48478dc",
+        "c826a6fce4f478dc",
+        "c826a6fcef8478bc"
+      ],
+      "description": "Owner shifting - 4 BHK Sobha City open for rent, brokers welcome 1 month",
+      "_true_unit_id": "UNIT-0002"
+    },
+    {
+      "listing_id": "SOHN-UNIT-0003-1",
+      "source_type": "hidden_group",
+      "source_name": "Sohna Road Rentals (WA)",
+      "posted_by": "Rajesh Arora",
+      "posted_date": "2026-09-08",
+      "is_active": true,
+      "address": {
+        "sector": "33",
+        "society": "Central Park Flower Valley",
+        "tower": "T8",
+        "city": "Gurgaon"
+      },
+      "bhk": 2,
+      "floor": 5,
+      "total_floors": 7,
+      "facing": "N",
+      "carpet_sqft": 897,
+      "rent": 98120,
+      "maintenance": 3600,
+      "club": 1000,
+      "furnishing": "fully-furnished",
+      "amenities": [
+        "piped gas",
+        "covered parking",
+        "gym"
+      ],
+      "photo_hashes": [
+        "038ab915f0853964",
+        "038ae9d9e0853964",
+        "03ca39d5e0803964",
+        "038af5d5e0853964"
+      ],
+      "description": "2bhk Central Park Flower Valley sec 33 available!! fully-furnished floor 5 call fast",
+      "_true_unit_id": "UNIT-0003"
+    },
+    {
+      "listing_id": "DLF -UNIT-0005-1",
+      "source_type": "hidden_group",
+      "source_name": "DLF Phase Brokers Circle (WA)",
+      "posted_by": "Priya Gupta",
+      "posted_date": "2026-09-01",
+      "is_active": true,
+      "address": {
+        "sector": "60",
+        "society": "Ireo Skyon",
+        "tower": "T6",
+        "city": "Gurgaon"
+      },
+      "bhk": 2,
+      "floor": 8,
+      "total_floors": 8,
+      "facing": "W",
+      "carpet_sqft": 993,
+      "rent": 41732,
+      "maintenance": 1700,
+      "club": 0,
+      "furnishing": "fully-furnished",
+      "amenities": [
+        "24x7 power backup"
+      ],
+      "photo_hashes": [
+        "a278f64f7fd333db",
+        "a278f64d7f3633df"
+      ],
+      "description": "Owner shifting - 2 BHK Ireo Skyon open for rent, brokers welcome 1 month",
+      "_true_unit_id": "UNIT-0005"
+    },
+    {
+      "listing_id": "GGN -UNIT-0005-2",
+      "source_type": "hidden_group",
+      "source_name": "GGN 3BHK Exchange (WA)",
+      "posted_by": "Vikram Bansal",
+      "posted_date": "2026-09-01",
+      "is_active": true,
+      "address": {
+        "sector": "60",
+        "society": "Ireo Skyon",
+        "tower": "T6",
+        "city": "Gurgaon"
+      },
+      "bhk": 2,
+      "floor": 8,
+      "total_floors": 8,
+      "facing": "W",
+      "carpet_sqft": 1011,
+      "rent": 42264,
+      "maintenance": 1700,
+      "club": 0,
+      "furnishing": "fully-furnished",
+      "amenities": [
+        "24x7 power backup"
+      ],
+      "photo_hashes": [
+        "a2781c4f7fd633db"
+      ],
+      "description": "2bhk Ireo Skyon sec 60 available!! fully-furnished floor 8 call fast",
+      "_true_unit_id": "UNIT-0005"
+    },
+    {
+      "listing_id": "DLF -UNIT-0018-1",
+      "source_type": "hidden_group",
+      "source_name": "DLF Phase Brokers Circle (WA)",
+      "posted_by": "Sunita Malhotra",
+      "posted_date": "2026-08-30",
+      "is_active": true,
+      "address": {
+        "sector": "109",
+        "society": "ATS Kocoon",
+        "tower": "T4",
+        "city": "Gurgaon"
+      },
+      "bhk": 2,
+      "floor": 20,
+      "total_floors": 24,
+      "facing": "SW",
+      "carpet_sqft": 1009,
+      "rent": 54163,
+      "maintenance": 1900,
+      "club": 1000,
+      "furnishing": "semi-furnished",
+      "amenities": [
+        "clubhouse",
+        "piped gas",
+        "covered parking"
+      ],
+      "photo_hashes": [
+        "59301cc6273931bd",
+        "59399cc6473931bd",
+        "59300cc22739310d"
+      ],
+      "description": "2bhk ATS Kocoon sec 109 available!! semi-furnished floor 20 call fast",
+      "_true_unit_id": "UNIT-0018"
+    },
+    {
+      "listing_id": "GOLF-UNIT-0018-2",
+      "source_type": "hidden_group",
+      "source_name": "Golf Course Ext Owners Group (WA)",
+      "posted_by": "Vikram Sharma",
+      "posted_date": "2026-09-01",
+      "is_active": true,
+      "address": {
+        "sector": "109",
+        "society": "ATS Kocoon",
+        "tower": "T4",
+        "city": "Gurgaon"
+      },
+      "bhk": 2,
+      "floor": 20,
+      "total_floors": 24,
+      "facing": "SW",
+      "carpet_sqft": 1055,
+      "rent": 54195,
+      "maintenance": 1900,
+      "club": 1000,
+      "furnishing": "semi-furnished",
+      "amenities": [
+        "CCTV surveillance",
+        "children's play area",
+        "clubhouse",
+        "piped gas",
+        "covered parking"
+      ],
+      "photo_hashes": [
+        "59f096c6273931bd",
+        "59379cc6273901bd",
+        "56309cc62739317d"
+      ],
+      "description": "Owner shifting - 2 BHK ATS Kocoon open for rent, brokers welcome 1 month",
+      "_true_unit_id": "UNIT-0018"
+    },
+    {
+      "listing_id": "GGN -UNIT-0019-1",
+      "source_type": "hidden_group",
+      "source_name": "GGN 3BHK Exchange (WA)",
+      "posted_by": "Priya Yadav",
+      "posted_date": "2026-09-01",
+      "is_active": true,
+      "address": {
+        "sector": "102",
+        "society": "Adani Oyster Grande",
+        "tower": "T6",
+        "city": "Gurgaon"
+      },
+      "bhk": 3,
+      "floor": 3,
+      "total_floors": 3,
+      "facing": "SE",
+      "carpet_sqft": 1471,
+      "rent": 103642,
+      "maintenance": 3400,
+      "club": 1500,
+      "furnishing": "fully-furnished",
+      "amenities": [
+        "visitor parking",
+        "jogging track",
+        "CCTV surveillance",
+        "modular kitchen",
+        "gym"
+      ],
+      "photo_hashes": [
+        "fed8a73de70ca0fa"
+      ],
+      "description": "3bhk Adani Oyster Grande sec 102 available!! fully-furnished floor 3 call fast",
+      "_true_unit_id": "UNIT-0019"
+    },
+    {
+      "listing_id": "GOLF-UNIT-0020-1",
+      "source_type": "hidden_group",
+      "source_name": "Golf Course Ext Owners Group (WA)",
+      "posted_by": "Manoj Bansal",
+      "posted_date": "2026-09-11",
+      "is_active": true,
+      "address": {
+        "sector": "63A",
+        "society": "Birla Navya",
+        "tower": "T5",
+        "city": "Gurgaon"
+      },
+      "bhk": 3,
+      "floor": 7,
+      "total_floors": 17,
+      "facing": "NE",
+      "carpet_sqft": 1532,
+      "rent": 83250,
+      "maintenance": 4600,
+      "club": 1500,
+      "furnishing": "fully-furnished",
+      "amenities": [
+        "modular kitchen",
+        "covered parking"
+      ],
+      "photo_hashes": [
+        "7df7ffe0297c79b4",
+        "7df3ffe02a7c7abf",
+        "76175fe0297c79bf",
+        "7df7ffe0297c79b6"
+      ],
+      "description": "Owner shifting - 3 BHK Birla Navya open for rent, brokers welcome 1 month",
+      "_true_unit_id": "UNIT-0020"
+    },
+    {
+      "listing_id": "SOHN-UNIT-0022-1",
+      "source_type": "hidden_group",
+      "source_name": "Sohna Road Rentals (WA)",
+      "posted_by": "Deepak Malhotra",
+      "posted_date": "2026-09-01",
+      "is_active": true,
+      "address": {
+        "sector": "62",
+        "society": "Emaar Digi Homes",
+        "tower": "T5",
+        "city": "Gurgaon"
+      },
+      "bhk": 2,
+      "floor": 2,
+      "total_floors": 10,
+      "facing": "SW",
+      "carpet_sqft": 864,
+      "rent": 106650,
+      "maintenance": 6800,
+      "club": 2500,
+      "furnishing": "semi-furnished",
+      "amenities": [
+        "pet friendly",
+        "children's play area",
+        "clubhouse"
+      ],
+      "photo_hashes": [
+        "f32cf27249273d7c",
+        "f33cf21449273a7c",
+        "f32cf2a4492b3d7c",
+        "932cfb1449273d7c"
+      ],
+      "description": "Direct from owner: Emaar Digi Homes 2BHK, 864 sq ft approx, negotiable",
+      "_true_unit_id": "UNIT-0022"
+    },
+    {
+      "listing_id": "SOHN-UNIT-0025-1",
+      "source_type": "hidden_group",
+      "source_name": "Sohna Road Rentals (WA)",
+      "posted_by": "Sanjay Kapoor",
+      "posted_date": "2026-08-27",
+      "is_active": true,
+      "address": {
+        "sector": "90",
+        "society": "DLF Regal Gardens",
+        "tower": "T1",
+        "city": "Gurgaon"
+      },
+      "bhk": 4,
+      "floor": 27,
+      "total_floors": 31,
+      "facing": "N",
+      "carpet_sqft": 1825,
+      "rent": 105335,
+      "maintenance": 5300,
+      "club": 2000,
+      "furnishing": "semi-furnished",
+      "amenities": [
+        "piped gas",
+        "jogging track",
+        "rainwater harvesting"
+      ],
+      "photo_hashes": [
+        "2fbaaa35adf9c1e2",
+        "2fbdaae5adf9c1e2"
+      ],
+      "description": "Owner shifting - 4 BHK DLF Regal Gardens open for rent, brokers welcome 1 month",
+      "_true_unit_id": "UNIT-0025"
+    },
+    {
+      "listing_id": "GGN -UNIT-0025-2",
+      "source_type": "hidden_group",
+      "source_name": "GGN 3BHK Exchange (WA)",
+      "posted_by": "Manoj Yadav",
+      "posted_date": "2026-08-30",
+      "is_active": true,
+      "address": {
+        "sector": "90",
+        "society": "DLF Regal Gardens",
+        "tower": "T1",
+        "city": "Gurgaon"
+      },
+      "bhk": 4,
+      "floor": 27,
+      "total_floors": 31,
+      "facing": "N",
+      "carpet_sqft": 1798,
+      "rent": 104945,
+      "maintenance": 5300,
+      "club": 2000,
+      "furnishing": "semi-furnished",
+      "amenities": [
+        "piped gas",
+        "jogging track",
+        "rainwater harvesting"
+      ],
+      "photo_hashes": [
+        "2fbdaa35c7f9c1e2",
+        "2fbdaa357df9c1e2",
+        "2fbdaa35adc9c1e2"
+      ],
+      "description": "Direct from owner: DLF Regal Gardens 4BHK, 1798 sq ft approx, negotiable",
+      "_true_unit_id": "UNIT-0025"
+    },
+    {
+      "listing_id": "GOLF-UNIT-0028-1",
+      "source_type": "hidden_group",
+      "source_name": "Golf Course Ext Owners Group (WA)",
+      "posted_by": "Vikram Gupta",
+      "posted_date": "2026-08-31",
+      "is_active": true,
+      "address": {
+        "sector": "33",
+        "society": "Central Park Flower Valley",
+        "tower": "T7",
+        "city": "Gurgaon"
+      },
+      "bhk": 3,
+      "floor": 18,
+      "total_floors": 32,
+      "facing": "NW",
+      "carpet_sqft": 1347,
+      "rent": 105972,
+      "maintenance": 7200,
+      "club": 1000,
+      "furnishing": "fully-furnished",
+      "amenities": [
+        "swimming pool",
+        "children's play area",
+        "pet friendly",
+        "visitor parking"
+      ],
+      "photo_hashes": [
+        "cdf14a3e3904d49f",
+        "84f1633e3e04d42f"
+      ],
+      "description": "Owner shifting - 3 BHK Central Park Flower Valley open for rent, brokers welcome 1 month",
+      "_true_unit_id": "UNIT-0028"
+    },
+    {
+      "listing_id": "GOLF-UNIT-0036-1",
+      "source_type": "hidden_group",
+      "source_name": "Golf Course Ext Owners Group (WA)",
+      "posted_by": "Sanjay Arora",
+      "posted_date": "2026-09-13",
+      "is_active": true,
+      "address": {
+        "sector": "69",
+        "society": "Tulip Violet",
+        "tower": "T2",
+        "city": "Gurgaon"
+      },
+      "bhk": 3,
+      "floor": 17,
+      "total_floors": 32,
+      "facing": "SW",
+      "carpet_sqft": 1410,
+      "rent": 48147,
+      "maintenance": 2500,
+      "club": 0,
+      "furnishing": "semi-furnished",
+      "amenities": [
+        "swimming pool",
+        "piped gas",
+        "modular kitchen",
+        "gym",
+        "pet friendly",
+        "children's play area"
+      ],
+      "photo_hashes": [
+        "019cd3fe22a4248a",
+        "f4fcd3fe22e4248a"
+      ],
+      "description": "3bhk Tulip Violet sec 69 available!! semi-furnished floor 17 call fast",
+      "_true_unit_id": "UNIT-0036"
+    },
+    {
+      "listing_id": "DLF -UNIT-0036-2",
+      "source_type": "hidden_group",
+      "source_name": "DLF Phase Brokers Circle (WA)",
+      "posted_by": "Priya Bansal",
+      "posted_date": "2026-09-15",
+      "is_active": true,
+      "address": {
+        "sector": "69",
+        "society": "Tulip Violet",
+        "tower": "T2",
+        "city": "Gurgaon"
+      },
+      "bhk": 3,
+      "floor": 17,
+      "total_floors": 32,
+      "facing": "SW",
+      "carpet_sqft": 1430,
+      "rent": 47740,
+      "maintenance": 2500,
+      "club": 0,
+      "furnishing": "semi-furnished",
+      "amenities": [
+        "piped gas",
+        "24x7 power backup",
+        "modular kitchen",
+        "gym",
+        "pet friendly",
+        "children's play area"
+      ],
+      "photo_hashes": [
+        "01fc23fe22a4243a"
+      ],
+      "description": "Owner shifting - 3 BHK Tulip Violet open for rent, brokers welcome 1 month",
+      "_true_unit_id": "UNIT-0036"
+    },
+    {
+      "listing_id": "GOLF-UNIT-0037-1",
+      "source_type": "hidden_group",
+      "source_name": "Golf Course Ext Owners Group (WA)",
+      "posted_by": "Sunita Verma",
+      "posted_date": "2026-09-09",
+      "is_active": true,
+      "address": {
+        "sector": "82",
+        "society": "Vatika India Next",
+        "tower": "T8",
+        "city": "Gurgaon"
+      },
+      "bhk": 3,
+      "floor": 17,
+      "total_floors": 33,
+      "facing": "SE",
+      "carpet_sqft": 1317,
+      "rent": 74999,
+      "maintenance": 4400,
+      "club": 0,
+      "furnishing": "fully-furnished",
+      "amenities": [
+        "visitor parking",
+        "swimming pool",
+        "jogging track",
+        "pet friendly",
+        "CCTV surveillance",
+        "rainwater harvesting"
+      ],
+      "photo_hashes": [
+        "ecd3ada8bbf2225d",
+        "ecd33da8b422322d",
+        "ecd3ada8b4f227cd"
+      ],
+      "description": "Owner shifting - 3 BHK Vatika India Next open for rent, brokers welcome 1 month",
+      "_true_unit_id": "UNIT-0037"
+    },
+    {
+      "listing_id": "SOHN-UNIT-0037-2",
+      "source_type": "hidden_group",
+      "source_name": "Sohna Road Rentals (WA)",
+      "posted_by": "Ritu Malhotra",
+      "posted_date": "2026-08-28",
+      "is_active": true,
+      "address": {
+        "sector": "82",
+        "society": "Vatika India Next",
+        "tower": "T8",
+        "city": "Gurgaon"
+      },
+      "bhk": 3,
+      "floor": 17,
+      "total_floors": 33,
+      "facing": "SE",
+      "carpet_sqft": 1331,
+      "rent": 70755,
+      "maintenance": 4400,
+      "club": 0,
+      "furnishing": "fully-furnished",
+      "amenities": [
+        "jogging track",
+        "pet friendly",
+        "CCTV surveillance",
+        "rainwater harvesting",
+        "clubhouse"
+      ],
+      "photo_hashes": [
+        "ecfeada8b432222d",
+        "ecd3a9a8b4f2222d"
+      ],
+      "description": "Owner shifting - 3 BHK Vatika India Next open for rent, brokers welcome 1 month",
+      "_true_unit_id": "UNIT-0037"
+    },
+    {
+      "listing_id": "DLF -UNIT-0043-1",
+      "source_type": "hidden_group",
+      "source_name": "DLF Phase Brokers Circle (WA)",
+      "posted_by": "Vikram Malhotra",
+      "posted_date": "2026-09-14",
+      "is_active": true,
+      "address": {
+        "sector": "102",
+        "society": "Adani Oyster Grande",
+        "tower": "T6",
+        "city": "Gurgaon"
+      },
+      "bhk": 3,
+      "floor": 21,
+      "total_floors": 34,
+      "facing": "NW",
+      "carpet_sqft": 1331,
+      "rent": 118046,
+      "maintenance": 5500,
+      "club": 2000,
+      "furnishing": "semi-furnished",
+      "amenities": [
+        "CCTV surveillance",
+        "gym",
+        "piped gas",
+        "24x7 power backup",
+        "children's play area"
+      ],
+      "photo_hashes": [
+        "29ee11b932ce1e6a",
+        "29ee1eb922ce1e6a",
+        "29ee11b922ce1e67"
+      ],
+      "description": "Owner shifting - 3 BHK Adani Oyster Grande open for rent, brokers welcome 1 month",
+      "_true_unit_id": "UNIT-0043"
+    },
+    {
+      "listing_id": "GOLF-UNIT-0044-1",
+      "source_type": "hidden_group",
+      "source_name": "Golf Course Ext Owners Group (WA)",
+      "posted_by": "Anita Bansal",
+      "posted_date": "2026-09-12",
+      "is_active": true,
+      "address": {
+        "sector": "22",
+        "society": "Ambience Creacions",
+        "tower": "T1",
+        "city": "Gurgaon"
+      },
+      "bhk": 3,
+      "floor": 17,
+      "total_floors": 31,
+      "facing": "S",
+      "carpet_sqft": 1412,
+      "rent": 54258,
+      "maintenance": 3700,
+      "club": 0,
+      "furnishing": "fully-furnished",
+      "amenities": [
+        "24x7 power backup",
+        "swimming pool",
+        "pet friendly",
+        "rainwater harvesting"
+      ],
+      "photo_hashes": [
+        "5bb9cda182a3c984",
+        "5bb9cda1c2a3c984",
+        "5bb9cda6a253c984"
+      ],
+      "description": "Owner shifting - 3 BHK Ambience Creacions open for rent, brokers welcome 1 month",
+      "_true_unit_id": "UNIT-0044"
+    },
+    {
+      "listing_id": "GGN -UNIT-0044-2",
+      "source_type": "hidden_group",
+      "source_name": "GGN 3BHK Exchange (WA)",
+      "posted_by": "Ritu Chauhan",
+      "posted_date": "2026-09-06",
+      "is_active": true,
+      "address": {
+        "sector": "22",
+        "society": "Ambience Creacions",
+        "tower": "T1",
+        "city": "Gurgaon"
+      },
+      "bhk": 3,
+      "floor": 17,
+      "total_floors": 31,
+      "facing": "S",
+      "carpet_sqft": 1398,
+      "rent": 55286,
+      "maintenance": 3700,
+      "club": 0,
+      "furnishing": "fully-furnished",
+      "amenities": [
+        "24x7 power backup",
+        "swimming pool",
+        "pet friendly",
+        "rainwater harvesting"
+      ],
+      "photo_hashes": [
+        "50b9cda1a2a3c984",
+        "5b12cd31a2a3c984",
+        "5bb9c8a1a2a3c984"
+      ],
+      "description": "3bhk Ambience Creacions sec 22 available!! fully-furnished floor 17 call fast",
+      "_true_unit_id": "UNIT-0044"
+    },
+    {
+      "listing_id": "GOLF-UNIT-0045-1",
+      "source_type": "hidden_group",
+      "source_name": "Golf Course Ext Owners Group (WA)",
+      "posted_by": "Sanjay Gupta",
+      "posted_date": "2026-09-08",
+      "is_active": true,
+      "address": {
+        "sector": "33",
+        "society": "Central Park Flower Valley",
+        "tower": "T3",
+        "city": "Gurgaon"
+      },
+      "bhk": 2,
+      "floor": 19,
+      "total_floors": 30,
+      "facing": "NE",
+      "carpet_sqft": 1043,
+      "rent": 122019,
+      "maintenance": 6900,
+      "club": 2000,
+      "furnishing": "unfurnished",
+      "amenities": [
+        "visitor parking",
+        "covered parking",
+        "gym",
+        "jogging track",
+        "children's play area",
+        "piped gas"
+      ],
+      "photo_hashes": [
+        "42db0b956af67446",
+        "42dbdb956af65443",
+        "42de0b956af67442",
+        "428b0b953af67442"
+      ],
+      "description": "Owner shifting - 2 BHK Central Park Flower Valley open for rent, brokers welcome 1 month",
+      "_true_unit_id": "UNIT-0045"
+    },
+    {
+      "listing_id": "GGN -UNIT-0048-1",
+      "source_type": "hidden_group",
+      "source_name": "GGN 3BHK Exchange (WA)",
+      "posted_by": "Manoj Malhotra",
+      "posted_date": "2026-09-10",
+      "is_active": true,
+      "address": {
+        "sector": "82",
+        "society": "Vatika India Next",
+        "tower": "T7",
+        "city": "Gurgaon"
+      },
+      "bhk": 3,
+      "floor": 12,
+      "total_floors": 14,
+      "facing": "NW",
+      "carpet_sqft": 1382,
+      "rent": 63661,
+      "maintenance": 2000,
+      "club": 0,
+      "furnishing": "fully-furnished",
+      "amenities": [
+        "CCTV surveillance",
+        "clubhouse",
+        "visitor parking",
+        "24x7 power backup",
+        "gym"
+      ],
+      "photo_hashes": [
+        "f4fe023864d39793",
+        "f4fe020864d3979f",
+        "f4fe010864d39793"
+      ],
+      "description": "3bhk Vatika India Next sec 82 available!! fully-furnished floor 12 call fast",
+      "_true_unit_id": "UNIT-0048"
+    },
+    {
+      "listing_id": "GOLF-UNIT-0051-1",
+      "source_type": "hidden_group",
+      "source_name": "Golf Course Ext Owners Group (WA)",
+      "posted_by": "Rajesh Singh",
+      "posted_date": "2026-09-13",
+      "is_active": true,
+      "address": {
+        "sector": "48",
+        "society": "Bestech Park View",
+        "tower": "T6",
+        "city": "Gurgaon"
+      },
+      "bhk": 4,
+      "floor": 7,
+      "total_floors": 34,
+      "facing": "N",
+      "carpet_sqft": 2062,
+      "rent": 70236,
+      "maintenance": 3100,
+      "club": 0,
+      "furnishing": "semi-furnished",
+      "amenities": [
+        "jogging track",
+        "visitor parking",
+        "CCTV surveillance",
+        "clubhouse"
+      ],
+      "photo_hashes": [
+        "ffb82d2d59a32a09",
+        "ffb82d2d59a35a49",
+        "ffc82d2d59a32a09"
+      ],
+      "description": "4bhk Bestech Park View sec 48 available!! semi-furnished floor 7 call fast",
+      "_true_unit_id": "UNIT-0051"
+    },
+    {
+      "listing_id": "DLF -UNIT-0051-2",
+      "source_type": "hidden_group",
+      "source_name": "DLF Phase Brokers Circle (WA)",
+      "posted_by": "Neha Sharma",
+      "posted_date": "2026-09-06",
+      "is_active": true,
+      "address": {
+        "sector": "48",
+        "society": "Bestech Park View",
+        "tower": "T6",
+        "city": "Gurgaon"
+      },
+      "bhk": 4,
+      "floor": 7,
+      "total_floors": 34,
+      "facing": "N",
+      "carpet_sqft": 2075,
+      "rent": 70554,
+      "maintenance": 3100,
+      "club": 0,
+      "furnishing": "semi-furnished",
+      "amenities": [
+        "jogging track",
+        "visitor parking",
+        "pet friendly",
+        "children's play area",
+        "clubhouse"
+      ],
+      "photo_hashes": [
+        "ffbc2d2d59a32a99",
+        "ffb82d2d59ab2a19",
+        "ff682d2d59a32a99"
+      ],
+      "description": "Owner shifting - 4 BHK Bestech Park View open for rent, brokers welcome 1 month",
+      "_true_unit_id": "UNIT-0051"
+    },
+    {
+      "listing_id": "SOHN-UNIT-0052-1",
+      "source_type": "hidden_group",
+      "source_name": "Sohna Road Rentals (WA)",
+      "posted_by": "Manoj Bansal",
+      "posted_date": "2026-09-13",
+      "is_active": true,
+      "address": {
+        "sector": "78",
+        "society": "Godrej Habitat",
+        "tower": "T3",
+        "city": "Gurgaon"
+      },
+      "bhk": 3,
+      "floor": 23,
+      "total_floors": 34,
+      "facing": "SW",
+      "carpet_sqft": 1404,
+      "rent": 87503,
+      "maintenance": 4300,
+      "club": 1500,
+      "furnishing": "fully-furnished",
+      "amenities": [
+        "covered parking",
+        "children's play area"
+      ],
+      "photo_hashes": [
+        "504e1427bbcd4e0b",
+        "704e1427bbc14ebb"
+      ],
+      "description": "Direct from owner: Godrej Habitat 3BHK, 1404 sq ft approx, negotiable",
+      "_true_unit_id": "UNIT-0052"
+    },
+    {
+      "listing_id": "DLF -UNIT-0054-1",
+      "source_type": "hidden_group",
+      "source_name": "DLF Phase Brokers Circle (WA)",
+      "posted_by": "Neha Verma",
+      "posted_date": "2026-08-27",
+      "is_active": true,
+      "address": {
+        "sector": "48",
+        "society": "Bestech Park View",
+        "tower": "T6",
+        "city": "Gurgaon"
+      },
+      "bhk": 4,
+      "floor": 28,
+      "total_floors": 29,
+      "facing": "NE",
+      "carpet_sqft": 1877,
+      "rent": 76982,
+      "maintenance": 4800,
+      "club": 1000,
+      "furnishing": "semi-furnished",
+      "amenities": [
+        "swimming pool",
+        "covered parking",
+        "CCTV surveillance",
+        "clubhouse",
+        "rainwater harvesting",
+        "pet friendly",
+        "24x7 power backup"
+      ],
+      "photo_hashes": [
+        "bbe4329cfdd24a2e",
+        "cbe4229efdd24a2e",
+        "b6a4229cfdd24a2e",
+        "bbe42208fdd24a2e"
+      ],
+      "description": "Owner shifting - 4 BHK Bestech Park View open for rent, brokers welcome 1 month",
+      "_true_unit_id": "UNIT-0054"
+    },
+    {
+      "listing_id": "GGN -UNIT-0057-1",
+      "source_type": "hidden_group",
+      "source_name": "GGN 3BHK Exchange (WA)",
+      "posted_by": "Ritu Singh",
+      "posted_date": "2026-09-11",
+      "is_active": true,
+      "address": {
+        "sector": "48",
+        "society": "Bestech Park View",
+        "tower": "T2",
+        "city": "Gurgaon"
+      },
+      "bhk": 3,
+      "floor": 17,
+      "total_floors": 27,
+      "facing": "W",
+      "carpet_sqft": 1473,
+      "rent": 105274,
+      "maintenance": 3700,
+      "club": 2000,
+      "furnishing": "unfurnished",
+      "amenities": [
+        "covered parking",
+        "24x7 power backup",
+        "gym",
+        "jogging track"
+      ],
+      "photo_hashes": [
+        "475aa65fef9f02ce",
+        "d759a65fef9f02ce"
+      ],
+      "description": "3bhk Bestech Park View sec 48 available!! unfurnished floor 17 call fast",
+      "_true_unit_id": "UNIT-0057"
+    },
+    {
+      "listing_id": "SOHN-UNIT-0057-2",
+      "source_type": "hidden_group",
+      "source_name": "Sohna Road Rentals (WA)",
+      "posted_by": "Kavita Yadav",
+      "posted_date": "2026-09-03",
+      "is_active": true,
+      "address": {
+        "sector": "48",
+        "society": "Bestech Park View",
+        "tower": "T2",
+        "city": "Gurgaon"
+      },
+      "bhk": 3,
+      "floor": 17,
+      "total_floors": 27,
+      "facing": "W",
+      "carpet_sqft": 1483,
+      "rent": 110509,
+      "maintenance": 3700,
+      "club": 2000,
+      "furnishing": "unfurnished",
+      "amenities": [
+        "24x7 power backup",
+        "gym",
+        "jogging track"
+      ],
+      "photo_hashes": [
+        "d75aa65fef9008c3",
+        "d75aa15fef9f02ce",
+        "d75ab15fef9f02ce",
+        "d75aa65fef9102ce"
+      ],
+      "description": "3bhk Bestech Park View sec 48 available!! unfurnished floor 17 call fast",
+      "_true_unit_id": "UNIT-0057"
+    },
+    {
+      "listing_id": "GGN -UNIT-0058-1",
+      "source_type": "hidden_group",
+      "source_name": "GGN 3BHK Exchange (WA)",
+      "posted_by": "Anita Bansal",
+      "posted_date": "2026-08-27",
+      "is_active": true,
+      "address": {
+        "sector": "90",
+        "society": "DLF Regal Gardens",
+        "tower": "T1",
+        "city": "Gurgaon"
+      },
+      "bhk": 2,
+      "floor": 19,
+      "total_floors": 20,
+      "facing": "NE",
+      "carpet_sqft": 1009,
+      "rent": 78204,
+      "maintenance": 4300,
+      "club": 2000,
+      "furnishing": "semi-furnished",
+      "amenities": [
+        "24x7 power backup",
+        "covered parking",
+        "jogging track",
+        "clubhouse",
+        "gym",
+        "children's play area",
+        "rainwater harvesting"
+      ],
+      "photo_hashes": [
+        "4b1c16b92ce8343c",
+        "cb1c16b92b58343d",
+        "cb1c16492ce8343c"
+      ],
+      "description": "2bhk DLF Regal Gardens sec 90 available!! semi-furnished floor 19 call fast",
+      "_true_unit_id": "UNIT-0058"
+    },
+    {
+      "listing_id": "SOHN-UNIT-0059-1",
+      "source_type": "hidden_group",
+      "source_name": "Sohna Road Rentals (WA)",
+      "posted_by": "Kavita Bansal",
+      "posted_date": "2026-09-03",
+      "is_active": true,
+      "address": {
+        "sector": "33",
+        "society": "Central Park Flower Valley",
+        "tower": "T3",
+        "city": "Gurgaon"
+      },
+      "bhk": 3,
+      "floor": 18,
+      "total_floors": 24,
+      "facing": "SE",
+      "carpet_sqft": 1465,
+      "rent": 79065,
+      "maintenance": 2600,
+      "club": 0,
+      "furnishing": "unfurnished",
+      "amenities": [
+        "CCTV surveillance",
+        "pet friendly",
+        "modular kitchen",
+        "visitor parking",
+        "clubhouse"
+      ],
+      "photo_hashes": [
+        "4aa5c9af900ba3d9",
+        "4aa749a99f0ba3d9",
+        "4aa5c94f9f0ba3d9"
+      ],
+      "description": "3bhk Central Park Flower Valley sec 33 available!! unfurnished floor 18 call fast",
+      "_true_unit_id": "UNIT-0059"
+    },
+    {
+      "listing_id": "SOHN-UNIT-0061-1",
+      "source_type": "hidden_group",
+      "source_name": "Sohna Road Rentals (WA)",
+      "posted_by": "Neha Gupta",
+      "posted_date": "2026-09-13",
+      "is_active": true,
+      "address": {
+        "sector": "109",
+        "society": "ATS Kocoon",
+        "tower": "T3",
+        "city": "Gurgaon"
+      },
+      "bhk": 4,
+      "floor": 24,
+      "total_floors": 32,
+      "facing": "W",
+      "carpet_sqft": 1991,
+      "rent": 41430,
+      "maintenance": 1800,
+      "club": 2000,
+      "furnishing": "fully-furnished",
+      "amenities": [
+        "children's play area",
+        "modular kitchen",
+        "CCTV surveillance",
+        "piped gas"
+      ],
+      "photo_hashes": [
+        "6f37899996fafb89",
+        "3f67897996fafb89"
+      ],
+      "description": "4bhk ATS Kocoon sec 109 available!! fully-furnished floor 24 call fast",
+      "_true_unit_id": "UNIT-0061"
+    },
+    {
+      "listing_id": "GOLF-UNIT-0065-1",
+      "source_type": "hidden_group",
+      "source_name": "Golf Course Ext Owners Group (WA)",
+      "posted_by": "Kavita Yadav",
+      "posted_date": "2026-09-13",
+      "is_active": true,
+      "address": {
+        "sector": "78",
+        "society": "Godrej Habitat",
+        "tower": "T5",
+        "city": "Gurgaon"
+      },
+      "bhk": 3,
+      "floor": 8,
+      "total_floors": 20,
+      "facing": "W",
+      "carpet_sqft": 1450,
+      "rent": 35320,
+      "maintenance": 2100,
+      "club": 1500,
+      "furnishing": "semi-furnished",
+      "amenities": [
+        "visitor parking",
+        "24x7 power backup",
+        "gym",
+        "children's play area"
+      ],
+      "photo_hashes": [
+        "3e92c939b774f4ee",
+        "3e95c939bf74f4eb"
+      ],
+      "description": "Direct from owner: Godrej Habitat 3BHK, 1450 sq ft approx, negotiable",
+      "_true_unit_id": "UNIT-0065"
+    },
+    {
+      "listing_id": "DLF -UNIT-0066-1",
+      "source_type": "hidden_group",
+      "source_name": "DLF Phase Brokers Circle (WA)",
+      "posted_by": "Sanjay Gupta",
+      "posted_date": "2026-08-30",
+      "is_active": false,
+      "address": {
+        "sector": "82",
+        "society": "Vatika India Next",
+        "tower": "T9",
+        "city": "Gurgaon"
+      },
+      "bhk": 4,
+      "floor": 18,
+      "total_floors": 24,
+      "facing": "W",
+      "carpet_sqft": 2070,
+      "rent": 97956,
+      "maintenance": 5700,
+      "club": 0,
+      "furnishing": "fully-furnished",
+      "amenities": [
+        "modular kitchen",
+        "visitor parking",
+        "children's play area",
+        "covered parking",
+        "24x7 power backup"
+      ],
+      "photo_hashes": [
+        "645a936f2e1efde1",
+        "645ae36f2e1e4def",
+        "645ae16f2e1e8de1",
+        "645ae36f2a1ebde1"
+      ],
+      "description": "4bhk Vatika India Next sec 82 available!! fully-furnished floor 18 call fast",
+      "_true_unit_id": "UNIT-0066"
+    },
+    {
+      "listing_id": "GOLF-UNIT-0066-2",
+      "source_type": "hidden_group",
+      "source_name": "Golf Course Ext Owners Group (WA)",
+      "posted_by": "Neha Kapoor",
+      "posted_date": "2026-09-15",
+      "is_active": false,
+      "address": {
+        "sector": "82",
+        "society": "Vatika India Next",
+        "tower": "T9",
+        "city": "Gurgaon"
+      },
+      "bhk": 4,
+      "floor": 18,
+      "total_floors": 24,
+      "facing": "W",
+      "carpet_sqft": 2066,
+      "rent": 92492,
+      "maintenance": 5700,
+      "club": 0,
+      "furnishing": "fully-furnished",
+      "amenities": [
+        "modular kitchen",
+        "visitor parking",
+        "children's play area",
+        "covered parking",
+        "piped gas",
+        "24x7 power backup"
+      ],
+      "photo_hashes": [
+        "645ae3672e1e4de1",
+        "645ae36f221e4de1",
+        "649ae06f2e1e4de1"
+      ],
+      "description": "Owner shifting - 4 BHK Vatika India Next open for rent, brokers welcome 1 month",
+      "_true_unit_id": "UNIT-0066"
+    },
+    {
+      "listing_id": "GOLF-UNIT-0067-1",
+      "source_type": "hidden_group",
+      "source_name": "Golf Course Ext Owners Group (WA)",
+      "posted_by": "Amit Arora",
+      "posted_date": "2026-09-03",
+      "is_active": true,
+      "address": {
+        "sector": "108",
+        "society": "Sobha City",
+        "tower": "T1",
+        "city": "Gurgaon"
+      },
+      "bhk": 3,
+      "floor": 22,
+      "total_floors": 28,
+      "facing": "NE",
+      "carpet_sqft": 1282,
+      "rent": 77116,
+      "maintenance": 4400,
+      "club": 2500,
+      "furnishing": "unfurnished",
+      "amenities": [
+        "jogging track",
+        "children's play area",
+        "covered parking"
+      ],
+      "photo_hashes": [
+        "12f69d54dbcecc24",
+        "12f19954dbcecc2a",
+        "12f19d54dbcec622",
+        "12f19d941ccecc24"
+      ],
+      "description": "3bhk Sobha City sec 108 available!! unfurnished floor 22 call fast",
+      "_true_unit_id": "UNIT-0067"
+    },
+    {
+      "listing_id": "GOLF-UNIT-0070-1",
+      "source_type": "hidden_group",
+      "source_name": "Golf Course Ext Owners Group (WA)",
+      "posted_by": "Rajesh Verma",
+      "posted_date": "2026-09-15",
+      "is_active": true,
+      "address": {
+        "sector": "102",
+        "society": "Adani Oyster Grande",
+        "tower": "T6",
+        "city": "Gurgaon"
+      },
+      "bhk": 4,
+      "floor": 13,
+      "total_floors": 35,
+      "facing": "SE",
+      "carpet_sqft": 1904,
+      "rent": 101165,
+      "maintenance": 3700,
+      "club": 2000,
+      "furnishing": "unfurnished",
+      "amenities": [
+        "pet friendly",
+        "swimming pool",
+        "visitor parking",
+        "gym",
+        "CCTV surveillance",
+        "24x7 power backup"
+      ],
+      "photo_hashes": [
+        "ddcc786a22b26b8c",
+        "dd43786afeb2618c",
+        "dd4c78632eb2618c"
+      ],
+      "description": "Owner shifting - 4 BHK Adani Oyster Grande open for rent, brokers welcome 1 month",
+      "_true_unit_id": "UNIT-0070"
+    },
+    {
+      "listing_id": "DLF -UNIT-0070-2",
+      "source_type": "hidden_group",
+      "source_name": "DLF Phase Brokers Circle (WA)",
+      "posted_by": "Kavita Sharma",
+      "posted_date": "2026-09-06",
+      "is_active": true,
+      "address": {
+        "sector": "102",
+        "society": "Adani Oyster Grande",
+        "tower": "T6",
+        "city": "Gurgaon"
+      },
+      "bhk": 4,
+      "floor": 13,
+      "total_floors": 35,
+      "facing": "SE",
+      "carpet_sqft": 1927,
+      "rent": 103708,
+      "maintenance": 3700,
+      "club": 2000,
+      "furnishing": "unfurnished",
+      "amenities": [
+        "pet friendly",
+        "swimming pool",
+        "CCTV surveillance",
+        "24x7 power backup"
+      ],
+      "photo_hashes": [
+        "dd4c786a2ed36187",
+        "dd4cb86a2eb2618b",
+        "174c786a2eb2618c",
+        "dd4c786a2eb3918c"
+      ],
+      "description": "Direct from owner: Adani Oyster Grande 4BHK, 1927 sq ft approx, negotiable",
+      "_true_unit_id": "UNIT-0070"
+    },
+    {
+      "listing_id": "GOLF-UNIT-0071-1",
+      "source_type": "hidden_group",
+      "source_name": "Golf Course Ext Owners Group (WA)",
+      "posted_by": "Priya Gupta",
+      "posted_date": "2026-09-04",
+      "is_active": false,
+      "address": {
+        "sector": "102",
+        "society": "Adani Oyster Grande",
+        "tower": "T2",
+        "city": "Gurgaon"
+      },
+      "bhk": 3,
+      "floor": 20,
+      "total_floors": 26,
+      "facing": "W",
+      "carpet_sqft": 1464,
+      "rent": 41874,
+      "maintenance": 1500,
+      "club": 1500,
+      "furnishing": "semi-furnished",
+      "amenities": [
+        "CCTV surveillance"
+      ],
+      "photo_hashes": [
+        "f8fc7a9cebd8bfe3",
+        "f76c7a9ceb98b3e3",
+        "f76c7a9c2b98bfe3",
+        "f76c7a9ceb98ba03"
+      ],
+      "description": "Owner shifting - 3 BHK Adani Oyster Grande open for rent, brokers welcome 1 month",
+      "_true_unit_id": "UNIT-0071"
+    },
+    {
+      "listing_id": "DLF -UNIT-0078-1",
+      "source_type": "hidden_group",
+      "source_name": "DLF Phase Brokers Circle (WA)",
+      "posted_by": "Rajesh Arora",
+      "posted_date": "2026-09-12",
+      "is_active": false,
+      "address": {
+        "sector": "62",
+        "society": "Emaar Digi Homes",
+        "tower": "T9",
+        "city": "Gurgaon"
+      },
+      "bhk": 3,
+      "floor": 13,
+      "total_floors": 20,
+      "facing": "E",
+      "carpet_sqft": 1571,
+      "rent": 45306,
+      "maintenance": 2000,
+      "club": 1000,
+      "furnishing": "semi-furnished",
+      "amenities": [
+        "gym",
+        "pet friendly",
+        "clubhouse",
+        "covered parking",
+        "rainwater harvesting"
+      ],
+      "photo_hashes": [
+        "d9d962b87f6e3490",
+        "d2d9f2b87f6e2490",
+        "d8d9f2bc5f6e3490",
+        "68d9f2b87f6e3490"
+      ],
+      "description": "Direct from owner: Emaar Digi Homes 3BHK, 1571 sq ft approx, negotiable",
+      "_true_unit_id": "UNIT-0078"
+    },
+    {
+      "listing_id": "GOLF-UNIT-0081-1",
+      "source_type": "hidden_group",
+      "source_name": "Golf Course Ext Owners Group (WA)",
+      "posted_by": "Anita Sharma",
+      "posted_date": "2026-09-08",
+      "is_active": true,
+      "address": {
+        "sector": "65",
+        "society": "M3M Heights",
+        "tower": "T9",
+        "city": "Gurgaon"
+      },
+      "bhk": 2,
+      "floor": 9,
+      "total_floors": 32,
+      "facing": "W",
+      "carpet_sqft": 960,
+      "rent": 65737,
+      "maintenance": 2800,
+      "club": 2000,
+      "furnishing": "fully-furnished",
+      "amenities": [
+        "modular kitchen",
+        "clubhouse",
+        "children's play area",
+        "pet friendly"
+      ],
+      "photo_hashes": [
+        "9d234b9aebfbf3ee",
+        "9d430b9ae6fb93ee"
+      ],
+      "description": "2bhk M3M Heights sec 65 available!! fully-furnished floor 9 call fast",
+      "_true_unit_id": "UNIT-0081"
+    },
+    {
+      "listing_id": "DLF -UNIT-0081-2",
+      "source_type": "hidden_group",
+      "source_name": "DLF Phase Brokers Circle (WA)",
+      "posted_by": "Sanjay Singh",
+      "posted_date": "2026-09-10",
+      "is_active": true,
+      "address": {
+        "sector": "65",
+        "society": "M3M Heights",
+        "tower": "T9",
+        "city": "Gurgaon"
+      },
+      "bhk": 2,
+      "floor": 9,
+      "total_floors": 32,
+      "facing": "W",
+      "carpet_sqft": 961,
+      "rent": 61190,
+      "maintenance": 2800,
+      "club": 2000,
+      "furnishing": "fully-furnished",
+      "amenities": [
+        "modular kitchen",
+        "clubhouse",
+        "children's play area",
+        "24x7 power backup",
+        "pet friendly"
+      ],
+      "photo_hashes": [
+        "9d254b9ae6fbf0ee",
+        "9d234b9ae6fbf3fe"
+      ],
+      "description": "2bhk M3M Heights sec 65 available!! fully-furnished floor 9 call fast",
+      "_true_unit_id": "UNIT-0081"
+    },
+    {
+      "listing_id": "GGN -UNIT-0082-1",
+      "source_type": "hidden_group",
+      "source_name": "GGN 3BHK Exchange (WA)",
+      "posted_by": "Sunita Arora",
+      "posted_date": "2026-09-07",
+      "is_active": true,
+      "address": {
+        "sector": "33",
+        "society": "Central Park Flower Valley",
+        "tower": "T2",
+        "city": "Gurgaon"
+      },
+      "bhk": 2,
+      "floor": 10,
+      "total_floors": 10,
+      "facing": "NW",
+      "carpet_sqft": 1002,
+      "rent": 41468,
+      "maintenance": 1400,
+      "club": 1000,
+      "furnishing": "fully-furnished",
+      "amenities": [
+        "clubhouse",
+        "CCTV surveillance",
+        "visitor parking"
+      ],
+      "photo_hashes": [
+        "ade7c55dc06edc0c",
+        "a0e7c55dc06edc07",
+        "ade7c55dd02edc06"
+      ],
+      "description": "Owner shifting - 2 BHK Central Park Flower Valley open for rent, brokers welcome 1 month",
+      "_true_unit_id": "UNIT-0082"
+    },
+    {
+      "listing_id": "SOHN-UNIT-0082-2",
+      "source_type": "hidden_group",
+      "source_name": "Sohna Road Rentals (WA)",
+      "posted_by": "Sunita Yadav",
+      "posted_date": "2026-09-01",
+      "is_active": true,
+      "address": {
+        "sector": "33",
+        "society": "Central Park Flower Valley",
+        "tower": "T2",
+        "city": "Gurgaon"
+      },
+      "bhk": 2,
+      "floor": 10,
+      "total_floors": 10,
+      "facing": "NW",
+      "carpet_sqft": 1040,
+      "rent": 40792,
+      "maintenance": 1400,
+      "club": 1000,
+      "furnishing": "fully-furnished",
+      "amenities": [
+        "modular kitchen",
+        "clubhouse",
+        "visitor parking"
+      ],
+      "photo_hashes": [
+        "ade7c55ac06edc06",
+        "ade7c55dcc6edb46",
+        "ade7c65dc26edc06",
+        "ade7cf5dc06edc04"
+      ],
+      "description": "Owner shifting - 2 BHK Central Park Flower Valley open for rent, brokers welcome 1 month",
+      "_true_unit_id": "UNIT-0082"
+    },
+    {
+      "listing_id": "GGN -UNIT-0083-1",
+      "source_type": "hidden_group",
+      "source_name": "GGN 3BHK Exchange (WA)",
+      "posted_by": "Amit Kapoor",
+      "posted_date": "2026-09-14",
+      "is_active": true,
+      "address": {
+        "sector": "90",
+        "society": "DLF Regal Gardens",
+        "tower": "T2",
+        "city": "Gurgaon"
+      },
+      "bhk": 3,
+      "floor": 25,
+      "total_floors": 34,
+      "facing": "S",
+      "carpet_sqft": 1514,
+      "rent": 123910,
+      "maintenance": 4700,
+      "club": 1500,
+      "furnishing": "unfurnished",
+      "amenities": [
+        "covered parking",
+        "gym",
+        "pet friendly",
+        "modular kitchen"
+      ],
+      "photo_hashes": [
+        "cc3bbe5924a07945",
+        "cc2bbe5924a37935",
+        "cc3bbd5924c37935",
+        "cc3bbe5924a31935"
+      ],
+      "description": "Owner shifting - 3 BHK DLF Regal Gardens open for rent, brokers welcome 1 month",
+      "_true_unit_id": "UNIT-0083"
+    },
+    {
+      "listing_id": "GOLF-UNIT-0085-1",
+      "source_type": "hidden_group",
+      "source_name": "Golf Course Ext Owners Group (WA)",
+      "posted_by": "Deepak Kapoor",
+      "posted_date": "2026-09-03",
+      "is_active": true,
+      "address": {
+        "sector": "78",
+        "society": "Godrej Habitat",
+        "tower": "T1",
+        "city": "Gurgaon"
+      },
+      "bhk": 2,
+      "floor": 3,
+      "total_floors": 17,
+      "facing": "NE",
+      "carpet_sqft": 846,
+      "rent": 104491,
+      "maintenance": 4400,
+      "club": 2500,
+      "furnishing": "semi-furnished",
+      "amenities": [
+        "CCTV surveillance",
+        "pet friendly",
+        "piped gas",
+        "visitor parking"
+      ],
+      "photo_hashes": [
+        "338b1e6d3791e8fd",
+        "338b4e6d3791e5be",
+        "33861e6d3791e8b2",
+        "338b1b6d3791e8b1"
+      ],
+      "description": "Owner shifting - 2 BHK Godrej Habitat open for rent, brokers welcome 1 month",
+      "_true_unit_id": "UNIT-0085"
+    },
+    {
+      "listing_id": "GOLF-UNIT-0088-1",
+      "source_type": "hidden_group",
+      "source_name": "Golf Course Ext Owners Group (WA)",
+      "posted_by": "Sanjay Kapoor",
+      "posted_date": "2026-09-14",
+      "is_active": true,
+      "address": {
+        "sector": "109",
+        "society": "ATS Kocoon",
+        "tower": "T3",
+        "city": "Gurgaon"
+      },
+      "bhk": 3,
+      "floor": 11,
+      "total_floors": 29,
+      "facing": "SW",
+      "carpet_sqft": 1404,
+      "rent": 102684,
+      "maintenance": 6900,
+      "club": 0,
+      "furnishing": "unfurnished",
+      "amenities": [
+        "pet friendly"
+      ],
+      "photo_hashes": [
+        "35ee0d649552b82b",
+        "39ee0d649582b82b"
+      ],
+      "description": "Owner shifting - 3 BHK ATS Kocoon open for rent, brokers welcome 1 month",
+      "_true_unit_id": "UNIT-0088"
+    },
+    {
+      "listing_id": "GGN -UNIT-0088-2",
+      "source_type": "hidden_group",
+      "source_name": "GGN 3BHK Exchange (WA)",
+      "posted_by": "Priya Malhotra",
+      "posted_date": "2026-09-04",
+      "is_active": true,
+      "address": {
+        "sector": "109",
+        "society": "ATS Kocoon",
+        "tower": "T3",
+        "city": "Gurgaon"
+      },
+      "bhk": 3,
+      "floor": 11,
+      "total_floors": 29,
+      "facing": "SW",
+      "carpet_sqft": 1414,
+      "rent": 103046,
+      "maintenance": 6900,
+      "club": 0,
+      "furnishing": "unfurnished",
+      "amenities": [
+        "rainwater harvesting",
+        "pet friendly"
+      ],
+      "photo_hashes": [
+        "35ee0d641582382b",
+        "35fe0d649582b8db"
+      ],
+      "description": "Owner shifting - 3 BHK ATS Kocoon open for rent, brokers welcome 1 month",
+      "_true_unit_id": "UNIT-0088"
+    },
+    {
+      "listing_id": "SOHN-UNIT-0090-1",
+      "source_type": "hidden_group",
+      "source_name": "Sohna Road Rentals (WA)",
+      "posted_by": "Rajesh Verma",
+      "posted_date": "2026-09-02",
+      "is_active": true,
+      "address": {
+        "sector": "60",
+        "society": "Ireo Skyon",
+        "tower": "T2",
+        "city": "Gurgaon"
+      },
+      "bhk": 4,
+      "floor": 26,
+      "total_floors": 31,
+      "facing": "NW",
+      "carpet_sqft": 1871,
+      "rent": 47915,
+      "maintenance": 1700,
+      "club": 1000,
+      "furnishing": "fully-furnished",
+      "amenities": [
+        "covered parking",
+        "piped gas",
+        "24x7 power backup"
+      ],
+      "photo_hashes": [
+        "7eb64de62343cbda",
+        "8e964de62346cbda",
+        "58b64de72343cbdb",
+        "5eb64dc62343cbda"
+      ],
+      "description": "Direct from owner: Ireo Skyon 4BHK, 1871 sq ft approx, negotiable",
+      "_true_unit_id": "UNIT-0090"
+    },
+    {
+      "listing_id": "GOLF-UNIT-0091-1",
+      "source_type": "hidden_group",
+      "source_name": "Golf Course Ext Owners Group (WA)",
+      "posted_by": "Anita Verma",
+      "posted_date": "2026-09-09",
+      "is_active": true,
+      "address": {
+        "sector": "48",
+        "society": "Bestech Park View",
+        "tower": "T2",
+        "city": "Gurgaon"
+      },
+      "bhk": 2,
+      "floor": 8,
+      "total_floors": 15,
+      "facing": "NE",
+      "carpet_sqft": 1014,
+      "rent": 73269,
+      "maintenance": 2200,
+      "club": 1500,
+      "furnishing": "unfurnished",
+      "amenities": [
+        "piped gas",
+        "jogging track",
+        "gym",
+        "CCTV surveillance"
+      ],
+      "photo_hashes": [
+        "7fc37f20ba4cab5f"
+      ],
+      "description": "Owner shifting - 2 BHK Bestech Park View open for rent, brokers welcome 1 month",
+      "_true_unit_id": "UNIT-0091"
+    },
+    {
+      "listing_id": "GGN -UNIT-0096-1",
+      "source_type": "hidden_group",
+      "source_name": "GGN 3BHK Exchange (WA)",
+      "posted_by": "Rajesh Yadav",
+      "posted_date": "2026-09-01",
+      "is_active": true,
+      "address": {
+        "sector": "48",
+        "society": "Bestech Park View",
+        "tower": "T4",
+        "city": "Gurgaon"
+      },
+      "bhk": 2,
+      "floor": 24,
+      "total_floors": 26,
+      "facing": "N",
+      "carpet_sqft": 960,
+      "rent": 108805,
+      "maintenance": 3200,
+      "club": 2500,
+      "furnishing": "semi-furnished",
+      "amenities": [
+        "children's play area",
+        "24x7 power backup",
+        "rainwater harvesting"
+      ],
+      "photo_hashes": [
+        "c9367df148207dbe"
+      ],
+      "description": "Direct from owner: Bestech Park View 2BHK, 960 sq ft approx, negotiable",
+      "_true_unit_id": "UNIT-0096"
+    },
+    {
+      "listing_id": "DLF -UNIT-0097-1",
+      "source_type": "hidden_group",
+      "source_name": "DLF Phase Brokers Circle (WA)",
+      "posted_by": "Sanjay Gupta",
+      "posted_date": "2026-09-02",
+      "is_active": true,
+      "address": {
+        "sector": "69",
+        "society": "Tulip Violet",
+        "tower": "T9",
+        "city": "Gurgaon"
+      },
+      "bhk": 2,
+      "floor": 19,
+      "total_floors": 23,
+      "facing": "SE",
+      "carpet_sqft": 901,
+      "rent": 47792,
+      "maintenance": 2500,
+      "club": 0,
+      "furnishing": "semi-furnished",
+      "amenities": [],
+      "photo_hashes": [
+        "caae880543435eea",
+        "4aae872643435eea",
+        "caaa879643435eea"
+      ],
+      "description": "Owner shifting - 2 BHK Tulip Violet open for rent, brokers welcome 1 month",
+      "_true_unit_id": "UNIT-0097"
+    },
+    {
+      "listing_id": "DLF -UNIT-0098-1",
+      "source_type": "hidden_group",
+      "source_name": "DLF Phase Brokers Circle (WA)",
+      "posted_by": "Priya Malhotra",
+      "posted_date": "2026-09-11",
+      "is_active": true,
+      "address": {
+        "sector": "82",
+        "society": "Vatika India Next",
+        "tower": "T4",
+        "city": "Gurgaon"
+      },
+      "bhk": 2,
+      "floor": 18,
+      "total_floors": 32,
+      "facing": "NE",
+      "carpet_sqft": 992,
+      "rent": 83853,
+      "maintenance": 3200,
+      "club": 0,
+      "furnishing": "unfurnished",
+      "amenities": [
+        "CCTV surveillance",
+        "piped gas"
+      ],
+      "photo_hashes": [
+        "16a427bc198a07e7",
+        "18a427bc14750ce7",
+        "16a427bc19850ce6",
+        "165427bc1985bce7"
+      ],
+      "description": "Owner shifting - 2 BHK Vatika India Next open for rent, brokers welcome 1 month",
+      "_true_unit_id": "UNIT-0098"
+    },
+    {
+      "listing_id": "GOLF-UNIT-0098-2",
+      "source_type": "hidden_group",
+      "source_name": "Golf Course Ext Owners Group (WA)",
+      "posted_by": "Kavita Kapoor",
+      "posted_date": "2026-09-01",
+      "is_active": true,
+      "address": {
+        "sector": "82",
+        "society": "Vatika India Next",
+        "tower": "T4",
+        "city": "Gurgaon"
+      },
+      "bhk": 2,
+      "floor": 18,
+      "total_floors": 32,
+      "facing": "NE",
+      "carpet_sqft": 998,
+      "rent": 78745,
+      "maintenance": 3200,
+      "club": 0,
+      "furnishing": "unfurnished",
+      "amenities": [
+        "CCTV surveillance",
+        "rainwater harvesting",
+        "gym",
+        "piped gas"
+      ],
+      "photo_hashes": [
+        "16a427b619850ce7"
+      ],
+      "description": "Owner shifting - 2 BHK Vatika India Next open for rent, brokers welcome 1 month",
+      "_true_unit_id": "UNIT-0098"
+    },
+    {
+      "listing_id": "GOLF-UNIT-0099-1",
+      "source_type": "hidden_group",
+      "source_name": "Golf Course Ext Owners Group (WA)",
+      "posted_by": "Vikram Verma",
+      "posted_date": "2026-09-10",
+      "is_active": true,
+      "address": {
+        "sector": "60",
+        "society": "Ireo Skyon",
+        "tower": "T2",
+        "city": "Gurgaon"
+      },
+      "bhk": 3,
+      "floor": 4,
+      "total_floors": 4,
+      "facing": "N",
+      "carpet_sqft": 1385,
+      "rent": 54137,
+      "maintenance": 1800,
+      "club": 2000,
+      "furnishing": "semi-furnished",
+      "amenities": [
+        "piped gas",
+        "CCTV surveillance",
+        "gym"
+      ],
+      "photo_hashes": [
+        "2e26e42a31e75dcf",
+        "2026e42a31d15def",
+        "2026e42ac1e15dca"
+      ],
+      "description": "3bhk Ireo Skyon sec 60 available!! semi-furnished floor 4 call fast",
+      "_true_unit_id": "UNIT-0099"
+    },
+    {
+      "listing_id": "GGN -UNIT-0100-1",
+      "source_type": "hidden_group",
+      "source_name": "GGN 3BHK Exchange (WA)",
+      "posted_by": "Anita Yadav",
+      "posted_date": "2026-09-01",
+      "is_active": true,
+      "address": {
+        "sector": "65",
+        "society": "M3M Heights",
+        "tower": "T3",
+        "city": "Gurgaon"
+      },
+      "bhk": 3,
+      "floor": 22,
+      "total_floors": 27,
+      "facing": "W",
+      "carpet_sqft": 1371,
+      "rent": 87994,
+      "maintenance": 3600,
+      "club": 2000,
+      "furnishing": "unfurnished",
+      "amenities": [
+        "piped gas",
+        "CCTV surveillance",
+        "visitor parking"
+      ],
+      "photo_hashes": [
+        "79fdf128c4d676eb",
+        "b9fd4128c0d670cb"
+      ],
+      "description": "Direct from owner: M3M Heights 3BHK, 1371 sq ft approx, negotiable",
+      "_true_unit_id": "UNIT-0100"
+    },
+    {
+      "listing_id": "DLF -UNIT-0101-1",
+      "source_type": "hidden_group",
+      "source_name": "DLF Phase Brokers Circle (WA)",
+      "posted_by": "Neha Arora",
+      "posted_date": "2026-09-03",
+      "is_active": true,
+      "address": {
+        "sector": "78",
+        "society": "Godrej Habitat",
+        "tower": "T6",
+        "city": "Gurgaon"
+      },
+      "bhk": 3,
+      "floor": 26,
+      "total_floors": 35,
+      "facing": "NW",
+      "carpet_sqft": 1460,
+      "rent": 99930,
+      "maintenance": 4000,
+      "club": 0,
+      "furnishing": "semi-furnished",
+      "amenities": [
+        "swimming pool",
+        "24x7 power backup",
+        "visitor parking",
+        "pet friendly",
+        "jogging track"
+      ],
+      "photo_hashes": [
+        "75c778c7cb557ab0",
+        "75377817cb557ab3",
+        "75577817cb557a90",
+        "75377117cb557ab0"
+      ],
+      "description": "Direct from owner: Godrej Habitat 3BHK, 1460 sq ft approx, negotiable",
+      "_true_unit_id": "UNIT-0101"
+    },
+    {
+      "listing_id": "SOHN-UNIT-0101-2",
+      "source_type": "hidden_group",
+      "source_name": "Sohna Road Rentals (WA)",
+      "posted_by": "Amit Kapoor",
+      "posted_date": "2026-08-28",
+      "is_active": true,
+      "address": {
+        "sector": "78",
+        "society": "Godrej Habitat",
+        "tower": "T6",
+        "city": "Gurgaon"
+      },
+      "bhk": 3,
+      "floor": 26,
+      "total_floors": 35,
+      "facing": "NW",
+      "carpet_sqft": 1416,
+      "rent": 95538,
+      "maintenance": 4000,
+      "club": 0,
+      "furnishing": "semi-furnished",
+      "amenities": [
+        "swimming pool",
+        "gym",
+        "children's play area"
+      ],
+      "photo_hashes": [
+        "7537d817cb557ab0",
+        "75c77847cb557ab0"
+      ],
+      "description": "Owner shifting - 3 BHK Godrej Habitat open for rent, brokers welcome 1 month",
+      "_true_unit_id": "UNIT-0101"
+    },
+    {
+      "listing_id": "GOLF-UNIT-0103-1",
+      "source_type": "hidden_group",
+      "source_name": "Golf Course Ext Owners Group (WA)",
+      "posted_by": "Amit Malhotra",
+      "posted_date": "2026-08-29",
+      "is_active": false,
+      "address": {
+        "sector": "60",
+        "society": "Ireo Skyon",
+        "tower": "T7",
+        "city": "Gurgaon"
+      },
+      "bhk": 3,
+      "floor": 23,
+      "total_floors": 32,
+      "facing": "S",
+      "carpet_sqft": 1435,
+      "rent": 116297,
+      "maintenance": 5000,
+      "club": 1000,
+      "furnishing": "unfurnished",
+      "amenities": [
+        "CCTV surveillance",
+        "rainwater harvesting",
+        "pet friendly",
+        "children's play area",
+        "clubhouse",
+        "piped gas"
+      ],
+      "photo_hashes": [
+        "75cc9450c15a5ef4",
+        "77c99850c25a73f4"
+      ],
+      "description": "Owner shifting - 3 BHK Ireo Skyon open for rent, brokers welcome 1 month",
+      "_true_unit_id": "UNIT-0103"
+    },
+    {
+      "listing_id": "GGN -UNIT-0103-2",
+      "source_type": "hidden_group",
+      "source_name": "GGN 3BHK Exchange (WA)",
+      "posted_by": "Vikram Chauhan",
+      "posted_date": "2026-09-10",
+      "is_active": true,
+      "address": {
+        "sector": "60",
+        "society": "Ireo Skyon",
+        "tower": "T7",
+        "city": "Gurgaon"
+      },
+      "bhk": 3,
+      "floor": 23,
+      "total_floors": 32,
+      "facing": "S",
+      "carpet_sqft": 1442,
+      "rent": 119345,
+      "maintenance": 5000,
+      "club": 1000,
+      "furnishing": "unfurnished",
+      "amenities": [
+        "rainwater harvesting",
+        "pet friendly",
+        "children's play area",
+        "clubhouse",
+        "piped gas"
+      ],
+      "photo_hashes": [
+        "2ec99450c15a73c4",
+        "75c99450c15a13f4"
+      ],
+      "description": "Direct from owner: Ireo Skyon 3BHK, 1442 sq ft approx, negotiable",
+      "_true_unit_id": "UNIT-0103"
+    },
+    {
+      "listing_id": "GGN -UNIT-0107-1",
+      "source_type": "hidden_group",
+      "source_name": "GGN 3BHK Exchange (WA)",
+      "posted_by": "Sanjay Yadav",
+      "posted_date": "2026-09-04",
+      "is_active": true,
+      "address": {
+        "sector": "78",
+        "society": "Godrej Habitat",
+        "tower": "T8",
+        "city": "Gurgaon"
+      },
+      "bhk": 2,
+      "floor": 10,
+      "total_floors": 25,
+      "facing": "NE",
+      "carpet_sqft": 859,
+      "rent": 83839,
+      "maintenance": 4700,
+      "club": 2000,
+      "furnishing": "unfurnished",
+      "amenities": [
+        "jogging track",
+        "children's play area",
+        "clubhouse",
+        "pet friendly",
+        "24x7 power backup"
+      ],
+      "photo_hashes": [
+        "7ee8781432ad79cd"
+      ],
+      "description": "2bhk Godrej Habitat sec 78 available!! unfurnished floor 10 call fast",
+      "_true_unit_id": "UNIT-0107"
+    },
+    {
+      "listing_id": "GGN -UNIT-0108-1",
+      "source_type": "hidden_group",
+      "source_name": "GGN 3BHK Exchange (WA)",
+      "posted_by": "Priya Gupta",
+      "posted_date": "2026-09-09",
+      "is_active": true,
+      "address": {
+        "sector": "108",
+        "society": "Sobha City",
+        "tower": "T4",
+        "city": "Gurgaon"
+      },
+      "bhk": 4,
+      "floor": 28,
+      "total_floors": 35,
+      "facing": "NE",
+      "carpet_sqft": 1755,
+      "rent": 95049,
+      "maintenance": 4400,
+      "club": 0,
+      "furnishing": "fully-furnished",
+      "amenities": [
+        "modular kitchen",
+        "rainwater harvesting",
+        "covered parking"
+      ],
+      "photo_hashes": [
+        "e556647d2d648a22"
+      ],
+      "description": "4bhk Sobha City sec 108 available!! fully-furnished floor 28 call fast",
+      "_true_unit_id": "UNIT-0108"
+    },
+    {
+      "listing_id": "GOLF-UNIT-0109-1",
+      "source_type": "hidden_group",
+      "source_name": "Golf Course Ext Owners Group (WA)",
+      "posted_by": "Neha Kapoor",
+      "posted_date": "2026-09-11",
+      "is_active": true,
+      "address": {
+        "sector": "82",
+        "society": "Vatika India Next",
+        "tower": "T6",
+        "city": "Gurgaon"
+      },
+      "bhk": 3,
+      "floor": 13,
+      "total_floors": 21,
+      "facing": "SW",
+      "carpet_sqft": 1279,
+      "rent": 103907,
+      "maintenance": 6500,
+      "club": 2500,
+      "furnishing": "fully-furnished",
+      "amenities": [
+        "jogging track",
+        "covered parking",
+        "visitor parking",
+        "clubhouse",
+        "modular kitchen"
+      ],
+      "photo_hashes": [
+        "3339bd8cff158c4e",
+        "3339bd8cff158440",
+        "3339bd8cf415824c",
+        "3339b88cfe15ec4c"
+      ],
+      "description": "Direct from owner: Vatika India Next 3BHK, 1279 sq ft approx, negotiable",
+      "_true_unit_id": "UNIT-0109"
+    },
+    {
+      "listing_id": "GGN -UNIT-0109-2",
+      "source_type": "hidden_group",
+      "source_name": "GGN 3BHK Exchange (WA)",
+      "posted_by": "Sunita Kapoor",
+      "posted_date": "2026-09-07",
+      "is_active": true,
+      "address": {
+        "sector": "82",
+        "society": "Vatika India Next",
+        "tower": "T6",
+        "city": "Gurgaon"
+      },
+      "bhk": 3,
+      "floor": 13,
+      "total_floors": 21,
+      "facing": "SW",
+      "carpet_sqft": 1272,
+      "rent": 106940,
+      "maintenance": 6500,
+      "club": 2500,
+      "furnishing": "fully-furnished",
+      "amenities": [
+        "jogging track",
+        "modular kitchen",
+        "gym"
+      ],
+      "photo_hashes": [
+        "3339bd8cff1c8c49",
+        "33d9bd8cff155c4c",
+        "3339bd8cff15884c",
+        "3339bd8cff11dc4c"
+      ],
+      "description": "Owner shifting - 3 BHK Vatika India Next open for rent, brokers welcome 1 month",
+      "_true_unit_id": "UNIT-0109"
+    },
+    {
+      "listing_id": "GOLF-UNIT-0112-1",
+      "source_type": "hidden_group",
+      "source_name": "Golf Course Ext Owners Group (WA)",
+      "posted_by": "Sanjay Kapoor",
+      "posted_date": "2026-09-07",
+      "is_active": false,
+      "address": {
+        "sector": "109",
+        "society": "ATS Kocoon",
+        "tower": "T2",
+        "city": "Gurgaon"
+      },
+      "bhk": 3,
+      "floor": 24,
+      "total_floors": 28,
+      "facing": "N",
+      "carpet_sqft": 1443,
+      "rent": 120967,
+      "maintenance": 3900,
+      "club": 2500,
+      "furnishing": "unfurnished",
+      "amenities": [
+        "swimming pool",
+        "CCTV surveillance",
+        "visitor parking"
+      ],
+      "photo_hashes": [
+        "8d00f4507895dcbe",
+        "8d0e64507898dcb5"
+      ],
+      "description": "3bhk ATS Kocoon sec 109 available!! unfurnished floor 24 call fast",
+      "_true_unit_id": "UNIT-0112"
+    },
+    {
+      "listing_id": "GGN -UNIT-0113-1",
+      "source_type": "hidden_group",
+      "source_name": "GGN 3BHK Exchange (WA)",
+      "posted_by": "Manoj Gupta",
+      "posted_date": "2026-09-10",
+      "is_active": true,
+      "address": {
+        "sector": "62",
+        "society": "Emaar Digi Homes",
+        "tower": "T9",
+        "city": "Gurgaon"
+      },
+      "bhk": 2,
+      "floor": 15,
+      "total_floors": 34,
+      "facing": "SE",
+      "carpet_sqft": 1031,
+      "rent": 71877,
+      "maintenance": 2500,
+      "club": 2500,
+      "furnishing": "fully-furnished",
+      "amenities": [
+        "modular kitchen",
+        "rainwater harvesting",
+        "piped gas",
+        "visitor parking",
+        "gym"
+      ],
+      "photo_hashes": [
+        "93c8a8a8896471ca"
+      ],
+      "description": "2bhk Emaar Digi Homes sec 62 available!! fully-furnished floor 15 call fast",
+      "_true_unit_id": "UNIT-0113"
+    },
+    {
+      "listing_id": "GOLF-UNIT-0114-1",
+      "source_type": "hidden_group",
+      "source_name": "Golf Course Ext Owners Group (WA)",
+      "posted_by": "Amit Malhotra",
+      "posted_date": "2026-09-12",
+      "is_active": true,
+      "address": {
+        "sector": "102",
+        "society": "Adani Oyster Grande",
+        "tower": "T8",
+        "city": "Gurgaon"
+      },
+      "bhk": 2,
+      "floor": 24,
+      "total_floors": 28,
+      "facing": "NE",
+      "carpet_sqft": 948,
+      "rent": 36938,
+      "maintenance": 1800,
+      "club": 0,
+      "furnishing": "fully-furnished",
+      "amenities": [
+        "swimming pool",
+        "children's play area",
+        "CCTV surveillance",
+        "modular kitchen",
+        "pet friendly",
+        "visitor parking",
+        "gym"
+      ],
+      "photo_hashes": [
+        "95593f485ae1b79d"
+      ],
+      "description": "Direct from owner: Adani Oyster Grande 2BHK, 948 sq ft approx, negotiable",
+      "_true_unit_id": "UNIT-0114"
+    },
+    {
+      "listing_id": "GOLF-UNIT-0115-1",
+      "source_type": "hidden_group",
+      "source_name": "Golf Course Ext Owners Group (WA)",
+      "posted_by": "Kavita Bansal",
+      "posted_date": "2026-08-28",
+      "is_active": true,
+      "address": {
+        "sector": "48",
+        "society": "Bestech Park View",
+        "tower": "T5",
+        "city": "Gurgaon"
+      },
+      "bhk": 3,
+      "floor": 12,
+      "total_floors": 26,
+      "facing": "S",
+      "carpet_sqft": 1475,
+      "rent": 67854,
+      "maintenance": 2200,
+      "club": 2500,
+      "furnishing": "fully-furnished",
+      "amenities": [
+        "covered parking",
+        "pet friendly",
+        "swimming pool",
+        "modular kitchen",
+        "gym"
+      ],
+      "photo_hashes": [
+        "9d1446ade4a52fa2"
+      ],
+      "description": "Direct from owner: Bestech Park View 3BHK, 1475 sq ft approx, negotiable",
+      "_true_unit_id": "UNIT-0115"
+    },
+    {
+      "listing_id": "DLF -UNIT-0115-2",
+      "source_type": "hidden_group",
+      "source_name": "DLF Phase Brokers Circle (WA)",
+      "posted_by": "Ritu Verma",
+      "posted_date": "2026-09-07",
+      "is_active": true,
+      "address": {
+        "sector": "48",
+        "society": "Bestech Park View",
+        "tower": "T5",
+        "city": "Gurgaon"
+      },
+      "bhk": 3,
+      "floor": 12,
+      "total_floors": 26,
+      "facing": "S",
+      "carpet_sqft": 1474,
+      "rent": 71379,
+      "maintenance": 2200,
+      "club": 2500,
+      "furnishing": "fully-furnished",
+      "amenities": [
+        "covered parking",
+        "pet friendly",
+        "swimming pool",
+        "modular kitchen",
+        "gym"
+      ],
+      "photo_hashes": [
+        "5d1446ade4c52fa5"
+      ],
+      "description": "3bhk Bestech Park View sec 48 available!! fully-furnished floor 12 call fast",
+      "_true_unit_id": "UNIT-0115"
+    },
+    {
+      "listing_id": "DLF -UNIT-0118-1",
+      "source_type": "hidden_group",
+      "source_name": "DLF Phase Brokers Circle (WA)",
+      "posted_by": "Ritu Sharma",
+      "posted_date": "2026-09-07",
+      "is_active": true,
+      "address": {
+        "sector": "60",
+        "society": "Ireo Skyon",
+        "tower": "T1",
+        "city": "Gurgaon"
+      },
+      "bhk": 3,
+      "floor": 23,
+      "total_floors": 29,
+      "facing": "NE",
+      "carpet_sqft": 1498,
+      "rent": 119178,
+      "maintenance": 6500,
+      "club": 2500,
+      "furnishing": "unfurnished",
+      "amenities": [
+        "rainwater harvesting",
+        "visitor parking"
+      ],
+      "photo_hashes": [
+        "3de838f4609d3846",
+        "3aec38f46c9d384d",
+        "3dec3874609d384d"
+      ],
+      "description": "3bhk Ireo Skyon sec 60 available!! unfurnished floor 23 call fast",
+      "_true_unit_id": "UNIT-0118"
+    },
+    {
+      "listing_id": "SOHN-UNIT-0118-2",
+      "source_type": "hidden_group",
+      "source_name": "Sohna Road Rentals (WA)",
+      "posted_by": "Vikram Sharma",
+      "posted_date": "2026-09-15",
+      "is_active": true,
+      "address": {
+        "sector": "60",
+        "society": "Ireo Skyon",
+        "tower": "T1",
+        "city": "Gurgaon"
+      },
+      "bhk": 3,
+      "floor": 23,
+      "total_floors": 29,
+      "facing": "NE",
+      "carpet_sqft": 1500,
+      "rent": 121785,
+      "maintenance": 6500,
+      "club": 2500,
+      "furnishing": "unfurnished",
+      "amenities": [
+        "rainwater harvesting",
+        "24x7 power backup",
+        "visitor parking"
+      ],
+      "photo_hashes": [
+        "3dec38f4609c3f4d",
+        "3d9c38f4669d384d",
+        "39eca8f4609d384d",
+        "3dec34f4609d38fd"
+      ],
+      "description": "Direct from owner: Ireo Skyon 3BHK, 1500 sq ft approx, negotiable",
+      "_true_unit_id": "UNIT-0118"
+    },
+    {
+      "listing_id": "GGN -UNIT-0119-1",
+      "source_type": "hidden_group",
+      "source_name": "GGN 3BHK Exchange (WA)",
+      "posted_by": "Amit Kapoor",
+      "posted_date": "2026-09-10",
+      "is_active": true,
+      "address": {
+        "sector": "109",
+        "society": "ATS Kocoon",
+        "tower": "T2",
+        "city": "Gurgaon"
+      },
+      "bhk": 2,
+      "floor": 17,
+      "total_floors": 26,
+      "facing": "S",
+      "carpet_sqft": 902,
+      "rent": 125177,
+      "maintenance": 6300,
+      "club": 2500,
+      "furnishing": "unfurnished",
+      "amenities": [
+        "modular kitchen",
+        "swimming pool",
+        "jogging track",
+        "gym"
+      ],
+      "photo_hashes": [
+        "51fbfa70023f4223",
+        "51faf170023f4223"
+      ],
+      "description": "2bhk ATS Kocoon sec 109 available!! unfurnished floor 17 call fast",
+      "_true_unit_id": "UNIT-0119"
+    },
+    {
+      "listing_id": "DLF -UNIT-0121-1",
+      "source_type": "hidden_group",
+      "source_name": "DLF Phase Brokers Circle (WA)",
+      "posted_by": "Deepak Bansal",
+      "posted_date": "2026-09-12",
+      "is_active": true,
+      "address": {
+        "sector": "78",
+        "society": "Godrej Habitat",
+        "tower": "T8",
+        "city": "Gurgaon"
+      },
+      "bhk": 3,
+      "floor": 27,
+      "total_floors": 33,
+      "facing": "E",
+      "carpet_sqft": 1357,
+      "rent": 81906,
+      "maintenance": 3000,
+      "club": 0,
+      "furnishing": "unfurnished",
+      "amenities": [
+        "piped gas"
+      ],
+      "photo_hashes": [
+        "e5c604ff3de128a0",
+        "e5c500ff3de128a0",
+        "e4cb04ff3de128a0",
+        "e28b045f3de128a0"
+      ],
+      "description": "Direct from owner: Godrej Habitat 3BHK, 1357 sq ft approx, negotiable",
+      "_true_unit_id": "UNIT-0121"
+    },
+    {
+      "listing_id": "GOLF-UNIT-0121-2",
+      "source_type": "hidden_group",
+      "source_name": "Golf Course Ext Owners Group (WA)",
+      "posted_by": "Sanjay Sharma",
+      "posted_date": "2026-09-13",
+      "is_active": true,
+      "address": {
+        "sector": "78",
+        "society": "Godrej Habitat",
+        "tower": "T8",
+        "city": "Gurgaon"
+      },
+      "bhk": 3,
+      "floor": 27,
+      "total_floors": 33,
+      "facing": "E",
+      "carpet_sqft": 1341,
+      "rent": 83923,
+      "maintenance": 3000,
+      "club": 0,
+      "furnishing": "unfurnished",
+      "amenities": [
+        "jogging track",
+        "piped gas"
+      ],
+      "photo_hashes": [
+        "e5cb04ff3de6284a",
+        "e5c104413de128a0",
+        "e5cb04bf3de128a0"
+      ],
+      "description": "3bhk Godrej Habitat sec 78 available!! unfurnished floor 27 call fast",
+      "_true_unit_id": "UNIT-0121"
+    },
+    {
+      "listing_id": "SOHN-UNIT-0122-1",
+      "source_type": "hidden_group",
+      "source_name": "Sohna Road Rentals (WA)",
+      "posted_by": "Priya Verma",
+      "posted_date": "2026-09-08",
+      "is_active": true,
+      "address": {
+        "sector": "69",
+        "society": "Tulip Violet",
+        "tower": "T4",
+        "city": "Gurgaon"
+      },
+      "bhk": 4,
+      "floor": 17,
+      "total_floors": 27,
+      "facing": "S",
+      "carpet_sqft": 1925,
+      "rent": 132857,
+      "maintenance": 7300,
+      "club": 1000,
+      "furnishing": "semi-furnished",
+      "amenities": [
+        "rainwater harvesting",
+        "CCTV surveillance",
+        "visitor parking",
+        "jogging track"
+      ],
+      "photo_hashes": [
+        "105fadbfa7a817cc",
+        "105ff522a7a807cc",
+        "1053f52fa7a812cc"
+      ],
+      "description": "Owner shifting - 4 BHK Tulip Violet open for rent, brokers welcome 1 month",
+      "_true_unit_id": "UNIT-0122"
+    },
+    {
+      "listing_id": "DLF -UNIT-0122-2",
+      "source_type": "hidden_group",
+      "source_name": "DLF Phase Brokers Circle (WA)",
+      "posted_by": "Priya Kapoor",
+      "posted_date": "2026-09-06",
+      "is_active": true,
+      "address": {
+        "sector": "69",
+        "society": "Tulip Violet",
+        "tower": "T4",
+        "city": "Gurgaon"
+      },
+      "bhk": 4,
+      "floor": 17,
+      "total_floors": 27,
+      "facing": "S",
+      "carpet_sqft": 1936,
+      "rent": 129873,
+      "maintenance": 7300,
+      "club": 1000,
+      "furnishing": "semi-furnished",
+      "amenities": [
+        "CCTV surveillance",
+        "visitor parking",
+        "clubhouse"
+      ],
+      "photo_hashes": [
+        "105ff92fa7a817cc"
+      ],
+      "description": "Owner shifting - 4 BHK Tulip Violet open for rent, brokers welcome 1 month",
+      "_true_unit_id": "UNIT-0122"
+    },
+    {
+      "listing_id": "DLF -UNIT-0127-1",
+      "source_type": "hidden_group",
+      "source_name": "DLF Phase Brokers Circle (WA)",
+      "posted_by": "Sunita Sharma",
+      "posted_date": "2026-09-05",
+      "is_active": true,
+      "address": {
+        "sector": "109",
+        "society": "ATS Kocoon",
+        "tower": "T4",
+        "city": "Gurgaon"
+      },
+      "bhk": 2,
+      "floor": 23,
+      "total_floors": 35,
+      "facing": "N",
+      "carpet_sqft": 971,
+      "rent": 71854,
+      "maintenance": 4500,
+      "club": 0,
+      "furnishing": "fully-furnished",
+      "amenities": [
+        "swimming pool",
+        "rainwater harvesting",
+        "jogging track",
+        "CCTV surveillance",
+        "gym"
+      ],
+      "photo_hashes": [
+        "91ccda1076e9b66c",
+        "91ccda1036e7b569"
+      ],
+      "description": "2bhk ATS Kocoon sec 109 available!! fully-furnished floor 23 call fast",
+      "_true_unit_id": "UNIT-0127"
+    },
+    {
+      "listing_id": "GGN -UNIT-0127-2",
+      "source_type": "hidden_group",
+      "source_name": "GGN 3BHK Exchange (WA)",
+      "posted_by": "Amit Yadav",
+      "posted_date": "2026-09-02",
+      "is_active": true,
+      "address": {
+        "sector": "109",
+        "society": "ATS Kocoon",
+        "tower": "T4",
+        "city": "Gurgaon"
+      },
+      "bhk": 2,
+      "floor": 23,
+      "total_floors": 35,
+      "facing": "N",
+      "carpet_sqft": 933,
+      "rent": 72370,
+      "maintenance": 4500,
+      "club": 0,
+      "furnishing": "fully-furnished",
+      "amenities": [
+        "swimming pool",
+        "rainwater harvesting",
+        "modular kitchen",
+        "CCTV surveillance"
+      ],
+      "photo_hashes": [
+        "91ccdaf086e7b669"
+      ],
+      "description": "Owner shifting - 2 BHK ATS Kocoon open for rent, brokers welcome 1 month",
+      "_true_unit_id": "UNIT-0127"
+    },
+    {
+      "listing_id": "GOLF-UNIT-0129-1",
+      "source_type": "hidden_group",
+      "source_name": "Golf Course Ext Owners Group (WA)",
+      "posted_by": "Amit Malhotra",
+      "posted_date": "2026-09-09",
+      "is_active": true,
+      "address": {
+        "sector": "82",
+        "society": "Vatika India Next",
+        "tower": "T2",
+        "city": "Gurgaon"
+      },
+      "bhk": 3,
+      "floor": 18,
+      "total_floors": 29,
+      "facing": "W",
+      "carpet_sqft": 1357,
+      "rent": 88437,
+      "maintenance": 4900,
+      "club": 1500,
+      "furnishing": "semi-furnished",
+      "amenities": [
+        "swimming pool",
+        "modular kitchen",
+        "pet friendly",
+        "rainwater harvesting"
+      ],
+      "photo_hashes": [
+        "03b57743c3c890be",
+        "03be771ac3c810be",
+        "03be774ac3c890be",
+        "0cbe772ac3c899be"
+      ],
+      "description": "3bhk Vatika India Next sec 82 available!! semi-furnished floor 18 call fast",
+      "_true_unit_id": "UNIT-0129"
+    }
+  ]

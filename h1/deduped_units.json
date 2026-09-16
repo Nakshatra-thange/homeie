@@ -1,0 +1,5546 @@
+[
+    {
+      "unit_id": "HOMEIE-0001",
+      "society": "Vatika India Next",
+      "sector": "82",
+      "tower": "T5",
+      "bhk": 2,
+      "floor": 12,
+      "total_floors": 13,
+      "facing": "SW",
+      "carpet_sqft": 983,
+      "rent_min": 82460,
+      "rent_max": 82460,
+      "rent_representative": 82460,
+      "maintenance": 2800,
+      "club": 2000,
+      "furnishing": "unfurnished",
+      "amenities": [
+        "covered parking",
+        "piped gas",
+        "rainwater harvesting",
+        "swimming pool"
+      ],
+      "is_active_anywhere": true,
+      "is_off_market_only": false,
+      "num_duplicate_listings": 1,
+      "sources": [
+        {
+          "source_type": "platform",
+          "source_name": "Housing.com",
+          "listing_id": "HOUS-UNIT-0001-1",
+          "rent": 82460,
+          "total_monthly_cost": 87260,
+          "is_active": true,
+          "posted_date": "2026-08-09"
+        }
+      ],
+      "description_sample": "2BHK for rent in Vatika India Next, Sector 82. unfurnished, floor 12. Genuine owner listing."
+    },
+    {
+      "unit_id": "HOMEIE-0002",
+      "society": "Godrej Habitat",
+      "sector": "78",
+      "tower": "T1",
+      "bhk": 2,
+      "floor": 28,
+      "total_floors": 30,
+      "facing": "SE",
+      "carpet_sqft": 863,
+      "rent_min": 87797,
+      "rent_max": 89273,
+      "rent_representative": 88622,
+      "maintenance": 6000,
+      "club": 1500,
+      "furnishing": "semi-furnished",
+      "amenities": [
+        "clubhouse",
+        "jogging track",
+        "modular kitchen",
+        "pet friendly",
+        "visitor parking"
+      ],
+      "is_active_anywhere": true,
+      "is_off_market_only": false,
+      "num_duplicate_listings": 3,
+      "sources": [
+        {
+          "source_type": "platform",
+          "source_name": "Housing.com",
+          "listing_id": "HOUS-UNIT-0007-1",
+          "rent": 89273,
+          "total_monthly_cost": 96773,
+          "is_active": false,
+          "posted_date": "2026-08-09"
+        },
+        {
+          "source_type": "platform",
+          "source_name": "MagicBricks",
+          "listing_id": "MAGI-UNIT-0007-2",
+          "rent": 88622,
+          "total_monthly_cost": 96122,
+          "is_active": true,
+          "posted_date": "2026-08-17"
+        },
+        {
+          "source_type": "platform",
+          "source_name": "99acres",
+          "listing_id": "99AC-UNIT-0007-3",
+          "rent": 87797,
+          "total_monthly_cost": 95297,
+          "is_active": true,
+          "posted_date": "2026-08-06"
+        }
+      ],
+      "description_sample": "Well maintained 2 BHK, Godrej Habitat. Ideal for families. semi-furnished unit, immediate possession."
+    },
+    {
+      "unit_id": "HOMEIE-0003",
+      "society": "Experion Windchants",
+      "sector": "112",
+      "tower": "T3",
+      "bhk": 2,
+      "floor": 28,
+      "total_floors": 34,
+      "facing": "N",
+      "carpet_sqft": 897,
+      "rent_min": 58934,
+      "rent_max": 58934,
+      "rent_representative": 58934,
+      "maintenance": 3300,
+      "club": 1500,
+      "furnishing": "semi-furnished",
+      "amenities": [
+        "clubhouse",
+        "covered parking",
+        "gym",
+        "jogging track"
+      ],
+      "is_active_anywhere": true,
+      "is_off_market_only": false,
+      "num_duplicate_listings": 1,
+      "sources": [
+        {
+          "source_type": "platform",
+          "source_name": "MagicBricks",
+          "listing_id": "MAGI-UNIT-0011-1",
+          "rent": 58934,
+          "total_monthly_cost": 63734,
+          "is_active": true,
+          "posted_date": "2026-08-27"
+        }
+      ],
+      "description_sample": "Spacious 2 BHK available in Experion Windchants, N-facing, 897 sqft. Contact for viewing."
+    },
+    {
+      "unit_id": "HOMEIE-0004",
+      "society": "Tulip Violet",
+      "sector": "69",
+      "tower": "T7",
+      "bhk": 3,
+      "floor": 17,
+      "total_floors": 27,
+      "facing": "SE",
+      "carpet_sqft": 1569,
+      "rent_min": 76140,
+      "rent_max": 76140,
+      "rent_representative": 76140,
+      "maintenance": 3100,
+      "club": 1000,
+      "furnishing": "unfurnished",
+      "amenities": [
+        "CCTV surveillance",
+        "clubhouse",
+        "gym",
+        "jogging track"
+      ],
+      "is_active_anywhere": false,
+      "is_off_market_only": false,
+      "num_duplicate_listings": 1,
+      "sources": [
+        {
+          "source_type": "platform",
+          "source_name": "MagicBricks",
+          "listing_id": "MAGI-UNIT-0013-1",
+          "rent": 76140,
+          "total_monthly_cost": 80240,
+          "is_active": false,
+          "posted_date": "2026-08-10"
+        }
+      ],
+      "description_sample": "3BHK for rent in Tulip Violet, Sector 69. unfurnished, floor 17. Genuine owner listing."
+    },
+    {
+      "unit_id": "HOMEIE-0005",
+      "society": "Bestech Park View",
+      "sector": "48",
+      "tower": "T9",
+      "bhk": 3,
+      "floor": 20,
+      "total_floors": 33,
+      "facing": "SW",
+      "carpet_sqft": 1353,
+      "rent_min": 129021,
+      "rent_max": 129021,
+      "rent_representative": 129021,
+      "maintenance": 7600,
+      "club": 2000,
+      "furnishing": "semi-furnished",
+      "amenities": [
+        "CCTV surveillance",
+        "gym",
+        "modular kitchen",
+        "rainwater harvesting"
+      ],
+      "is_active_anywhere": true,
+      "is_off_market_only": false,
+      "num_duplicate_listings": 1,
+      "sources": [
+        {
+          "source_type": "platform",
+          "source_name": "MagicBricks",
+          "listing_id": "MAGI-UNIT-0015-1",
+          "rent": 129021,
+          "total_monthly_cost": 138621,
+          "is_active": true,
+          "posted_date": "2026-08-04"
+        }
+      ],
+      "description_sample": "Well maintained 3 BHK, Bestech Park View. Ideal for families. semi-furnished unit, immediate possession."
+    },
+    {
+      "unit_id": "HOMEIE-0006",
+      "society": "Ambience Creacions",
+      "sector": "22",
+      "tower": "T1",
+      "bhk": 3,
+      "floor": 1,
+      "total_floors": 6,
+      "facing": "SE",
+      "carpet_sqft": 1329,
+      "rent_min": 87802,
+      "rent_max": 88563,
+      "rent_representative": 88182,
+      "maintenance": 5500,
+      "club": 1000,
+      "furnishing": "unfurnished",
+      "amenities": [
+        "children's play area",
+        "jogging track",
+        "pet friendly",
+        "swimming pool",
+        "visitor parking"
+      ],
+      "is_active_anywhere": true,
+      "is_off_market_only": false,
+      "num_duplicate_listings": 2,
+      "sources": [
+        {
+          "source_type": "platform",
+          "source_name": "Housing.com",
+          "listing_id": "HOUS-UNIT-0017-1",
+          "rent": 88563,
+          "total_monthly_cost": 95063,
+          "is_active": true,
+          "posted_date": "2026-09-15"
+        },
+        {
+          "source_type": "platform",
+          "source_name": "99acres",
+          "listing_id": "99AC-UNIT-0017-2",
+          "rent": 87802,
+          "total_monthly_cost": 94302,
+          "is_active": true,
+          "posted_date": "2026-08-19"
+        }
+      ],
+      "description_sample": "Spacious 3 BHK available in Ambience Creacions, SE-facing, 1328 sqft. Contact for viewing."
+    },
+    {
+      "unit_id": "HOMEIE-0007",
+      "society": "Birla Navya",
+      "sector": "63A",
+      "tower": "T5",
+      "bhk": 3,
+      "floor": 7,
+      "total_floors": 17,
+      "facing": "NE",
+      "carpet_sqft": 1519,
+      "rent_min": 80057,
+      "rent_max": 83250,
+      "rent_representative": 82027,
+      "maintenance": 4600,
+      "club": 1500,
+      "furnishing": "fully-furnished",
+      "amenities": [
+        "covered parking",
+        "modular kitchen",
+        "swimming pool"
+      ],
+      "is_active_anywhere": true,
+      "is_off_market_only": false,
+      "num_duplicate_listings": 3,
+      "sources": [
+        {
+          "source_type": "platform",
+          "source_name": "Housing.com",
+          "listing_id": "HOUS-UNIT-0020-1",
+          "rent": 80057,
+          "total_monthly_cost": 86157,
+          "is_active": true,
+          "posted_date": "2026-08-22"
+        },
+        {
+          "source_type": "platform",
+          "source_name": "99acres",
+          "listing_id": "99AC-UNIT-0020-2",
+          "rent": 82027,
+          "total_monthly_cost": 88127,
+          "is_active": true,
+          "posted_date": "2026-09-08"
+        },
+        {
+          "source_type": "hidden_group",
+          "source_name": "Golf Course Ext Owners Group (WA)",
+          "listing_id": "GOLF-UNIT-0020-1",
+          "rent": 83250,
+          "total_monthly_cost": 89350,
+          "is_active": true,
+          "posted_date": "2026-09-11"
+        }
+      ],
+      "description_sample": "Well maintained 3 BHK, Birla Navya. Ideal for families. fully-furnished unit, immediate possession."
+    },
+    {
+      "unit_id": "HOMEIE-0008",
+      "society": "Sobha City",
+      "sector": "108",
+      "tower": "T9",
+      "bhk": 3,
+      "floor": 12,
+      "total_floors": 22,
+      "facing": "NW",
+      "carpet_sqft": 1549,
+      "rent_min": 91956,
+      "rent_max": 93392,
+      "rent_representative": 93202,
+      "maintenance": 4300,
+      "club": 1500,
+      "furnishing": "semi-furnished",
+      "amenities": [
+        "children's play area",
+        "covered parking",
+        "swimming pool",
+        "visitor parking"
+      ],
+      "is_active_anywhere": true,
+      "is_off_market_only": false,
+      "num_duplicate_listings": 3,
+      "sources": [
+        {
+          "source_type": "platform",
+          "source_name": "Housing.com",
+          "listing_id": "HOUS-UNIT-0021-1",
+          "rent": 93202,
+          "total_monthly_cost": 99002,
+          "is_active": true,
+          "posted_date": "2026-08-14"
+        },
+        {
+          "source_type": "platform",
+          "source_name": "MagicBricks",
+          "listing_id": "MAGI-UNIT-0021-2",
+          "rent": 93392,
+          "total_monthly_cost": 99192,
+          "is_active": false,
+          "posted_date": "2026-08-02"
+        },
+        {
+          "source_type": "platform",
+          "source_name": "99acres",
+          "listing_id": "99AC-UNIT-0021-3",
+          "rent": 91956,
+          "total_monthly_cost": 97756,
+          "is_active": true,
+          "posted_date": "2026-08-12"
+        }
+      ],
+      "description_sample": "Well maintained 3 BHK, Sobha City. Ideal for families. semi-furnished unit, immediate possession."
+    },
+    {
+      "unit_id": "HOMEIE-0009",
+      "society": "Emaar Digi Homes",
+      "sector": "62",
+      "tower": "T5",
+      "bhk": 2,
+      "floor": 2,
+      "total_floors": 10,
+      "facing": "SW",
+      "carpet_sqft": 884,
+      "rent_min": 106650,
+      "rent_max": 108648,
+      "rent_representative": 107743,
+      "maintenance": 6800,
+      "club": 2500,
+      "furnishing": "semi-furnished",
+      "amenities": [
+        "24x7 power backup",
+        "CCTV surveillance",
+        "children's play area",
+        "clubhouse",
+        "gym",
+        "pet friendly"
+      ],
+      "is_active_anywhere": true,
+      "is_off_market_only": false,
+      "num_duplicate_listings": 4,
+      "sources": [
+        {
+          "source_type": "platform",
+          "source_name": "Housing.com",
+          "listing_id": "HOUS-UNIT-0022-1",
+          "rent": 108335,
+          "total_monthly_cost": 117635,
+          "is_active": true,
+          "posted_date": "2026-08-19"
+        },
+        {
+          "source_type": "platform",
+          "source_name": "MagicBricks",
+          "listing_id": "MAGI-UNIT-0022-2",
+          "rent": 107152,
+          "total_monthly_cost": 116452,
+          "is_active": true,
+          "posted_date": "2026-08-10"
+        },
+        {
+          "source_type": "platform",
+          "source_name": "99acres",
+          "listing_id": "99AC-UNIT-0022-3",
+          "rent": 108648,
+          "total_monthly_cost": 117948,
+          "is_active": true,
+          "posted_date": "2026-08-25"
+        },
+        {
+          "source_type": "hidden_group",
+          "source_name": "Sohna Road Rentals (WA)",
+          "listing_id": "SOHN-UNIT-0022-1",
+          "rent": 106650,
+          "total_monthly_cost": 115950,
+          "is_active": true,
+          "posted_date": "2026-09-01"
+        }
+      ],
+      "description_sample": "Spacious 2 BHK available in Emaar Digi Homes, SW-facing, 894 sqft. Contact for viewing."
+    },
+    {
+      "unit_id": "HOMEIE-0010",
+      "society": "Ireo Skyon",
+      "sector": "60",
+      "tower": "T8",
+      "bhk": 2,
+      "floor": 27,
+      "total_floors": 28,
+      "facing": "E",
+      "carpet_sqft": 980,
+      "rent_min": 49570,
+      "rent_max": 49905,
+      "rent_representative": 49872,
+      "maintenance": 3300,
+      "club": 1500,
+      "furnishing": "fully-furnished",
+      "amenities": [
+        "jogging track",
+        "pet friendly",
+        "rainwater harvesting",
+        "swimming pool",
+        "visitor parking"
+      ],
+      "is_active_anywhere": true,
+      "is_off_market_only": false,
+      "num_duplicate_listings": 3,
+      "sources": [
+        {
+          "source_type": "platform",
+          "source_name": "Housing.com",
+          "listing_id": "HOUS-UNIT-0027-1",
+          "rent": 49570,
+          "total_monthly_cost": 54370,
+          "is_active": true,
+          "posted_date": "2026-08-27"
+        },
+        {
+          "source_type": "platform",
+          "source_name": "99acres",
+          "listing_id": "99AC-UNIT-0027-2",
+          "rent": 49905,
+          "total_monthly_cost": 54705,
+          "is_active": true,
+          "posted_date": "2026-08-09"
+        },
+        {
+          "source_type": "platform",
+          "source_name": "MagicBricks",
+          "listing_id": "MAGI-UNIT-0027-3",
+          "rent": 49872,
+          "total_monthly_cost": 54672,
+          "is_active": true,
+          "posted_date": "2026-08-30"
+        }
+      ],
+      "description_sample": "2BHK for rent in Ireo Skyon, Sector 60. fully-furnished, floor 27. Genuine owner listing."
+    },
+    {
+      "unit_id": "HOMEIE-0011",
+      "society": "Central Park Flower Valley",
+      "sector": "33",
+      "tower": "T7",
+      "bhk": 3,
+      "floor": 18,
+      "total_floors": 32,
+      "facing": "NW",
+      "carpet_sqft": 1359,
+      "rent_min": 105972,
+      "rent_max": 107774,
+      "rent_representative": 107311,
+      "maintenance": 7200,
+      "club": 1000,
+      "furnishing": "fully-furnished",
+      "amenities": [
+        "24x7 power backup",
+        "children's play area",
+        "jogging track",
+        "pet friendly",
+        "swimming pool",
+        "visitor parking"
+      ],
+      "is_active_anywhere": true,
+      "is_off_market_only": false,
+      "num_duplicate_listings": 3,
+      "sources": [
+        {
+          "source_type": "platform",
+          "source_name": "Housing.com",
+          "listing_id": "HOUS-UNIT-0028-1",
+          "rent": 107311,
+          "total_monthly_cost": 115511,
+          "is_active": true,
+          "posted_date": "2026-09-04"
+        },
+        {
+          "source_type": "platform",
+          "source_name": "99acres",
+          "listing_id": "99AC-UNIT-0028-2",
+          "rent": 107774,
+          "total_monthly_cost": 115974,
+          "is_active": false,
+          "posted_date": "2026-08-19"
+        },
+        {
+          "source_type": "hidden_group",
+          "source_name": "Golf Course Ext Owners Group (WA)",
+          "listing_id": "GOLF-UNIT-0028-1",
+          "rent": 105972,
+          "total_monthly_cost": 114172,
+          "is_active": true,
+          "posted_date": "2026-08-31"
+        }
+      ],
+      "description_sample": "Well maintained 3 BHK, Central Park Flower Valley. Ideal for families. fully-furnished unit, immediate possession."
+    },
+    {
+      "unit_id": "HOMEIE-0012",
+      "society": "Bestech Park View",
+      "sector": "48",
+      "tower": "T7",
+      "bhk": 3,
+      "floor": 11,
+      "total_floors": 31,
+      "facing": "S",
+      "carpet_sqft": 1423,
+      "rent_min": 116169,
+      "rent_max": 120083,
+      "rent_representative": 118126,
+      "maintenance": 7300,
+      "club": 2500,
+      "furnishing": "semi-furnished",
+      "amenities": [
+        "modular kitchen",
+        "rainwater harvesting",
+        "visitor parking"
+      ],
+      "is_active_anywhere": true,
+      "is_off_market_only": false,
+      "num_duplicate_listings": 2,
+      "sources": [
+        {
+          "source_type": "platform",
+          "source_name": "MagicBricks",
+          "listing_id": "MAGI-UNIT-0029-1",
+          "rent": 116169,
+          "total_monthly_cost": 125969,
+          "is_active": true,
+          "posted_date": "2026-08-09"
+        },
+        {
+          "source_type": "platform",
+          "source_name": "99acres",
+          "listing_id": "99AC-UNIT-0029-2",
+          "rent": 120083,
+          "total_monthly_cost": 129883,
+          "is_active": true,
+          "posted_date": "2026-09-07"
+        }
+      ],
+      "description_sample": "Well maintained 3 BHK, Bestech Park View. Ideal for families. semi-furnished unit, immediate possession."
+    },
+    {
+      "unit_id": "HOMEIE-0013",
+      "society": "Central Park Flower Valley",
+      "sector": "33",
+      "tower": "T4",
+      "bhk": 3,
+      "floor": 14,
+      "total_floors": 30,
+      "facing": "SE",
+      "carpet_sqft": 1512,
+      "rent_min": 54395,
+      "rent_max": 55642,
+      "rent_representative": 55018,
+      "maintenance": 3000,
+      "club": 1000,
+      "furnishing": "unfurnished",
+      "amenities": [
+        "covered parking",
+        "jogging track",
+        "piped gas",
+        "visitor parking"
+      ],
+      "is_active_anywhere": true,
+      "is_off_market_only": false,
+      "num_duplicate_listings": 2,
+      "sources": [
+        {
+          "source_type": "platform",
+          "source_name": "99acres",
+          "listing_id": "99AC-UNIT-0030-1",
+          "rent": 54395,
+          "total_monthly_cost": 58395,
+          "is_active": true,
+          "posted_date": "2026-08-03"
+        },
+        {
+          "source_type": "platform",
+          "source_name": "Housing.com",
+          "listing_id": "HOUS-UNIT-0030-2",
+          "rent": 55642,
+          "total_monthly_cost": 59642,
+          "is_active": true,
+          "posted_date": "2026-08-14"
+        }
+      ],
+      "description_sample": "Spacious 3 BHK available in Central Park Flower Valley, SE-facing, 1520 sqft. Contact for viewing."
+    },
+    {
+      "unit_id": "HOMEIE-0014",
+      "society": "Emaar Digi Homes",
+      "sector": "62",
+      "tower": "T6",
+      "bhk": 3,
+      "floor": 4,
+      "total_floors": 20,
+      "facing": "SE",
+      "carpet_sqft": 1535,
+      "rent_min": 95791,
+      "rent_max": 95791,
+      "rent_representative": 95791,
+      "maintenance": 6300,
+      "club": 0,
+      "furnishing": "fully-furnished",
+      "amenities": [
+        "24x7 power backup",
+        "modular kitchen",
+        "pet friendly",
+        "piped gas"
+      ],
+      "is_active_anywhere": true,
+      "is_off_market_only": false,
+      "num_duplicate_listings": 1,
+      "sources": [
+        {
+          "source_type": "platform",
+          "source_name": "MagicBricks",
+          "listing_id": "MAGI-UNIT-0033-1",
+          "rent": 95791,
+          "total_monthly_cost": 102091,
+          "is_active": true,
+          "posted_date": "2026-09-15"
+        }
+      ],
+      "description_sample": "Spacious 3 BHK available in Emaar Digi Homes, SE-facing, 1535 sqft. Contact for viewing."
+    },
+    {
+      "unit_id": "HOMEIE-0015",
+      "society": "Ireo Skyon",
+      "sector": "60",
+      "tower": "T7",
+      "bhk": 2,
+      "floor": 16,
+      "total_floors": 21,
+      "facing": "E",
+      "carpet_sqft": 950,
+      "rent_min": 135297,
+      "rent_max": 139988,
+      "rent_representative": 137642,
+      "maintenance": 6700,
+      "club": 1000,
+      "furnishing": "fully-furnished",
+      "amenities": [
+        "24x7 power backup",
+        "children's play area",
+        "covered parking",
+        "modular kitchen",
+        "piped gas",
+        "rainwater harvesting"
+      ],
+      "is_active_anywhere": true,
+      "is_off_market_only": false,
+      "num_duplicate_listings": 2,
+      "sources": [
+        {
+          "source_type": "platform",
+          "source_name": "MagicBricks",
+          "listing_id": "MAGI-UNIT-0041-1",
+          "rent": 135297,
+          "total_monthly_cost": 142997,
+          "is_active": true,
+          "posted_date": "2026-08-08"
+        },
+        {
+          "source_type": "platform",
+          "source_name": "Housing.com",
+          "listing_id": "HOUS-UNIT-0041-2",
+          "rent": 139988,
+          "total_monthly_cost": 147688,
+          "is_active": true,
+          "posted_date": "2026-08-07"
+        }
+      ],
+      "description_sample": "Well maintained 2 BHK, Ireo Skyon. Ideal for families. fully-furnished unit, immediate possession."
+    },
+    {
+      "unit_id": "HOMEIE-0016",
+      "society": "Bestech Park View",
+      "sector": "48",
+      "tower": "T9",
+      "bhk": 3,
+      "floor": 25,
+      "total_floors": 33,
+      "facing": "SE",
+      "carpet_sqft": 1349,
+      "rent_min": 88049,
+      "rent_max": 88428,
+      "rent_representative": 88390,
+      "maintenance": 5200,
+      "club": 2500,
+      "furnishing": "unfurnished",
+      "amenities": [
+        "24x7 power backup",
+        "children's play area",
+        "modular kitchen",
+        "pet friendly",
+        "rainwater harvesting"
+      ],
+      "is_active_anywhere": true,
+      "is_off_market_only": false,
+      "num_duplicate_listings": 3,
+      "sources": [
+        {
+          "source_type": "platform",
+          "source_name": "99acres",
+          "listing_id": "99AC-UNIT-0047-1",
+          "rent": 88049,
+          "total_monthly_cost": 95749,
+          "is_active": true,
+          "posted_date": "2026-09-11"
+        },
+        {
+          "source_type": "platform",
+          "source_name": "MagicBricks",
+          "listing_id": "MAGI-UNIT-0047-2",
+          "rent": 88390,
+          "total_monthly_cost": 96090,
+          "is_active": true,
+          "posted_date": "2026-08-13"
+        },
+        {
+          "source_type": "platform",
+          "source_name": "Housing.com",
+          "listing_id": "HOUS-UNIT-0047-3",
+          "rent": 88428,
+          "total_monthly_cost": 96128,
+          "is_active": false,
+          "posted_date": "2026-08-10"
+        }
+      ],
+      "description_sample": "Well maintained 3 BHK, Bestech Park View. Ideal for families. unfurnished unit, immediate possession."
+    },
+    {
+      "unit_id": "HOMEIE-0017",
+      "society": "Vatika India Next",
+      "sector": "82",
+      "tower": "T7",
+      "bhk": 3,
+      "floor": 12,
+      "total_floors": 14,
+      "facing": "NW",
+      "carpet_sqft": 1373,
+      "rent_min": 63661,
+      "rent_max": 69119,
+      "rent_representative": 68026,
+      "maintenance": 2000,
+      "club": 0,
+      "furnishing": "fully-furnished",
+      "amenities": [
+        "24x7 power backup",
+        "CCTV surveillance",
+        "clubhouse",
+        "gym",
+        "visitor parking"
+      ],
+      "is_active_anywhere": true,
+      "is_off_market_only": false,
+      "num_duplicate_listings": 3,
+      "sources": [
+        {
+          "source_type": "platform",
+          "source_name": "Housing.com",
+          "listing_id": "HOUS-UNIT-0048-1",
+          "rent": 68026,
+          "total_monthly_cost": 70026,
+          "is_active": true,
+          "posted_date": "2026-08-19"
+        },
+        {
+          "source_type": "platform",
+          "source_name": "99acres",
+          "listing_id": "99AC-UNIT-0048-2",
+          "rent": 69119,
+          "total_monthly_cost": 71119,
+          "is_active": true,
+          "posted_date": "2026-08-21"
+        },
+        {
+          "source_type": "hidden_group",
+          "source_name": "GGN 3BHK Exchange (WA)",
+          "listing_id": "GGN -UNIT-0048-1",
+          "rent": 63661,
+          "total_monthly_cost": 65661,
+          "is_active": true,
+          "posted_date": "2026-09-10"
+        }
+      ],
+      "description_sample": "3bhk Vatika India Next sec 82 available!! fully-furnished floor 12 call fast"
+    },
+    {
+      "unit_id": "HOMEIE-0018",
+      "society": "M3M Heights",
+      "sector": "65",
+      "tower": "T8",
+      "bhk": 2,
+      "floor": 14,
+      "total_floors": 16,
+      "facing": "S",
+      "carpet_sqft": 999,
+      "rent_min": 120495,
+      "rent_max": 121724,
+      "rent_representative": 121109,
+      "maintenance": 6200,
+      "club": 0,
+      "furnishing": "fully-furnished",
+      "amenities": [
+        "24x7 power backup",
+        "CCTV surveillance",
+        "clubhouse",
+        "gym",
+        "jogging track",
+        "swimming pool"
+      ],
+      "is_active_anywhere": true,
+      "is_off_market_only": false,
+      "num_duplicate_listings": 2,
+      "sources": [
+        {
+          "source_type": "platform",
+          "source_name": "MagicBricks",
+          "listing_id": "MAGI-UNIT-0049-1",
+          "rent": 121724,
+          "total_monthly_cost": 127924,
+          "is_active": true,
+          "posted_date": "2026-08-20"
+        },
+        {
+          "source_type": "platform",
+          "source_name": "99acres",
+          "listing_id": "99AC-UNIT-0049-2",
+          "rent": 120495,
+          "total_monthly_cost": 126695,
+          "is_active": true,
+          "posted_date": "2026-09-12"
+        }
+      ],
+      "description_sample": "2BHK for rent in M3M Heights, Sector 65. fully-furnished, floor 14. Genuine owner listing."
+    },
+    {
+      "unit_id": "HOMEIE-0019",
+      "society": "Godrej Habitat",
+      "sector": "78",
+      "tower": "T3",
+      "bhk": 3,
+      "floor": 23,
+      "total_floors": 34,
+      "facing": "SW",
+      "carpet_sqft": 1418,
+      "rent_min": 87503,
+      "rent_max": 95686,
+      "rent_representative": 93829,
+      "maintenance": 4300,
+      "club": 1500,
+      "furnishing": "fully-furnished",
+      "amenities": [
+        "24x7 power backup",
+        "children's play area",
+        "covered parking",
+        "gym",
+        "jogging track",
+        "rainwater harvesting"
+      ],
+      "is_active_anywhere": true,
+      "is_off_market_only": false,
+      "num_duplicate_listings": 3,
+      "sources": [
+        {
+          "source_type": "platform",
+          "source_name": "99acres",
+          "listing_id": "99AC-UNIT-0052-1",
+          "rent": 95686,
+          "total_monthly_cost": 101486,
+          "is_active": true,
+          "posted_date": "2026-08-06"
+        },
+        {
+          "source_type": "platform",
+          "source_name": "Housing.com",
+          "listing_id": "HOUS-UNIT-0052-2",
+          "rent": 93829,
+          "total_monthly_cost": 99629,
+          "is_active": true,
+          "posted_date": "2026-08-17"
+        },
+        {
+          "source_type": "hidden_group",
+          "source_name": "Sohna Road Rentals (WA)",
+          "listing_id": "SOHN-UNIT-0052-1",
+          "rent": 87503,
+          "total_monthly_cost": 93303,
+          "is_active": true,
+          "posted_date": "2026-09-13"
+        }
+      ],
+      "description_sample": "3BHK for rent in Godrej Habitat, Sector 78. fully-furnished, floor 23. Genuine owner listing."
+    },
+    {
+      "unit_id": "HOMEIE-0020",
+      "society": "Bestech Park View",
+      "sector": "48",
+      "tower": "T6",
+      "bhk": 4,
+      "floor": 28,
+      "total_floors": 29,
+      "facing": "NE",
+      "carpet_sqft": 1870,
+      "rent_min": 76982,
+      "rent_max": 79766,
+      "rent_representative": 78374,
+      "maintenance": 4800,
+      "club": 1000,
+      "furnishing": "semi-furnished",
+      "amenities": [
+        "24x7 power backup",
+        "CCTV surveillance",
+        "clubhouse",
+        "covered parking",
+        "pet friendly",
+        "rainwater harvesting",
+        "swimming pool"
+      ],
+      "is_active_anywhere": true,
+      "is_off_market_only": false,
+      "num_duplicate_listings": 2,
+      "sources": [
+        {
+          "source_type": "platform",
+          "source_name": "Housing.com",
+          "listing_id": "HOUS-UNIT-0054-1",
+          "rent": 79766,
+          "total_monthly_cost": 85566,
+          "is_active": true,
+          "posted_date": "2026-08-03"
+        },
+        {
+          "source_type": "hidden_group",
+          "source_name": "DLF Phase Brokers Circle (WA)",
+          "listing_id": "DLF -UNIT-0054-1",
+          "rent": 76982,
+          "total_monthly_cost": 82782,
+          "is_active": true,
+          "posted_date": "2026-08-27"
+        }
+      ],
+      "description_sample": "Owner shifting - 4 BHK Bestech Park View open for rent, brokers welcome 1 month"
+    },
+    {
+      "unit_id": "HOMEIE-0021",
+      "society": "Central Park Flower Valley",
+      "sector": "33",
+      "tower": "T3",
+      "bhk": 4,
+      "floor": 16,
+      "total_floors": 16,
+      "facing": "E",
+      "carpet_sqft": 1914,
+      "rent_min": 49094,
+      "rent_max": 49094,
+      "rent_representative": 49094,
+      "maintenance": 2600,
+      "club": 2000,
+      "furnishing": "semi-furnished",
+      "amenities": [
+        "CCTV surveillance",
+        "children's play area",
+        "visitor parking"
+      ],
+      "is_active_anywhere": true,
+      "is_off_market_only": false,
+      "num_duplicate_listings": 1,
+      "sources": [
+        {
+          "source_type": "platform",
+          "source_name": "MagicBricks",
+          "listing_id": "MAGI-UNIT-0063-1",
+          "rent": 49094,
+          "total_monthly_cost": 53694,
+          "is_active": true,
+          "posted_date": "2026-08-24"
+        }
+      ],
+      "description_sample": "Spacious 4 BHK available in Central Park Flower Valley, E-facing, 1914 sqft. Contact for viewing."
+    },
+    {
+      "unit_id": "HOMEIE-0022",
+      "society": "Birla Navya",
+      "sector": "63A",
+      "tower": "T8",
+      "bhk": 2,
+      "floor": 24,
+      "total_floors": 26,
+      "facing": "N",
+      "carpet_sqft": 998,
+      "rent_min": 104740,
+      "rent_max": 111860,
+      "rent_representative": 108300,
+      "maintenance": 3300,
+      "club": 0,
+      "furnishing": "fully-furnished",
+      "amenities": [
+        "24x7 power backup",
+        "CCTV surveillance",
+        "jogging track"
+      ],
+      "is_active_anywhere": true,
+      "is_off_market_only": false,
+      "num_duplicate_listings": 2,
+      "sources": [
+        {
+          "source_type": "platform",
+          "source_name": "MagicBricks",
+          "listing_id": "MAGI-UNIT-0073-1",
+          "rent": 111860,
+          "total_monthly_cost": 115160,
+          "is_active": true,
+          "posted_date": "2026-08-22"
+        },
+        {
+          "source_type": "platform",
+          "source_name": "99acres",
+          "listing_id": "99AC-UNIT-0073-2",
+          "rent": 104740,
+          "total_monthly_cost": 108040,
+          "is_active": true,
+          "posted_date": "2026-08-09"
+        }
+      ],
+      "description_sample": "Well maintained 2 BHK, Birla Navya. Ideal for families. fully-furnished unit, immediate possession."
+    },
+    {
+      "unit_id": "HOMEIE-0023",
+      "society": "Sobha City",
+      "sector": "108",
+      "tower": "T5",
+      "bhk": 4,
+      "floor": 9,
+      "total_floors": 9,
+      "facing": "SE",
+      "carpet_sqft": 1808,
+      "rent_min": 104399,
+      "rent_max": 108638,
+      "rent_representative": 106518,
+      "maintenance": 3500,
+      "club": 0,
+      "furnishing": "fully-furnished",
+      "amenities": [
+        "modular kitchen",
+        "piped gas",
+        "swimming pool"
+      ],
+      "is_active_anywhere": true,
+      "is_off_market_only": false,
+      "num_duplicate_listings": 2,
+      "sources": [
+        {
+          "source_type": "platform",
+          "source_name": "99acres",
+          "listing_id": "99AC-UNIT-0074-1",
+          "rent": 108638,
+          "total_monthly_cost": 112138,
+          "is_active": true,
+          "posted_date": "2026-09-01"
+        },
+        {
+          "source_type": "platform",
+          "source_name": "MagicBricks",
+          "listing_id": "MAGI-UNIT-0074-2",
+          "rent": 104399,
+          "total_monthly_cost": 107899,
+          "is_active": true,
+          "posted_date": "2026-08-10"
+        }
+      ],
+      "description_sample": "4BHK for rent in Sobha City, Sector 108. fully-furnished, floor 9. Genuine owner listing."
+    },
+    {
+      "unit_id": "HOMEIE-0024",
+      "society": "Ambience Creacions",
+      "sector": "22",
+      "tower": "T9",
+      "bhk": 2,
+      "floor": 19,
+      "total_floors": 29,
+      "facing": "SE",
+      "carpet_sqft": 882,
+      "rent_min": 87139,
+      "rent_max": 87139,
+      "rent_representative": 87139,
+      "maintenance": 5200,
+      "club": 0,
+      "furnishing": "fully-furnished",
+      "amenities": [
+        "covered parking",
+        "jogging track",
+        "swimming pool",
+        "visitor parking"
+      ],
+      "is_active_anywhere": true,
+      "is_off_market_only": false,
+      "num_duplicate_listings": 1,
+      "sources": [
+        {
+          "source_type": "platform",
+          "source_name": "MagicBricks",
+          "listing_id": "MAGI-UNIT-0076-1",
+          "rent": 87139,
+          "total_monthly_cost": 92339,
+          "is_active": true,
+          "posted_date": "2026-08-31"
+        }
+      ],
+      "description_sample": "2BHK for rent in Ambience Creacions, Sector 22. fully-furnished, floor 19. Genuine owner listing."
+    },
+    {
+      "unit_id": "HOMEIE-0025",
+      "society": "Vatika India Next",
+      "sector": "82",
+      "tower": "T7",
+      "bhk": 3,
+      "floor": 27,
+      "total_floors": 32,
+      "facing": "SW",
+      "carpet_sqft": 1425,
+      "rent_min": 114722,
+      "rent_max": 121306,
+      "rent_representative": 118014,
+      "maintenance": 5400,
+      "club": 2500,
+      "furnishing": "unfurnished",
+      "amenities": [
+        "CCTV surveillance",
+        "children's play area",
+        "pet friendly",
+        "piped gas",
+        "swimming pool"
+      ],
+      "is_active_anywhere": true,
+      "is_off_market_only": false,
+      "num_duplicate_listings": 2,
+      "sources": [
+        {
+          "source_type": "platform",
+          "source_name": "MagicBricks",
+          "listing_id": "MAGI-UNIT-0079-1",
+          "rent": 121306,
+          "total_monthly_cost": 129206,
+          "is_active": true,
+          "posted_date": "2026-09-09"
+        },
+        {
+          "source_type": "platform",
+          "source_name": "99acres",
+          "listing_id": "99AC-UNIT-0079-2",
+          "rent": 114722,
+          "total_monthly_cost": 122622,
+          "is_active": true,
+          "posted_date": "2026-08-29"
+        }
+      ],
+      "description_sample": "3BHK for rent in Vatika India Next, Sector 82. unfurnished, floor 27. Genuine owner listing."
+    },
+    {
+      "unit_id": "HOMEIE-0026",
+      "society": "DLF Regal Gardens",
+      "sector": "90",
+      "tower": "T2",
+      "bhk": 3,
+      "floor": 25,
+      "total_floors": 34,
+      "facing": "S",
+      "carpet_sqft": 1497,
+      "rent_min": 123910,
+      "rent_max": 126054,
+      "rent_representative": 125470,
+      "maintenance": 4700,
+      "club": 1500,
+      "furnishing": "unfurnished",
+      "amenities": [
+        "children's play area",
+        "covered parking",
+        "gym",
+        "modular kitchen",
+        "pet friendly"
+      ],
+      "is_active_anywhere": true,
+      "is_off_market_only": false,
+      "num_duplicate_listings": 3,
+      "sources": [
+        {
+          "source_type": "platform",
+          "source_name": "MagicBricks",
+          "listing_id": "MAGI-UNIT-0083-1",
+          "rent": 125470,
+          "total_monthly_cost": 131670,
+          "is_active": true,
+          "posted_date": "2026-09-01"
+        },
+        {
+          "source_type": "platform",
+          "source_name": "Housing.com",
+          "listing_id": "HOUS-UNIT-0083-2",
+          "rent": 126054,
+          "total_monthly_cost": 132254,
+          "is_active": false,
+          "posted_date": "2026-08-12"
+        },
+        {
+          "source_type": "hidden_group",
+          "source_name": "GGN 3BHK Exchange (WA)",
+          "listing_id": "GGN -UNIT-0083-1",
+          "rent": 123910,
+          "total_monthly_cost": 130110,
+          "is_active": true,
+          "posted_date": "2026-09-14"
+        }
+      ],
+      "description_sample": "Spacious 3 BHK available in DLF Regal Gardens, S-facing, 1499 sqft. Contact for viewing."
+    },
+    {
+      "unit_id": "HOMEIE-0027",
+      "society": "Godrej Habitat",
+      "sector": "78",
+      "tower": "T1",
+      "bhk": 2,
+      "floor": 3,
+      "total_floors": 17,
+      "facing": "NE",
+      "carpet_sqft": 855,
+      "rent_min": 104491,
+      "rent_max": 109430,
+      "rent_representative": 107044,
+      "maintenance": 4400,
+      "club": 2500,
+      "furnishing": "semi-furnished",
+      "amenities": [
+        "CCTV surveillance",
+        "pet friendly",
+        "piped gas",
+        "visitor parking"
+      ],
+      "is_active_anywhere": true,
+      "is_off_market_only": false,
+      "num_duplicate_listings": 3,
+      "sources": [
+        {
+          "source_type": "platform",
+          "source_name": "MagicBricks",
+          "listing_id": "MAGI-UNIT-0085-1",
+          "rent": 109430,
+          "total_monthly_cost": 116330,
+          "is_active": true,
+          "posted_date": "2026-08-14"
+        },
+        {
+          "source_type": "platform",
+          "source_name": "99acres",
+          "listing_id": "99AC-UNIT-0085-2",
+          "rent": 107044,
+          "total_monthly_cost": 113944,
+          "is_active": true,
+          "posted_date": "2026-08-28"
+        },
+        {
+          "source_type": "hidden_group",
+          "source_name": "Golf Course Ext Owners Group (WA)",
+          "listing_id": "GOLF-UNIT-0085-1",
+          "rent": 104491,
+          "total_monthly_cost": 111391,
+          "is_active": true,
+          "posted_date": "2026-09-03"
+        }
+      ],
+      "description_sample": "Spacious 2 BHK available in Godrej Habitat, NE-facing, 863 sqft. Contact for viewing."
+    },
+    {
+      "unit_id": "HOMEIE-0028",
+      "society": "Bestech Park View",
+      "sector": "48",
+      "tower": "T3",
+      "bhk": 4,
+      "floor": 13,
+      "total_floors": 31,
+      "facing": "NE",
+      "carpet_sqft": 2046,
+      "rent_min": 99403,
+      "rent_max": 102710,
+      "rent_representative": 101127,
+      "maintenance": 4500,
+      "club": 2000,
+      "furnishing": "unfurnished",
+      "amenities": [
+        "gym",
+        "jogging track",
+        "modular kitchen"
+      ],
+      "is_active_anywhere": true,
+      "is_off_market_only": false,
+      "num_duplicate_listings": 3,
+      "sources": [
+        {
+          "source_type": "platform",
+          "source_name": "MagicBricks",
+          "listing_id": "MAGI-UNIT-0087-1",
+          "rent": 99403,
+          "total_monthly_cost": 105903,
+          "is_active": true,
+          "posted_date": "2026-08-21"
+        },
+        {
+          "source_type": "platform",
+          "source_name": "99acres",
+          "listing_id": "99AC-UNIT-0087-2",
+          "rent": 102710,
+          "total_monthly_cost": 109210,
+          "is_active": true,
+          "posted_date": "2026-08-05"
+        },
+        {
+          "source_type": "platform",
+          "source_name": "Housing.com",
+          "listing_id": "HOUS-UNIT-0087-3",
+          "rent": 101127,
+          "total_monthly_cost": 107627,
+          "is_active": true,
+          "posted_date": "2026-09-09"
+        }
+      ],
+      "description_sample": "4BHK for rent in Bestech Park View, Sector 48. unfurnished, floor 13. Genuine owner listing."
+    },
+    {
+      "unit_id": "HOMEIE-0029",
+      "society": "Adani Oyster Grande",
+      "sector": "102",
+      "tower": "T7",
+      "bhk": 4,
+      "floor": 6,
+      "total_floors": 26,
+      "facing": "NE",
+      "carpet_sqft": 2075,
+      "rent_min": 41806,
+      "rent_max": 43214,
+      "rent_representative": 42524,
+      "maintenance": 2500,
+      "club": 2000,
+      "furnishing": "fully-furnished",
+      "amenities": [
+        "24x7 power backup",
+        "covered parking",
+        "visitor parking"
+      ],
+      "is_active_anywhere": true,
+      "is_off_market_only": false,
+      "num_duplicate_listings": 3,
+      "sources": [
+        {
+          "source_type": "platform",
+          "source_name": "99acres",
+          "listing_id": "99AC-UNIT-0089-1",
+          "rent": 43214,
+          "total_monthly_cost": 47714,
+          "is_active": true,
+          "posted_date": "2026-08-12"
+        },
+        {
+          "source_type": "platform",
+          "source_name": "Housing.com",
+          "listing_id": "HOUS-UNIT-0089-2",
+          "rent": 42524,
+          "total_monthly_cost": 47024,
+          "is_active": false,
+          "posted_date": "2026-09-14"
+        },
+        {
+          "source_type": "platform",
+          "source_name": "MagicBricks",
+          "listing_id": "MAGI-UNIT-0089-3",
+          "rent": 41806,
+          "total_monthly_cost": 46306,
+          "is_active": true,
+          "posted_date": "2026-08-02"
+        }
+      ],
+      "description_sample": "Well maintained 4 BHK, Adani Oyster Grande. Ideal for families. fully-furnished unit, immediate possession."
+    },
+    {
+      "unit_id": "HOMEIE-0030",
+      "society": "Bestech Park View",
+      "sector": "48",
+      "tower": "T2",
+      "bhk": 2,
+      "floor": 8,
+      "total_floors": 15,
+      "facing": "NE",
+      "carpet_sqft": 1032,
+      "rent_min": 70243,
+      "rent_max": 73695,
+      "rent_representative": 73269,
+      "maintenance": 2200,
+      "club": 1500,
+      "furnishing": "unfurnished",
+      "amenities": [
+        "24x7 power backup",
+        "CCTV surveillance",
+        "gym",
+        "jogging track",
+        "modular kitchen",
+        "piped gas",
+        "swimming pool"
+      ],
+      "is_active_anywhere": true,
+      "is_off_market_only": false,
+      "num_duplicate_listings": 3,
+      "sources": [
+        {
+          "source_type": "platform",
+          "source_name": "Housing.com",
+          "listing_id": "HOUS-UNIT-0091-1",
+          "rent": 73695,
+          "total_monthly_cost": 77395,
+          "is_active": true,
+          "posted_date": "2026-09-06"
+        },
+        {
+          "source_type": "platform",
+          "source_name": "MagicBricks",
+          "listing_id": "MAGI-UNIT-0091-2",
+          "rent": 70243,
+          "total_monthly_cost": 73943,
+          "is_active": true,
+          "posted_date": "2026-08-24"
+        },
+        {
+          "source_type": "hidden_group",
+          "source_name": "Golf Course Ext Owners Group (WA)",
+          "listing_id": "GOLF-UNIT-0091-1",
+          "rent": 73269,
+          "total_monthly_cost": 76969,
+          "is_active": true,
+          "posted_date": "2026-09-09"
+        }
+      ],
+      "description_sample": "Spacious 2 BHK available in Bestech Park View, NE-facing, 1044 sqft. Contact for viewing."
+    },
+    {
+      "unit_id": "HOMEIE-0031",
+      "society": "M3M Heights",
+      "sector": "65",
+      "tower": "T3",
+      "bhk": 3,
+      "floor": 22,
+      "total_floors": 27,
+      "facing": "W",
+      "carpet_sqft": 1359,
+      "rent_min": 87994,
+      "rent_max": 95418,
+      "rent_representative": 90400,
+      "maintenance": 3600,
+      "club": 2000,
+      "furnishing": "unfurnished",
+      "amenities": [
+        "CCTV surveillance",
+        "piped gas",
+        "visitor parking"
+      ],
+      "is_active_anywhere": true,
+      "is_off_market_only": false,
+      "num_duplicate_listings": 3,
+      "sources": [
+        {
+          "source_type": "platform",
+          "source_name": "99acres",
+          "listing_id": "99AC-UNIT-0100-1",
+          "rent": 95418,
+          "total_monthly_cost": 101018,
+          "is_active": false,
+          "posted_date": "2026-08-06"
+        },
+        {
+          "source_type": "platform",
+          "source_name": "MagicBricks",
+          "listing_id": "MAGI-UNIT-0100-2",
+          "rent": 90400,
+          "total_monthly_cost": 96000,
+          "is_active": true,
+          "posted_date": "2026-08-13"
+        },
+        {
+          "source_type": "hidden_group",
+          "source_name": "GGN 3BHK Exchange (WA)",
+          "listing_id": "GGN -UNIT-0100-1",
+          "rent": 87994,
+          "total_monthly_cost": 93594,
+          "is_active": true,
+          "posted_date": "2026-09-01"
+        }
+      ],
+      "description_sample": "Well maintained 3 BHK, M3M Heights. Ideal for families. unfurnished unit, immediate possession."
+    },
+    {
+      "unit_id": "HOMEIE-0032",
+      "society": "Central Park Flower Valley",
+      "sector": "33",
+      "tower": "T6",
+      "bhk": 4,
+      "floor": 3,
+      "total_floors": 23,
+      "facing": "E",
+      "carpet_sqft": 2044,
+      "rent_min": 68893,
+      "rent_max": 68893,
+      "rent_representative": 68893,
+      "maintenance": 4300,
+      "club": 0,
+      "furnishing": "fully-furnished",
+      "amenities": [
+        "24x7 power backup",
+        "swimming pool"
+      ],
+      "is_active_anywhere": true,
+      "is_off_market_only": false,
+      "num_duplicate_listings": 1,
+      "sources": [
+        {
+          "source_type": "platform",
+          "source_name": "Housing.com",
+          "listing_id": "HOUS-UNIT-0104-1",
+          "rent": 68893,
+          "total_monthly_cost": 73193,
+          "is_active": true,
+          "posted_date": "2026-09-08"
+        }
+      ],
+      "description_sample": "4BHK for rent in Central Park Flower Valley, Sector 33. fully-furnished, floor 3. Genuine owner listing."
+    },
+    {
+      "unit_id": "HOMEIE-0033",
+      "society": "ATS Kocoon",
+      "sector": "109",
+      "tower": "T4",
+      "bhk": 3,
+      "floor": 26,
+      "total_floors": 28,
+      "facing": "SW",
+      "carpet_sqft": 1330,
+      "rent_min": 114172,
+      "rent_max": 114627,
+      "rent_representative": 114399,
+      "maintenance": 6700,
+      "club": 0,
+      "furnishing": "semi-furnished",
+      "amenities": [
+        "children's play area",
+        "gym"
+      ],
+      "is_active_anywhere": true,
+      "is_off_market_only": false,
+      "num_duplicate_listings": 2,
+      "sources": [
+        {
+          "source_type": "platform",
+          "source_name": "99acres",
+          "listing_id": "99AC-UNIT-0105-1",
+          "rent": 114172,
+          "total_monthly_cost": 120872,
+          "is_active": true,
+          "posted_date": "2026-08-25"
+        },
+        {
+          "source_type": "platform",
+          "source_name": "MagicBricks",
+          "listing_id": "MAGI-UNIT-0105-2",
+          "rent": 114627,
+          "total_monthly_cost": 121327,
+          "is_active": true,
+          "posted_date": "2026-09-13"
+        }
+      ],
+      "description_sample": "Well maintained 3 BHK, ATS Kocoon. Ideal for families. semi-furnished unit, immediate possession."
+    },
+    {
+      "unit_id": "HOMEIE-0034",
+      "society": "Godrej Habitat",
+      "sector": "78",
+      "tower": "T8",
+      "bhk": 2,
+      "floor": 10,
+      "total_floors": 25,
+      "facing": "NE",
+      "carpet_sqft": 867,
+      "rent_min": 83839,
+      "rent_max": 91720,
+      "rent_representative": 88119,
+      "maintenance": 4700,
+      "club": 2000,
+      "furnishing": "unfurnished",
+      "amenities": [
+        "24x7 power backup",
+        "children's play area",
+        "clubhouse",
+        "jogging track",
+        "pet friendly"
+      ],
+      "is_active_anywhere": true,
+      "is_off_market_only": false,
+      "num_duplicate_listings": 3,
+      "sources": [
+        {
+          "source_type": "platform",
+          "source_name": "Housing.com",
+          "listing_id": "HOUS-UNIT-0107-1",
+          "rent": 88119,
+          "total_monthly_cost": 94819,
+          "is_active": true,
+          "posted_date": "2026-09-16"
+        },
+        {
+          "source_type": "platform",
+          "source_name": "MagicBricks",
+          "listing_id": "MAGI-UNIT-0107-2",
+          "rent": 91720,
+          "total_monthly_cost": 98420,
+          "is_active": true,
+          "posted_date": "2026-08-15"
+        },
+        {
+          "source_type": "hidden_group",
+          "source_name": "GGN 3BHK Exchange (WA)",
+          "listing_id": "GGN -UNIT-0107-1",
+          "rent": 83839,
+          "total_monthly_cost": 90539,
+          "is_active": true,
+          "posted_date": "2026-09-04"
+        }
+      ],
+      "description_sample": "Spacious 2 BHK available in Godrej Habitat, NE-facing, 874 sqft. Contact for viewing."
+    },
+    {
+      "unit_id": "HOMEIE-0035",
+      "society": "Adani Oyster Grande",
+      "sector": "102",
+      "tower": "T8",
+      "bhk": 2,
+      "floor": 24,
+      "total_floors": 28,
+      "facing": "NE",
+      "carpet_sqft": 951,
+      "rent_min": 36938,
+      "rent_max": 40045,
+      "rent_representative": 38491,
+      "maintenance": 1800,
+      "club": 0,
+      "furnishing": "fully-furnished",
+      "amenities": [
+        "CCTV surveillance",
+        "children's play area",
+        "gym",
+        "modular kitchen",
+        "pet friendly",
+        "swimming pool",
+        "visitor parking"
+      ],
+      "is_active_anywhere": true,
+      "is_off_market_only": false,
+      "num_duplicate_listings": 2,
+      "sources": [
+        {
+          "source_type": "platform",
+          "source_name": "Housing.com",
+          "listing_id": "HOUS-UNIT-0114-1",
+          "rent": 40045,
+          "total_monthly_cost": 41845,
+          "is_active": true,
+          "posted_date": "2026-09-01"
+        },
+        {
+          "source_type": "hidden_group",
+          "source_name": "Golf Course Ext Owners Group (WA)",
+          "listing_id": "GOLF-UNIT-0114-1",
+          "rent": 36938,
+          "total_monthly_cost": 38738,
+          "is_active": true,
+          "posted_date": "2026-09-12"
+        }
+      ],
+      "description_sample": "Direct from owner: Adani Oyster Grande 2BHK, 948 sq ft approx, negotiable"
+    },
+    {
+      "unit_id": "HOMEIE-0036",
+      "society": "Adani Oyster Grande",
+      "sector": "102",
+      "tower": "T5",
+      "bhk": 2,
+      "floor": 1,
+      "total_floors": 16,
+      "facing": "W",
+      "carpet_sqft": 897,
+      "rent_min": 126120,
+      "rent_max": 129149,
+      "rent_representative": 127634,
+      "maintenance": 7700,
+      "club": 2500,
+      "furnishing": "unfurnished",
+      "amenities": [
+        "24x7 power backup",
+        "covered parking",
+        "gym",
+        "jogging track",
+        "modular kitchen"
+      ],
+      "is_active_anywhere": true,
+      "is_off_market_only": false,
+      "num_duplicate_listings": 2,
+      "sources": [
+        {
+          "source_type": "hidden_group",
+          "source_name": "GGN 3BHK Exchange (WA)",
+          "listing_id": "GGN -UNIT-0000-1",
+          "rent": 126120,
+          "total_monthly_cost": 136320,
+          "is_active": true,
+          "posted_date": "2026-08-31"
+        },
+        {
+          "source_type": "hidden_group",
+          "source_name": "Golf Course Ext Owners Group (WA)",
+          "listing_id": "GOLF-UNIT-0000-2",
+          "rent": 129149,
+          "total_monthly_cost": 139349,
+          "is_active": true,
+          "posted_date": "2026-09-03"
+        }
+      ],
+      "description_sample": "Direct from owner: Adani Oyster Grande 2BHK, 918 sq ft approx, negotiable"
+    },
+    {
+      "unit_id": "HOMEIE-0037",
+      "society": "Sobha City",
+      "sector": "108",
+      "tower": "T8",
+      "bhk": 4,
+      "floor": 8,
+      "total_floors": 20,
+      "facing": "NE",
+      "carpet_sqft": 2039,
+      "rent_min": 57310,
+      "rent_max": 57310,
+      "rent_representative": 57310,
+      "maintenance": 3200,
+      "club": 1000,
+      "furnishing": "fully-furnished",
+      "amenities": [
+        "24x7 power backup",
+        "CCTV surveillance",
+        "children's play area",
+        "swimming pool",
+        "visitor parking"
+      ],
+      "is_active_anywhere": true,
+      "is_off_market_only": false,
+      "num_duplicate_listings": 1,
+      "sources": [
+        {
+          "source_type": "hidden_group",
+          "source_name": "Sohna Road Rentals (WA)",
+          "listing_id": "SOHN-UNIT-0002-1",
+          "rent": 57310,
+          "total_monthly_cost": 61510,
+          "is_active": true,
+          "posted_date": "2026-09-07"
+        }
+      ],
+      "description_sample": "Owner shifting - 4 BHK Sobha City open for rent, brokers welcome 1 month"
+    },
+    {
+      "unit_id": "HOMEIE-0038",
+      "society": "Central Park Flower Valley",
+      "sector": "33",
+      "tower": "T8",
+      "bhk": 2,
+      "floor": 5,
+      "total_floors": 7,
+      "facing": "N",
+      "carpet_sqft": 897,
+      "rent_min": 98120,
+      "rent_max": 98120,
+      "rent_representative": 98120,
+      "maintenance": 3600,
+      "club": 1000,
+      "furnishing": "fully-furnished",
+      "amenities": [
+        "covered parking",
+        "gym",
+        "piped gas"
+      ],
+      "is_active_anywhere": true,
+      "is_off_market_only": false,
+      "num_duplicate_listings": 1,
+      "sources": [
+        {
+          "source_type": "hidden_group",
+          "source_name": "Sohna Road Rentals (WA)",
+          "listing_id": "SOHN-UNIT-0003-1",
+          "rent": 98120,
+          "total_monthly_cost": 102720,
+          "is_active": true,
+          "posted_date": "2026-09-08"
+        }
+      ],
+      "description_sample": "2bhk Central Park Flower Valley sec 33 available!! fully-furnished floor 5 call fast"
+    },
+    {
+      "unit_id": "HOMEIE-0039",
+      "society": "Ireo Skyon",
+      "sector": "60",
+      "tower": "T6",
+      "bhk": 2,
+      "floor": 8,
+      "total_floors": 8,
+      "facing": "W",
+      "carpet_sqft": 1002,
+      "rent_min": 41732,
+      "rent_max": 42264,
+      "rent_representative": 41998,
+      "maintenance": 1700,
+      "club": 0,
+      "furnishing": "fully-furnished",
+      "amenities": [
+        "24x7 power backup"
+      ],
+      "is_active_anywhere": true,
+      "is_off_market_only": false,
+      "num_duplicate_listings": 2,
+      "sources": [
+        {
+          "source_type": "hidden_group",
+          "source_name": "DLF Phase Brokers Circle (WA)",
+          "listing_id": "DLF -UNIT-0005-1",
+          "rent": 41732,
+          "total_monthly_cost": 43432,
+          "is_active": true,
+          "posted_date": "2026-09-01"
+        },
+        {
+          "source_type": "hidden_group",
+          "source_name": "GGN 3BHK Exchange (WA)",
+          "listing_id": "GGN -UNIT-0005-2",
+          "rent": 42264,
+          "total_monthly_cost": 43964,
+          "is_active": true,
+          "posted_date": "2026-09-01"
+        }
+      ],
+      "description_sample": "Owner shifting - 2 BHK Ireo Skyon open for rent, brokers welcome 1 month"
+    },
+    {
+      "unit_id": "HOMEIE-0040",
+      "society": "ATS Kocoon",
+      "sector": "109",
+      "tower": "T4",
+      "bhk": 2,
+      "floor": 20,
+      "total_floors": 24,
+      "facing": "SW",
+      "carpet_sqft": 1032,
+      "rent_min": 54163,
+      "rent_max": 54195,
+      "rent_representative": 54179,
+      "maintenance": 1900,
+      "club": 1000,
+      "furnishing": "semi-furnished",
+      "amenities": [
+        "CCTV surveillance",
+        "children's play area",
+        "clubhouse",
+        "covered parking",
+        "piped gas"
+      ],
+      "is_active_anywhere": true,
+      "is_off_market_only": false,
+      "num_duplicate_listings": 2,
+      "sources": [
+        {
+          "source_type": "hidden_group",
+          "source_name": "DLF Phase Brokers Circle (WA)",
+          "listing_id": "DLF -UNIT-0018-1",
+          "rent": 54163,
+          "total_monthly_cost": 57063,
+          "is_active": true,
+          "posted_date": "2026-08-30"
+        },
+        {
+          "source_type": "hidden_group",
+          "source_name": "Golf Course Ext Owners Group (WA)",
+          "listing_id": "GOLF-UNIT-0018-2",
+          "rent": 54195,
+          "total_monthly_cost": 57095,
+          "is_active": true,
+          "posted_date": "2026-09-01"
+        }
+      ],
+      "description_sample": "Owner shifting - 2 BHK ATS Kocoon open for rent, brokers welcome 1 month"
+    },
+    {
+      "unit_id": "HOMEIE-0041",
+      "society": "Adani Oyster Grande",
+      "sector": "102",
+      "tower": "T6",
+      "bhk": 3,
+      "floor": 3,
+      "total_floors": 3,
+      "facing": "SE",
+      "carpet_sqft": 1471,
+      "rent_min": 103642,
+      "rent_max": 103642,
+      "rent_representative": 103642,
+      "maintenance": 3400,
+      "club": 1500,
+      "furnishing": "fully-furnished",
+      "amenities": [
+        "CCTV surveillance",
+        "gym",
+        "jogging track",
+        "modular kitchen",
+        "visitor parking"
+      ],
+      "is_active_anywhere": true,
+      "is_off_market_only": false,
+      "num_duplicate_listings": 1,
+      "sources": [
+        {
+          "source_type": "hidden_group",
+          "source_name": "GGN 3BHK Exchange (WA)",
+          "listing_id": "GGN -UNIT-0019-1",
+          "rent": 103642,
+          "total_monthly_cost": 108542,
+          "is_active": true,
+          "posted_date": "2026-09-01"
+        }
+      ],
+      "description_sample": "3bhk Adani Oyster Grande sec 102 available!! fully-furnished floor 3 call fast"
+    },
+    {
+      "unit_id": "HOMEIE-0042",
+      "society": "DLF Regal Gardens",
+      "sector": "90",
+      "tower": "T1",
+      "bhk": 4,
+      "floor": 27,
+      "total_floors": 31,
+      "facing": "N",
+      "carpet_sqft": 1812,
+      "rent_min": 104945,
+      "rent_max": 105335,
+      "rent_representative": 105140,
+      "maintenance": 5300,
+      "club": 2000,
+      "furnishing": "semi-furnished",
+      "amenities": [
+        "jogging track",
+        "piped gas",
+        "rainwater harvesting"
+      ],
+      "is_active_anywhere": true,
+      "is_off_market_only": false,
+      "num_duplicate_listings": 2,
+      "sources": [
+        {
+          "source_type": "hidden_group",
+          "source_name": "Sohna Road Rentals (WA)",
+          "listing_id": "SOHN-UNIT-0025-1",
+          "rent": 105335,
+          "total_monthly_cost": 112635,
+          "is_active": true,
+          "posted_date": "2026-08-27"
+        },
+        {
+          "source_type": "hidden_group",
+          "source_name": "GGN 3BHK Exchange (WA)",
+          "listing_id": "GGN -UNIT-0025-2",
+          "rent": 104945,
+          "total_monthly_cost": 112245,
+          "is_active": true,
+          "posted_date": "2026-08-30"
+        }
+      ],
+      "description_sample": "Owner shifting - 4 BHK DLF Regal Gardens open for rent, brokers welcome 1 month"
+    },
+    {
+      "unit_id": "HOMEIE-0043",
+      "society": "Tulip Violet",
+      "sector": "69",
+      "tower": "T2",
+      "bhk": 3,
+      "floor": 17,
+      "total_floors": 32,
+      "facing": "SW",
+      "carpet_sqft": 1420,
+      "rent_min": 47740,
+      "rent_max": 48147,
+      "rent_representative": 47943,
+      "maintenance": 2500,
+      "club": 0,
+      "furnishing": "semi-furnished",
+      "amenities": [
+        "24x7 power backup",
+        "children's play area",
+        "gym",
+        "modular kitchen",
+        "pet friendly",
+        "piped gas",
+        "swimming pool"
+      ],
+      "is_active_anywhere": true,
+      "is_off_market_only": false,
+      "num_duplicate_listings": 2,
+      "sources": [
+        {
+          "source_type": "hidden_group",
+          "source_name": "Golf Course Ext Owners Group (WA)",
+          "listing_id": "GOLF-UNIT-0036-1",
+          "rent": 48147,
+          "total_monthly_cost": 50647,
+          "is_active": true,
+          "posted_date": "2026-09-13"
+        },
+        {
+          "source_type": "hidden_group",
+          "source_name": "DLF Phase Brokers Circle (WA)",
+          "listing_id": "DLF -UNIT-0036-2",
+          "rent": 47740,
+          "total_monthly_cost": 50240,
+          "is_active": true,
+          "posted_date": "2026-09-15"
+        }
+      ],
+      "description_sample": "3bhk Tulip Violet sec 69 available!! semi-furnished floor 17 call fast"
+    },
+    {
+      "unit_id": "HOMEIE-0044",
+      "society": "Vatika India Next",
+      "sector": "82",
+      "tower": "T8",
+      "bhk": 3,
+      "floor": 17,
+      "total_floors": 33,
+      "facing": "SE",
+      "carpet_sqft": 1324,
+      "rent_min": 70755,
+      "rent_max": 74999,
+      "rent_representative": 72877,
+      "maintenance": 4400,
+      "club": 0,
+      "furnishing": "fully-furnished",
+      "amenities": [
+        "CCTV surveillance",
+        "clubhouse",
+        "jogging track",
+        "pet friendly",
+        "rainwater harvesting",
+        "swimming pool",
+        "visitor parking"
+      ],
+      "is_active_anywhere": true,
+      "is_off_market_only": false,
+      "num_duplicate_listings": 2,
+      "sources": [
+        {
+          "source_type": "hidden_group",
+          "source_name": "Golf Course Ext Owners Group (WA)",
+          "listing_id": "GOLF-UNIT-0037-1",
+          "rent": 74999,
+          "total_monthly_cost": 79399,
+          "is_active": true,
+          "posted_date": "2026-09-09"
+        },
+        {
+          "source_type": "hidden_group",
+          "source_name": "Sohna Road Rentals (WA)",
+          "listing_id": "SOHN-UNIT-0037-2",
+          "rent": 70755,
+          "total_monthly_cost": 75155,
+          "is_active": true,
+          "posted_date": "2026-08-28"
+        }
+      ],
+      "description_sample": "Owner shifting - 3 BHK Vatika India Next open for rent, brokers welcome 1 month"
+    },
+    {
+      "unit_id": "HOMEIE-0045",
+      "society": "Adani Oyster Grande",
+      "sector": "102",
+      "tower": "T6",
+      "bhk": 3,
+      "floor": 21,
+      "total_floors": 34,
+      "facing": "NW",
+      "carpet_sqft": 1331,
+      "rent_min": 118046,
+      "rent_max": 118046,
+      "rent_representative": 118046,
+      "maintenance": 5500,
+      "club": 2000,
+      "furnishing": "semi-furnished",
+      "amenities": [
+        "24x7 power backup",
+        "CCTV surveillance",
+        "children's play area",
+        "gym",
+        "piped gas"
+      ],
+      "is_active_anywhere": true,
+      "is_off_market_only": false,
+      "num_duplicate_listings": 1,
+      "sources": [
+        {
+          "source_type": "hidden_group",
+          "source_name": "DLF Phase Brokers Circle (WA)",
+          "listing_id": "DLF -UNIT-0043-1",
+          "rent": 118046,
+          "total_monthly_cost": 125546,
+          "is_active": true,
+          "posted_date": "2026-09-14"
+        }
+      ],
+      "description_sample": "Owner shifting - 3 BHK Adani Oyster Grande open for rent, brokers welcome 1 month"
+    },
+    {
+      "unit_id": "HOMEIE-0046",
+      "society": "Ambience Creacions",
+      "sector": "22",
+      "tower": "T1",
+      "bhk": 3,
+      "floor": 17,
+      "total_floors": 31,
+      "facing": "S",
+      "carpet_sqft": 1405,
+      "rent_min": 54258,
+      "rent_max": 55286,
+      "rent_representative": 54772,
+      "maintenance": 3700,
+      "club": 0,
+      "furnishing": "fully-furnished",
+      "amenities": [
+        "24x7 power backup",
+        "pet friendly",
+        "rainwater harvesting",
+        "swimming pool"
+      ],
+      "is_active_anywhere": true,
+      "is_off_market_only": false,
+      "num_duplicate_listings": 2,
+      "sources": [
+        {
+          "source_type": "hidden_group",
+          "source_name": "Golf Course Ext Owners Group (WA)",
+          "listing_id": "GOLF-UNIT-0044-1",
+          "rent": 54258,
+          "total_monthly_cost": 57958,
+          "is_active": true,
+          "posted_date": "2026-09-12"
+        },
+        {
+          "source_type": "hidden_group",
+          "source_name": "GGN 3BHK Exchange (WA)",
+          "listing_id": "GGN -UNIT-0044-2",
+          "rent": 55286,
+          "total_monthly_cost": 58986,
+          "is_active": true,
+          "posted_date": "2026-09-06"
+        }
+      ],
+      "description_sample": "Owner shifting - 3 BHK Ambience Creacions open for rent, brokers welcome 1 month"
+    },
+    {
+      "unit_id": "HOMEIE-0047",
+      "society": "Central Park Flower Valley",
+      "sector": "33",
+      "tower": "T3",
+      "bhk": 2,
+      "floor": 19,
+      "total_floors": 30,
+      "facing": "NE",
+      "carpet_sqft": 1043,
+      "rent_min": 122019,
+      "rent_max": 122019,
+      "rent_representative": 122019,
+      "maintenance": 6900,
+      "club": 2000,
+      "furnishing": "unfurnished",
+      "amenities": [
+        "children's play area",
+        "covered parking",
+        "gym",
+        "jogging track",
+        "piped gas",
+        "visitor parking"
+      ],
+      "is_active_anywhere": true,
+      "is_off_market_only": false,
+      "num_duplicate_listings": 1,
+      "sources": [
+        {
+          "source_type": "hidden_group",
+          "source_name": "Golf Course Ext Owners Group (WA)",
+          "listing_id": "GOLF-UNIT-0045-1",
+          "rent": 122019,
+          "total_monthly_cost": 130919,
+          "is_active": true,
+          "posted_date": "2026-09-08"
+        }
+      ],
+      "description_sample": "Owner shifting - 2 BHK Central Park Flower Valley open for rent, brokers welcome 1 month"
+    },
+    {
+      "unit_id": "HOMEIE-0048",
+      "society": "Bestech Park View",
+      "sector": "48",
+      "tower": "T6",
+      "bhk": 4,
+      "floor": 7,
+      "total_floors": 34,
+      "facing": "N",
+      "carpet_sqft": 2068,
+      "rent_min": 70236,
+      "rent_max": 70554,
+      "rent_representative": 70395,
+      "maintenance": 3100,
+      "club": 0,
+      "furnishing": "semi-furnished",
+      "amenities": [
+        "CCTV surveillance",
+        "children's play area",
+        "clubhouse",
+        "jogging track",
+        "pet friendly",
+        "visitor parking"
+      ],
+      "is_active_anywhere": true,
+      "is_off_market_only": false,
+      "num_duplicate_listings": 2,
+      "sources": [
+        {
+          "source_type": "hidden_group",
+          "source_name": "Golf Course Ext Owners Group (WA)",
+          "listing_id": "GOLF-UNIT-0051-1",
+          "rent": 70236,
+          "total_monthly_cost": 73336,
+          "is_active": true,
+          "posted_date": "2026-09-13"
+        },
+        {
+          "source_type": "hidden_group",
+          "source_name": "DLF Phase Brokers Circle (WA)",
+          "listing_id": "DLF -UNIT-0051-2",
+          "rent": 70554,
+          "total_monthly_cost": 73654,
+          "is_active": true,
+          "posted_date": "2026-09-06"
+        }
+      ],
+      "description_sample": "Owner shifting - 4 BHK Bestech Park View open for rent, brokers welcome 1 month"
+    },
+    {
+      "unit_id": "HOMEIE-0049",
+      "society": "Bestech Park View",
+      "sector": "48",
+      "tower": "T2",
+      "bhk": 3,
+      "floor": 17,
+      "total_floors": 27,
+      "facing": "W",
+      "carpet_sqft": 1478,
+      "rent_min": 105274,
+      "rent_max": 110509,
+      "rent_representative": 107891,
+      "maintenance": 3700,
+      "club": 2000,
+      "furnishing": "unfurnished",
+      "amenities": [
+        "24x7 power backup",
+        "covered parking",
+        "gym",
+        "jogging track"
+      ],
+      "is_active_anywhere": true,
+      "is_off_market_only": false,
+      "num_duplicate_listings": 2,
+      "sources": [
+        {
+          "source_type": "hidden_group",
+          "source_name": "GGN 3BHK Exchange (WA)",
+          "listing_id": "GGN -UNIT-0057-1",
+          "rent": 105274,
+          "total_monthly_cost": 110974,
+          "is_active": true,
+          "posted_date": "2026-09-11"
+        },
+        {
+          "source_type": "hidden_group",
+          "source_name": "Sohna Road Rentals (WA)",
+          "listing_id": "SOHN-UNIT-0057-2",
+          "rent": 110509,
+          "total_monthly_cost": 116209,
+          "is_active": true,
+          "posted_date": "2026-09-03"
+        }
+      ],
+      "description_sample": "3bhk Bestech Park View sec 48 available!! unfurnished floor 17 call fast"
+    },
+    {
+      "unit_id": "HOMEIE-0050",
+      "society": "DLF Regal Gardens",
+      "sector": "90",
+      "tower": "T1",
+      "bhk": 2,
+      "floor": 19,
+      "total_floors": 20,
+      "facing": "NE",
+      "carpet_sqft": 1009,
+      "rent_min": 78204,
+      "rent_max": 78204,
+      "rent_representative": 78204,
+      "maintenance": 4300,
+      "club": 2000,
+      "furnishing": "semi-furnished",
+      "amenities": [
+        "24x7 power backup",
+        "children's play area",
+        "clubhouse",
+        "covered parking",
+        "gym",
+        "jogging track",
+        "rainwater harvesting"
+      ],
+      "is_active_anywhere": true,
+      "is_off_market_only": false,
+      "num_duplicate_listings": 1,
+      "sources": [
+        {
+          "source_type": "hidden_group",
+          "source_name": "GGN 3BHK Exchange (WA)",
+          "listing_id": "GGN -UNIT-0058-1",
+          "rent": 78204,
+          "total_monthly_cost": 84504,
+          "is_active": true,
+          "posted_date": "2026-08-27"
+        }
+      ],
+      "description_sample": "2bhk DLF Regal Gardens sec 90 available!! semi-furnished floor 19 call fast"
+    },
+    {
+      "unit_id": "HOMEIE-0051",
+      "society": "Central Park Flower Valley",
+      "sector": "33",
+      "tower": "T3",
+      "bhk": 3,
+      "floor": 18,
+      "total_floors": 24,
+      "facing": "SE",
+      "carpet_sqft": 1465,
+      "rent_min": 79065,
+      "rent_max": 79065,
+      "rent_representative": 79065,
+      "maintenance": 2600,
+      "club": 0,
+      "furnishing": "unfurnished",
+      "amenities": [
+        "CCTV surveillance",
+        "clubhouse",
+        "modular kitchen",
+        "pet friendly",
+        "visitor parking"
+      ],
+      "is_active_anywhere": true,
+      "is_off_market_only": false,
+      "num_duplicate_listings": 1,
+      "sources": [
+        {
+          "source_type": "hidden_group",
+          "source_name": "Sohna Road Rentals (WA)",
+          "listing_id": "SOHN-UNIT-0059-1",
+          "rent": 79065,
+          "total_monthly_cost": 81665,
+          "is_active": true,
+          "posted_date": "2026-09-03"
+        }
+      ],
+      "description_sample": "3bhk Central Park Flower Valley sec 33 available!! unfurnished floor 18 call fast"
+    },
+    {
+      "unit_id": "HOMEIE-0052",
+      "society": "ATS Kocoon",
+      "sector": "109",
+      "tower": "T3",
+      "bhk": 4,
+      "floor": 24,
+      "total_floors": 32,
+      "facing": "W",
+      "carpet_sqft": 1991,
+      "rent_min": 41430,
+      "rent_max": 41430,
+      "rent_representative": 41430,
+      "maintenance": 1800,
+      "club": 2000,
+      "furnishing": "fully-furnished",
+      "amenities": [
+        "CCTV surveillance",
+        "children's play area",
+        "modular kitchen",
+        "piped gas"
+      ],
+      "is_active_anywhere": true,
+      "is_off_market_only": false,
+      "num_duplicate_listings": 1,
+      "sources": [
+        {
+          "source_type": "hidden_group",
+          "source_name": "Sohna Road Rentals (WA)",
+          "listing_id": "SOHN-UNIT-0061-1",
+          "rent": 41430,
+          "total_monthly_cost": 45230,
+          "is_active": true,
+          "posted_date": "2026-09-13"
+        }
+      ],
+      "description_sample": "4bhk ATS Kocoon sec 109 available!! fully-furnished floor 24 call fast"
+    },
+    {
+      "unit_id": "HOMEIE-0053",
+      "society": "Godrej Habitat",
+      "sector": "78",
+      "tower": "T5",
+      "bhk": 3,
+      "floor": 8,
+      "total_floors": 20,
+      "facing": "W",
+      "carpet_sqft": 1450,
+      "rent_min": 35320,
+      "rent_max": 35320,
+      "rent_representative": 35320,
+      "maintenance": 2100,
+      "club": 1500,
+      "furnishing": "semi-furnished",
+      "amenities": [
+        "24x7 power backup",
+        "children's play area",
+        "gym",
+        "visitor parking"
+      ],
+      "is_active_anywhere": true,
+      "is_off_market_only": false,
+      "num_duplicate_listings": 1,
+      "sources": [
+        {
+          "source_type": "hidden_group",
+          "source_name": "Golf Course Ext Owners Group (WA)",
+          "listing_id": "GOLF-UNIT-0065-1",
+          "rent": 35320,
+          "total_monthly_cost": 38920,
+          "is_active": true,
+          "posted_date": "2026-09-13"
+        }
+      ],
+      "description_sample": "Direct from owner: Godrej Habitat 3BHK, 1450 sq ft approx, negotiable"
+    },
+    {
+      "unit_id": "HOMEIE-0054",
+      "society": "Vatika India Next",
+      "sector": "82",
+      "tower": "T9",
+      "bhk": 4,
+      "floor": 18,
+      "total_floors": 24,
+      "facing": "W",
+      "carpet_sqft": 2068,
+      "rent_min": 92492,
+      "rent_max": 97956,
+      "rent_representative": 95224,
+      "maintenance": 5700,
+      "club": 0,
+      "furnishing": "fully-furnished",
+      "amenities": [
+        "24x7 power backup",
+        "children's play area",
+        "covered parking",
+        "modular kitchen",
+        "piped gas",
+        "visitor parking"
+      ],
+      "is_active_anywhere": false,
+      "is_off_market_only": false,
+      "num_duplicate_listings": 2,
+      "sources": [
+        {
+          "source_type": "hidden_group",
+          "source_name": "DLF Phase Brokers Circle (WA)",
+          "listing_id": "DLF -UNIT-0066-1",
+          "rent": 97956,
+          "total_monthly_cost": 103656,
+          "is_active": false,
+          "posted_date": "2026-08-30"
+        },
+        {
+          "source_type": "hidden_group",
+          "source_name": "Golf Course Ext Owners Group (WA)",
+          "listing_id": "GOLF-UNIT-0066-2",
+          "rent": 92492,
+          "total_monthly_cost": 98192,
+          "is_active": false,
+          "posted_date": "2026-09-15"
+        }
+      ],
+      "description_sample": "Owner shifting - 4 BHK Vatika India Next open for rent, brokers welcome 1 month"
+    },
+    {
+      "unit_id": "HOMEIE-0055",
+      "society": "Sobha City",
+      "sector": "108",
+      "tower": "T1",
+      "bhk": 3,
+      "floor": 22,
+      "total_floors": 28,
+      "facing": "NE",
+      "carpet_sqft": 1282,
+      "rent_min": 77116,
+      "rent_max": 77116,
+      "rent_representative": 77116,
+      "maintenance": 4400,
+      "club": 2500,
+      "furnishing": "unfurnished",
+      "amenities": [
+        "children's play area",
+        "covered parking",
+        "jogging track"
+      ],
+      "is_active_anywhere": true,
+      "is_off_market_only": false,
+      "num_duplicate_listings": 1,
+      "sources": [
+        {
+          "source_type": "hidden_group",
+          "source_name": "Golf Course Ext Owners Group (WA)",
+          "listing_id": "GOLF-UNIT-0067-1",
+          "rent": 77116,
+          "total_monthly_cost": 84016,
+          "is_active": true,
+          "posted_date": "2026-09-03"
+        }
+      ],
+      "description_sample": "3bhk Sobha City sec 108 available!! unfurnished floor 22 call fast"
+    },
+    {
+      "unit_id": "HOMEIE-0056",
+      "society": "Adani Oyster Grande",
+      "sector": "102",
+      "tower": "T6",
+      "bhk": 4,
+      "floor": 13,
+      "total_floors": 35,
+      "facing": "SE",
+      "carpet_sqft": 1916,
+      "rent_min": 101165,
+      "rent_max": 103708,
+      "rent_representative": 102436,
+      "maintenance": 3700,
+      "club": 2000,
+      "furnishing": "unfurnished",
+      "amenities": [
+        "24x7 power backup",
+        "CCTV surveillance",
+        "gym",
+        "pet friendly",
+        "swimming pool",
+        "visitor parking"
+      ],
+      "is_active_anywhere": true,
+      "is_off_market_only": false,
+      "num_duplicate_listings": 2,
+      "sources": [
+        {
+          "source_type": "hidden_group",
+          "source_name": "Golf Course Ext Owners Group (WA)",
+          "listing_id": "GOLF-UNIT-0070-1",
+          "rent": 101165,
+          "total_monthly_cost": 106865,
+          "is_active": true,
+          "posted_date": "2026-09-15"
+        },
+        {
+          "source_type": "hidden_group",
+          "source_name": "DLF Phase Brokers Circle (WA)",
+          "listing_id": "DLF -UNIT-0070-2",
+          "rent": 103708,
+          "total_monthly_cost": 109408,
+          "is_active": true,
+          "posted_date": "2026-09-06"
+        }
+      ],
+      "description_sample": "Owner shifting - 4 BHK Adani Oyster Grande open for rent, brokers welcome 1 month"
+    },
+    {
+      "unit_id": "HOMEIE-0057",
+      "society": "Adani Oyster Grande",
+      "sector": "102",
+      "tower": "T2",
+      "bhk": 3,
+      "floor": 20,
+      "total_floors": 26,
+      "facing": "W",
+      "carpet_sqft": 1464,
+      "rent_min": 41874,
+      "rent_max": 41874,
+      "rent_representative": 41874,
+      "maintenance": 1500,
+      "club": 1500,
+      "furnishing": "semi-furnished",
+      "amenities": [
+        "CCTV surveillance"
+      ],
+      "is_active_anywhere": false,
+      "is_off_market_only": false,
+      "num_duplicate_listings": 1,
+      "sources": [
+        {
+          "source_type": "hidden_group",
+          "source_name": "Golf Course Ext Owners Group (WA)",
+          "listing_id": "GOLF-UNIT-0071-1",
+          "rent": 41874,
+          "total_monthly_cost": 44874,
+          "is_active": false,
+          "posted_date": "2026-09-04"
+        }
+      ],
+      "description_sample": "Owner shifting - 3 BHK Adani Oyster Grande open for rent, brokers welcome 1 month"
+    },
+    {
+      "unit_id": "HOMEIE-0058",
+      "society": "Emaar Digi Homes",
+      "sector": "62",
+      "tower": "T9",
+      "bhk": 3,
+      "floor": 13,
+      "total_floors": 20,
+      "facing": "E",
+      "carpet_sqft": 1571,
+      "rent_min": 45306,
+      "rent_max": 45306,
+      "rent_representative": 45306,
+      "maintenance": 2000,
+      "club": 1000,
+      "furnishing": "semi-furnished",
+      "amenities": [
+        "clubhouse",
+        "covered parking",
+        "gym",
+        "pet friendly",
+        "rainwater harvesting"
+      ],
+      "is_active_anywhere": false,
+      "is_off_market_only": false,
+      "num_duplicate_listings": 1,
+      "sources": [
+        {
+          "source_type": "hidden_group",
+          "source_name": "DLF Phase Brokers Circle (WA)",
+          "listing_id": "DLF -UNIT-0078-1",
+          "rent": 45306,
+          "total_monthly_cost": 48306,
+          "is_active": false,
+          "posted_date": "2026-09-12"
+        }
+      ],
+      "description_sample": "Direct from owner: Emaar Digi Homes 3BHK, 1571 sq ft approx, negotiable"
+    },
+    {
+      "unit_id": "HOMEIE-0059",
+      "society": "M3M Heights",
+      "sector": "65",
+      "tower": "T9",
+      "bhk": 2,
+      "floor": 9,
+      "total_floors": 32,
+      "facing": "W",
+      "carpet_sqft": 960,
+      "rent_min": 61190,
+      "rent_max": 65737,
+      "rent_representative": 63463,
+      "maintenance": 2800,
+      "club": 2000,
+      "furnishing": "fully-furnished",
+      "amenities": [
+        "24x7 power backup",
+        "children's play area",
+        "clubhouse",
+        "modular kitchen",
+        "pet friendly"
+      ],
+      "is_active_anywhere": true,
+      "is_off_market_only": false,
+      "num_duplicate_listings": 2,
+      "sources": [
+        {
+          "source_type": "hidden_group",
+          "source_name": "Golf Course Ext Owners Group (WA)",
+          "listing_id": "GOLF-UNIT-0081-1",
+          "rent": 65737,
+          "total_monthly_cost": 70537,
+          "is_active": true,
+          "posted_date": "2026-09-08"
+        },
+        {
+          "source_type": "hidden_group",
+          "source_name": "DLF Phase Brokers Circle (WA)",
+          "listing_id": "DLF -UNIT-0081-2",
+          "rent": 61190,
+          "total_monthly_cost": 65990,
+          "is_active": true,
+          "posted_date": "2026-09-10"
+        }
+      ],
+      "description_sample": "2bhk M3M Heights sec 65 available!! fully-furnished floor 9 call fast"
+    },
+    {
+      "unit_id": "HOMEIE-0060",
+      "society": "Central Park Flower Valley",
+      "sector": "33",
+      "tower": "T2",
+      "bhk": 2,
+      "floor": 10,
+      "total_floors": 10,
+      "facing": "NW",
+      "carpet_sqft": 1021,
+      "rent_min": 40792,
+      "rent_max": 41468,
+      "rent_representative": 41130,
+      "maintenance": 1400,
+      "club": 1000,
+      "furnishing": "fully-furnished",
+      "amenities": [
+        "CCTV surveillance",
+        "clubhouse",
+        "modular kitchen",
+        "visitor parking"
+      ],
+      "is_active_anywhere": true,
+      "is_off_market_only": false,
+      "num_duplicate_listings": 2,
+      "sources": [
+        {
+          "source_type": "hidden_group",
+          "source_name": "GGN 3BHK Exchange (WA)",
+          "listing_id": "GGN -UNIT-0082-1",
+          "rent": 41468,
+          "total_monthly_cost": 43868,
+          "is_active": true,
+          "posted_date": "2026-09-07"
+        },
+        {
+          "source_type": "hidden_group",
+          "source_name": "Sohna Road Rentals (WA)",
+          "listing_id": "SOHN-UNIT-0082-2",
+          "rent": 40792,
+          "total_monthly_cost": 43192,
+          "is_active": true,
+          "posted_date": "2026-09-01"
+        }
+      ],
+      "description_sample": "Owner shifting - 2 BHK Central Park Flower Valley open for rent, brokers welcome 1 month"
+    },
+    {
+      "unit_id": "HOMEIE-0061",
+      "society": "ATS Kocoon",
+      "sector": "109",
+      "tower": "T3",
+      "bhk": 3,
+      "floor": 11,
+      "total_floors": 29,
+      "facing": "SW",
+      "carpet_sqft": 1409,
+      "rent_min": 102684,
+      "rent_max": 103046,
+      "rent_representative": 102865,
+      "maintenance": 6900,
+      "club": 0,
+      "furnishing": "unfurnished",
+      "amenities": [
+        "pet friendly",
+        "rainwater harvesting"
+      ],
+      "is_active_anywhere": true,
+      "is_off_market_only": false,
+      "num_duplicate_listings": 2,
+      "sources": [
+        {
+          "source_type": "hidden_group",
+          "source_name": "Golf Course Ext Owners Group (WA)",
+          "listing_id": "GOLF-UNIT-0088-1",
+          "rent": 102684,
+          "total_monthly_cost": 109584,
+          "is_active": true,
+          "posted_date": "2026-09-14"
+        },
+        {
+          "source_type": "hidden_group",
+          "source_name": "GGN 3BHK Exchange (WA)",
+          "listing_id": "GGN -UNIT-0088-2",
+          "rent": 103046,
+          "total_monthly_cost": 109946,
+          "is_active": true,
+          "posted_date": "2026-09-04"
+        }
+      ],
+      "description_sample": "Owner shifting - 3 BHK ATS Kocoon open for rent, brokers welcome 1 month"
+    },
+    {
+      "unit_id": "HOMEIE-0062",
+      "society": "Ireo Skyon",
+      "sector": "60",
+      "tower": "T2",
+      "bhk": 4,
+      "floor": 26,
+      "total_floors": 31,
+      "facing": "NW",
+      "carpet_sqft": 1871,
+      "rent_min": 47915,
+      "rent_max": 47915,
+      "rent_representative": 47915,
+      "maintenance": 1700,
+      "club": 1000,
+      "furnishing": "fully-furnished",
+      "amenities": [
+        "24x7 power backup",
+        "covered parking",
+        "piped gas"
+      ],
+      "is_active_anywhere": true,
+      "is_off_market_only": false,
+      "num_duplicate_listings": 1,
+      "sources": [
+        {
+          "source_type": "hidden_group",
+          "source_name": "Sohna Road Rentals (WA)",
+          "listing_id": "SOHN-UNIT-0090-1",
+          "rent": 47915,
+          "total_monthly_cost": 50615,
+          "is_active": true,
+          "posted_date": "2026-09-02"
+        }
+      ],
+      "description_sample": "Direct from owner: Ireo Skyon 4BHK, 1871 sq ft approx, negotiable"
+    },
+    {
+      "unit_id": "HOMEIE-0063",
+      "society": "Bestech Park View",
+      "sector": "48",
+      "tower": "T4",
+      "bhk": 2,
+      "floor": 24,
+      "total_floors": 26,
+      "facing": "N",
+      "carpet_sqft": 960,
+      "rent_min": 108805,
+      "rent_max": 108805,
+      "rent_representative": 108805,
+      "maintenance": 3200,
+      "club": 2500,
+      "furnishing": "semi-furnished",
+      "amenities": [
+        "24x7 power backup",
+        "children's play area",
+        "rainwater harvesting"
+      ],
+      "is_active_anywhere": true,
+      "is_off_market_only": false,
+      "num_duplicate_listings": 1,
+      "sources": [
+        {
+          "source_type": "hidden_group",
+          "source_name": "GGN 3BHK Exchange (WA)",
+          "listing_id": "GGN -UNIT-0096-1",
+          "rent": 108805,
+          "total_monthly_cost": 114505,
+          "is_active": true,
+          "posted_date": "2026-09-01"
+        }
+      ],
+      "description_sample": "Direct from owner: Bestech Park View 2BHK, 960 sq ft approx, negotiable"
+    },
+    {
+      "unit_id": "HOMEIE-0064",
+      "society": "Tulip Violet",
+      "sector": "69",
+      "tower": "T9",
+      "bhk": 2,
+      "floor": 19,
+      "total_floors": 23,
+      "facing": "SE",
+      "carpet_sqft": 901,
+      "rent_min": 47792,
+      "rent_max": 47792,
+      "rent_representative": 47792,
+      "maintenance": 2500,
+      "club": 0,
+      "furnishing": "semi-furnished",
+      "amenities": [],
+      "is_active_anywhere": true,
+      "is_off_market_only": false,
+      "num_duplicate_listings": 1,
+      "sources": [
+        {
+          "source_type": "hidden_group",
+          "source_name": "DLF Phase Brokers Circle (WA)",
+          "listing_id": "DLF -UNIT-0097-1",
+          "rent": 47792,
+          "total_monthly_cost": 50292,
+          "is_active": true,
+          "posted_date": "2026-09-02"
+        }
+      ],
+      "description_sample": "Owner shifting - 2 BHK Tulip Violet open for rent, brokers welcome 1 month"
+    },
+    {
+      "unit_id": "HOMEIE-0065",
+      "society": "Vatika India Next",
+      "sector": "82",
+      "tower": "T4",
+      "bhk": 2,
+      "floor": 18,
+      "total_floors": 32,
+      "facing": "NE",
+      "carpet_sqft": 995,
+      "rent_min": 78745,
+      "rent_max": 83853,
+      "rent_representative": 81299,
+      "maintenance": 3200,
+      "club": 0,
+      "furnishing": "unfurnished",
+      "amenities": [
+        "CCTV surveillance",
+        "gym",
+        "piped gas",
+        "rainwater harvesting"
+      ],
+      "is_active_anywhere": true,
+      "is_off_market_only": false,
+      "num_duplicate_listings": 2,
+      "sources": [
+        {
+          "source_type": "hidden_group",
+          "source_name": "DLF Phase Brokers Circle (WA)",
+          "listing_id": "DLF -UNIT-0098-1",
+          "rent": 83853,
+          "total_monthly_cost": 87053,
+          "is_active": true,
+          "posted_date": "2026-09-11"
+        },
+        {
+          "source_type": "hidden_group",
+          "source_name": "Golf Course Ext Owners Group (WA)",
+          "listing_id": "GOLF-UNIT-0098-2",
+          "rent": 78745,
+          "total_monthly_cost": 81945,
+          "is_active": true,
+          "posted_date": "2026-09-01"
+        }
+      ],
+      "description_sample": "Owner shifting - 2 BHK Vatika India Next open for rent, brokers welcome 1 month"
+    },
+    {
+      "unit_id": "HOMEIE-0066",
+      "society": "Ireo Skyon",
+      "sector": "60",
+      "tower": "T2",
+      "bhk": 3,
+      "floor": 4,
+      "total_floors": 4,
+      "facing": "N",
+      "carpet_sqft": 1385,
+      "rent_min": 54137,
+      "rent_max": 54137,
+      "rent_representative": 54137,
+      "maintenance": 1800,
+      "club": 2000,
+      "furnishing": "semi-furnished",
+      "amenities": [
+        "CCTV surveillance",
+        "gym",
+        "piped gas"
+      ],
+      "is_active_anywhere": true,
+      "is_off_market_only": false,
+      "num_duplicate_listings": 1,
+      "sources": [
+        {
+          "source_type": "hidden_group",
+          "source_name": "Golf Course Ext Owners Group (WA)",
+          "listing_id": "GOLF-UNIT-0099-1",
+          "rent": 54137,
+          "total_monthly_cost": 57937,
+          "is_active": true,
+          "posted_date": "2026-09-10"
+        }
+      ],
+      "description_sample": "3bhk Ireo Skyon sec 60 available!! semi-furnished floor 4 call fast"
+    },
+    {
+      "unit_id": "HOMEIE-0067",
+      "society": "Godrej Habitat",
+      "sector": "78",
+      "tower": "T6",
+      "bhk": 3,
+      "floor": 26,
+      "total_floors": 35,
+      "facing": "NW",
+      "carpet_sqft": 1438,
+      "rent_min": 95538,
+      "rent_max": 99930,
+      "rent_representative": 97734,
+      "maintenance": 4000,
+      "club": 0,
+      "furnishing": "semi-furnished",
+      "amenities": [
+        "24x7 power backup",
+        "children's play area",
+        "gym",
+        "jogging track",
+        "pet friendly",
+        "swimming pool",
+        "visitor parking"
+      ],
+      "is_active_anywhere": true,
+      "is_off_market_only": false,
+      "num_duplicate_listings": 2,
+      "sources": [
+        {
+          "source_type": "hidden_group",
+          "source_name": "DLF Phase Brokers Circle (WA)",
+          "listing_id": "DLF -UNIT-0101-1",
+          "rent": 99930,
+          "total_monthly_cost": 103930,
+          "is_active": true,
+          "posted_date": "2026-09-03"
+        },
+        {
+          "source_type": "hidden_group",
+          "source_name": "Sohna Road Rentals (WA)",
+          "listing_id": "SOHN-UNIT-0101-2",
+          "rent": 95538,
+          "total_monthly_cost": 99538,
+          "is_active": true,
+          "posted_date": "2026-08-28"
+        }
+      ],
+      "description_sample": "Direct from owner: Godrej Habitat 3BHK, 1460 sq ft approx, negotiable"
+    },
+    {
+      "unit_id": "HOMEIE-0068",
+      "society": "Ireo Skyon",
+      "sector": "60",
+      "tower": "T7",
+      "bhk": 3,
+      "floor": 23,
+      "total_floors": 32,
+      "facing": "S",
+      "carpet_sqft": 1438,
+      "rent_min": 116297,
+      "rent_max": 119345,
+      "rent_representative": 117821,
+      "maintenance": 5000,
+      "club": 1000,
+      "furnishing": "unfurnished",
+      "amenities": [
+        "CCTV surveillance",
+        "children's play area",
+        "clubhouse",
+        "pet friendly",
+        "piped gas",
+        "rainwater harvesting"
+      ],
+      "is_active_anywhere": true,
+      "is_off_market_only": false,
+      "num_duplicate_listings": 2,
+      "sources": [
+        {
+          "source_type": "hidden_group",
+          "source_name": "Golf Course Ext Owners Group (WA)",
+          "listing_id": "GOLF-UNIT-0103-1",
+          "rent": 116297,
+          "total_monthly_cost": 122297,
+          "is_active": false,
+          "posted_date": "2026-08-29"
+        },
+        {
+          "source_type": "hidden_group",
+          "source_name": "GGN 3BHK Exchange (WA)",
+          "listing_id": "GGN -UNIT-0103-2",
+          "rent": 119345,
+          "total_monthly_cost": 125345,
+          "is_active": true,
+          "posted_date": "2026-09-10"
+        }
+      ],
+      "description_sample": "Owner shifting - 3 BHK Ireo Skyon open for rent, brokers welcome 1 month"
+    },
+    {
+      "unit_id": "HOMEIE-0069",
+      "society": "Sobha City",
+      "sector": "108",
+      "tower": "T4",
+      "bhk": 4,
+      "floor": 28,
+      "total_floors": 35,
+      "facing": "NE",
+      "carpet_sqft": 1755,
+      "rent_min": 95049,
+      "rent_max": 95049,
+      "rent_representative": 95049,
+      "maintenance": 4400,
+      "club": 0,
+      "furnishing": "fully-furnished",
+      "amenities": [
+        "covered parking",
+        "modular kitchen",
+        "rainwater harvesting"
+      ],
+      "is_active_anywhere": true,
+      "is_off_market_only": false,
+      "num_duplicate_listings": 1,
+      "sources": [
+        {
+          "source_type": "hidden_group",
+          "source_name": "GGN 3BHK Exchange (WA)",
+          "listing_id": "GGN -UNIT-0108-1",
+          "rent": 95049,
+          "total_monthly_cost": 99449,
+          "is_active": true,
+          "posted_date": "2026-09-09"
+        }
+      ],
+      "description_sample": "4bhk Sobha City sec 108 available!! fully-furnished floor 28 call fast"
+    },
+    {
+      "unit_id": "HOMEIE-0070",
+      "society": "Vatika India Next",
+      "sector": "82",
+      "tower": "T6",
+      "bhk": 3,
+      "floor": 13,
+      "total_floors": 21,
+      "facing": "SW",
+      "carpet_sqft": 1276,
+      "rent_min": 103907,
+      "rent_max": 106940,
+      "rent_representative": 105423,
+      "maintenance": 6500,
+      "club": 2500,
+      "furnishing": "fully-furnished",
+      "amenities": [
+        "clubhouse",
+        "covered parking",
+        "gym",
+        "jogging track",
+        "modular kitchen",
+        "visitor parking"
+      ],
+      "is_active_anywhere": true,
+      "is_off_market_only": false,
+      "num_duplicate_listings": 2,
+      "sources": [
+        {
+          "source_type": "hidden_group",
+          "source_name": "Golf Course Ext Owners Group (WA)",
+          "listing_id": "GOLF-UNIT-0109-1",
+          "rent": 103907,
+          "total_monthly_cost": 112907,
+          "is_active": true,
+          "posted_date": "2026-09-11"
+        },
+        {
+          "source_type": "hidden_group",
+          "source_name": "GGN 3BHK Exchange (WA)",
+          "listing_id": "GGN -UNIT-0109-2",
+          "rent": 106940,
+          "total_monthly_cost": 115940,
+          "is_active": true,
+          "posted_date": "2026-09-07"
+        }
+      ],
+      "description_sample": "Direct from owner: Vatika India Next 3BHK, 1279 sq ft approx, negotiable"
+    },
+    {
+      "unit_id": "HOMEIE-0071",
+      "society": "ATS Kocoon",
+      "sector": "109",
+      "tower": "T2",
+      "bhk": 3,
+      "floor": 24,
+      "total_floors": 28,
+      "facing": "N",
+      "carpet_sqft": 1443,
+      "rent_min": 120967,
+      "rent_max": 120967,
+      "rent_representative": 120967,
+      "maintenance": 3900,
+      "club": 2500,
+      "furnishing": "unfurnished",
+      "amenities": [
+        "CCTV surveillance",
+        "swimming pool",
+        "visitor parking"
+      ],
+      "is_active_anywhere": false,
+      "is_off_market_only": false,
+      "num_duplicate_listings": 1,
+      "sources": [
+        {
+          "source_type": "hidden_group",
+          "source_name": "Golf Course Ext Owners Group (WA)",
+          "listing_id": "GOLF-UNIT-0112-1",
+          "rent": 120967,
+          "total_monthly_cost": 127367,
+          "is_active": false,
+          "posted_date": "2026-09-07"
+        }
+      ],
+      "description_sample": "3bhk ATS Kocoon sec 109 available!! unfurnished floor 24 call fast"
+    },
+    {
+      "unit_id": "HOMEIE-0072",
+      "society": "Emaar Digi Homes",
+      "sector": "62",
+      "tower": "T9",
+      "bhk": 2,
+      "floor": 15,
+      "total_floors": 34,
+      "facing": "SE",
+      "carpet_sqft": 1031,
+      "rent_min": 71877,
+      "rent_max": 71877,
+      "rent_representative": 71877,
+      "maintenance": 2500,
+      "club": 2500,
+      "furnishing": "fully-furnished",
+      "amenities": [
+        "gym",
+        "modular kitchen",
+        "piped gas",
+        "rainwater harvesting",
+        "visitor parking"
+      ],
+      "is_active_anywhere": true,
+      "is_off_market_only": false,
+      "num_duplicate_listings": 1,
+      "sources": [
+        {
+          "source_type": "hidden_group",
+          "source_name": "GGN 3BHK Exchange (WA)",
+          "listing_id": "GGN -UNIT-0113-1",
+          "rent": 71877,
+          "total_monthly_cost": 76877,
+          "is_active": true,
+          "posted_date": "2026-09-10"
+        }
+      ],
+      "description_sample": "2bhk Emaar Digi Homes sec 62 available!! fully-furnished floor 15 call fast"
+    },
+    {
+      "unit_id": "HOMEIE-0073",
+      "society": "Bestech Park View",
+      "sector": "48",
+      "tower": "T5",
+      "bhk": 3,
+      "floor": 12,
+      "total_floors": 26,
+      "facing": "S",
+      "carpet_sqft": 1474,
+      "rent_min": 67854,
+      "rent_max": 71379,
+      "rent_representative": 69616,
+      "maintenance": 2200,
+      "club": 2500,
+      "furnishing": "fully-furnished",
+      "amenities": [
+        "covered parking",
+        "gym",
+        "modular kitchen",
+        "pet friendly",
+        "swimming pool"
+      ],
+      "is_active_anywhere": true,
+      "is_off_market_only": false,
+      "num_duplicate_listings": 2,
+      "sources": [
+        {
+          "source_type": "hidden_group",
+          "source_name": "Golf Course Ext Owners Group (WA)",
+          "listing_id": "GOLF-UNIT-0115-1",
+          "rent": 67854,
+          "total_monthly_cost": 72554,
+          "is_active": true,
+          "posted_date": "2026-08-28"
+        },
+        {
+          "source_type": "hidden_group",
+          "source_name": "DLF Phase Brokers Circle (WA)",
+          "listing_id": "DLF -UNIT-0115-2",
+          "rent": 71379,
+          "total_monthly_cost": 76079,
+          "is_active": true,
+          "posted_date": "2026-09-07"
+        }
+      ],
+      "description_sample": "Direct from owner: Bestech Park View 3BHK, 1475 sq ft approx, negotiable"
+    },
+    {
+      "unit_id": "HOMEIE-0074",
+      "society": "Ireo Skyon",
+      "sector": "60",
+      "tower": "T1",
+      "bhk": 3,
+      "floor": 23,
+      "total_floors": 29,
+      "facing": "NE",
+      "carpet_sqft": 1499,
+      "rent_min": 119178,
+      "rent_max": 121785,
+      "rent_representative": 120481,
+      "maintenance": 6500,
+      "club": 2500,
+      "furnishing": "unfurnished",
+      "amenities": [
+        "24x7 power backup",
+        "rainwater harvesting",
+        "visitor parking"
+      ],
+      "is_active_anywhere": true,
+      "is_off_market_only": false,
+      "num_duplicate_listings": 2,
+      "sources": [
+        {
+          "source_type": "hidden_group",
+          "source_name": "DLF Phase Brokers Circle (WA)",
+          "listing_id": "DLF -UNIT-0118-1",
+          "rent": 119178,
+          "total_monthly_cost": 128178,
+          "is_active": true,
+          "posted_date": "2026-09-07"
+        },
+        {
+          "source_type": "hidden_group",
+          "source_name": "Sohna Road Rentals (WA)",
+          "listing_id": "SOHN-UNIT-0118-2",
+          "rent": 121785,
+          "total_monthly_cost": 130785,
+          "is_active": true,
+          "posted_date": "2026-09-15"
+        }
+      ],
+      "description_sample": "Direct from owner: Ireo Skyon 3BHK, 1500 sq ft approx, negotiable"
+    },
+    {
+      "unit_id": "HOMEIE-0075",
+      "society": "ATS Kocoon",
+      "sector": "109",
+      "tower": "T2",
+      "bhk": 2,
+      "floor": 17,
+      "total_floors": 26,
+      "facing": "S",
+      "carpet_sqft": 902,
+      "rent_min": 125177,
+      "rent_max": 125177,
+      "rent_representative": 125177,
+      "maintenance": 6300,
+      "club": 2500,
+      "furnishing": "unfurnished",
+      "amenities": [
+        "gym",
+        "jogging track",
+        "modular kitchen",
+        "swimming pool"
+      ],
+      "is_active_anywhere": true,
+      "is_off_market_only": false,
+      "num_duplicate_listings": 1,
+      "sources": [
+        {
+          "source_type": "hidden_group",
+          "source_name": "GGN 3BHK Exchange (WA)",
+          "listing_id": "GGN -UNIT-0119-1",
+          "rent": 125177,
+          "total_monthly_cost": 133977,
+          "is_active": true,
+          "posted_date": "2026-09-10"
+        }
+      ],
+      "description_sample": "2bhk ATS Kocoon sec 109 available!! unfurnished floor 17 call fast"
+    },
+    {
+      "unit_id": "HOMEIE-0076",
+      "society": "Godrej Habitat",
+      "sector": "78",
+      "tower": "T8",
+      "bhk": 3,
+      "floor": 27,
+      "total_floors": 33,
+      "facing": "E",
+      "carpet_sqft": 1349,
+      "rent_min": 81906,
+      "rent_max": 83923,
+      "rent_representative": 82914,
+      "maintenance": 3000,
+      "club": 0,
+      "furnishing": "unfurnished",
+      "amenities": [
+        "jogging track",
+        "piped gas"
+      ],
+      "is_active_anywhere": true,
+      "is_off_market_only": false,
+      "num_duplicate_listings": 2,
+      "sources": [
+        {
+          "source_type": "hidden_group",
+          "source_name": "DLF Phase Brokers Circle (WA)",
+          "listing_id": "DLF -UNIT-0121-1",
+          "rent": 81906,
+          "total_monthly_cost": 84906,
+          "is_active": true,
+          "posted_date": "2026-09-12"
+        },
+        {
+          "source_type": "hidden_group",
+          "source_name": "Golf Course Ext Owners Group (WA)",
+          "listing_id": "GOLF-UNIT-0121-2",
+          "rent": 83923,
+          "total_monthly_cost": 86923,
+          "is_active": true,
+          "posted_date": "2026-09-13"
+        }
+      ],
+      "description_sample": "3bhk Godrej Habitat sec 78 available!! unfurnished floor 27 call fast"
+    },
+    {
+      "unit_id": "HOMEIE-0077",
+      "society": "Tulip Violet",
+      "sector": "69",
+      "tower": "T4",
+      "bhk": 4,
+      "floor": 17,
+      "total_floors": 27,
+      "facing": "S",
+      "carpet_sqft": 1930,
+      "rent_min": 129873,
+      "rent_max": 132857,
+      "rent_representative": 131365,
+      "maintenance": 7300,
+      "club": 1000,
+      "furnishing": "semi-furnished",
+      "amenities": [
+        "CCTV surveillance",
+        "clubhouse",
+        "jogging track",
+        "rainwater harvesting",
+        "visitor parking"
+      ],
+      "is_active_anywhere": true,
+      "is_off_market_only": false,
+      "num_duplicate_listings": 2,
+      "sources": [
+        {
+          "source_type": "hidden_group",
+          "source_name": "Sohna Road Rentals (WA)",
+          "listing_id": "SOHN-UNIT-0122-1",
+          "rent": 132857,
+          "total_monthly_cost": 141157,
+          "is_active": true,
+          "posted_date": "2026-09-08"
+        },
+        {
+          "source_type": "hidden_group",
+          "source_name": "DLF Phase Brokers Circle (WA)",
+          "listing_id": "DLF -UNIT-0122-2",
+          "rent": 129873,
+          "total_monthly_cost": 138173,
+          "is_active": true,
+          "posted_date": "2026-09-06"
+        }
+      ],
+      "description_sample": "Owner shifting - 4 BHK Tulip Violet open for rent, brokers welcome 1 month"
+    },
+    {
+      "unit_id": "HOMEIE-0078",
+      "society": "ATS Kocoon",
+      "sector": "109",
+      "tower": "T4",
+      "bhk": 2,
+      "floor": 23,
+      "total_floors": 35,
+      "facing": "N",
+      "carpet_sqft": 952,
+      "rent_min": 71854,
+      "rent_max": 72370,
+      "rent_representative": 72112,
+      "maintenance": 4500,
+      "club": 0,
+      "furnishing": "fully-furnished",
+      "amenities": [
+        "CCTV surveillance",
+        "gym",
+        "jogging track",
+        "modular kitchen",
+        "rainwater harvesting",
+        "swimming pool"
+      ],
+      "is_active_anywhere": true,
+      "is_off_market_only": false,
+      "num_duplicate_listings": 2,
+      "sources": [
+        {
+          "source_type": "hidden_group",
+          "source_name": "DLF Phase Brokers Circle (WA)",
+          "listing_id": "DLF -UNIT-0127-1",
+          "rent": 71854,
+          "total_monthly_cost": 76354,
+          "is_active": true,
+          "posted_date": "2026-09-05"
+        },
+        {
+          "source_type": "hidden_group",
+          "source_name": "GGN 3BHK Exchange (WA)",
+          "listing_id": "GGN -UNIT-0127-2",
+          "rent": 72370,
+          "total_monthly_cost": 76870,
+          "is_active": true,
+          "posted_date": "2026-09-02"
+        }
+      ],
+      "description_sample": "2bhk ATS Kocoon sec 109 available!! fully-furnished floor 23 call fast"
+    },
+    {
+      "unit_id": "HOMEIE-0079",
+      "society": "Vatika India Next",
+      "sector": "82",
+      "tower": "T2",
+      "bhk": 3,
+      "floor": 18,
+      "total_floors": 29,
+      "facing": "W",
+      "carpet_sqft": 1357,
+      "rent_min": 88437,
+      "rent_max": 88437,
+      "rent_representative": 88437,
+      "maintenance": 4900,
+      "club": 1500,
+      "furnishing": "semi-furnished",
+      "amenities": [
+        "modular kitchen",
+        "pet friendly",
+        "rainwater harvesting",
+        "swimming pool"
+      ],
+      "is_active_anywhere": true,
+      "is_off_market_only": false,
+      "num_duplicate_listings": 1,
+      "sources": [
+        {
+          "source_type": "hidden_group",
+          "source_name": "Golf Course Ext Owners Group (WA)",
+          "listing_id": "GOLF-UNIT-0129-1",
+          "rent": 88437,
+          "total_monthly_cost": 94837,
+          "is_active": true,
+          "posted_date": "2026-09-09"
+        }
+      ],
+      "description_sample": "3bhk Vatika India Next sec 82 available!! semi-furnished floor 18 call fast"
+    },
+    {
+      "unit_id": "HOMEIE-0080",
+      "society": "Central Park Flower Valley",
+      "sector": "33",
+      "tower": "T1",
+      "bhk": 2,
+      "floor": 18,
+      "total_floors": 28,
+      "facing": "SW",
+      "carpet_sqft": 864,
+      "rent_min": 102000,
+      "rent_max": 102000,
+      "rent_representative": 102000,
+      "maintenance": 3500,
+      "club": 1500,
+      "furnishing": "semi-furnished",
+      "amenities": [
+        "24x7 power backup",
+        "piped gas"
+      ],
+      "is_active_anywhere": true,
+      "is_off_market_only": true,
+      "num_duplicate_listings": 1,
+      "sources": [
+        {
+          "source_type": "off_market",
+          "source_name": "Homeie Direct Network",
+          "listing_id": "HOME-UNIT-0004-1",
+          "rent": 102000,
+          "total_monthly_cost": 107000,
+          "is_active": true,
+          "posted_date": "2026-09-16"
+        }
+      ],
+      "description_sample": "2bhk Central Park Flower Valley sec 33 available!! semi-furnished floor 18 call fast"
+    },
+    {
+      "unit_id": "HOMEIE-0081",
+      "society": "Vatika India Next",
+      "sector": "82",
+      "tower": "T1",
+      "bhk": 3,
+      "floor": 15,
+      "total_floors": 35,
+      "facing": "S",
+      "carpet_sqft": 1311,
+      "rent_min": 128000,
+      "rent_max": 128000,
+      "rent_representative": 128000,
+      "maintenance": 5900,
+      "club": 1500,
+      "furnishing": "unfurnished",
+      "amenities": [
+        "CCTV surveillance",
+        "modular kitchen",
+        "pet friendly"
+      ],
+      "is_active_anywhere": true,
+      "is_off_market_only": true,
+      "num_duplicate_listings": 1,
+      "sources": [
+        {
+          "source_type": "off_market",
+          "source_name": "Homeie Direct Network",
+          "listing_id": "HOME-UNIT-0006-1",
+          "rent": 128000,
+          "total_monthly_cost": 135400,
+          "is_active": true,
+          "posted_date": "2026-09-07"
+        }
+      ],
+      "description_sample": "Direct from owner: Vatika India Next 3BHK, 1311 sq ft approx, negotiable"
+    },
+    {
+      "unit_id": "HOMEIE-0082",
+      "society": "Vatika India Next",
+      "sector": "82",
+      "tower": "T1",
+      "bhk": 2,
+      "floor": 19,
+      "total_floors": 21,
+      "facing": "SE",
+      "carpet_sqft": 1028,
+      "rent_min": 66000,
+      "rent_max": 66000,
+      "rent_representative": 66000,
+      "maintenance": 3500,
+      "club": 2500,
+      "furnishing": "semi-furnished",
+      "amenities": [
+        "swimming pool"
+      ],
+      "is_active_anywhere": true,
+      "is_off_market_only": true,
+      "num_duplicate_listings": 1,
+      "sources": [
+        {
+          "source_type": "off_market",
+          "source_name": "Homeie Direct Network",
+          "listing_id": "HOME-UNIT-0008-1",
+          "rent": 66000,
+          "total_monthly_cost": 72000,
+          "is_active": true,
+          "posted_date": "2026-09-09"
+        }
+      ],
+      "description_sample": "Direct from owner: Vatika India Next 2BHK, 1028 sq ft approx, negotiable"
+    },
+    {
+      "unit_id": "HOMEIE-0083",
+      "society": "Central Park Flower Valley",
+      "sector": "33",
+      "tower": "T9",
+      "bhk": 3,
+      "floor": 6,
+      "total_floors": 28,
+      "facing": "NE",
+      "carpet_sqft": 1524,
+      "rent_min": 91000,
+      "rent_max": 91000,
+      "rent_representative": 91000,
+      "maintenance": 6300,
+      "club": 2500,
+      "furnishing": "unfurnished",
+      "amenities": [
+        "24x7 power backup",
+        "CCTV surveillance",
+        "gym",
+        "rainwater harvesting",
+        "visitor parking"
+      ],
+      "is_active_anywhere": true,
+      "is_off_market_only": true,
+      "num_duplicate_listings": 1,
+      "sources": [
+        {
+          "source_type": "off_market",
+          "source_name": "Homeie Direct Network",
+          "listing_id": "HOME-UNIT-0009-1",
+          "rent": 91000,
+          "total_monthly_cost": 99800,
+          "is_active": true,
+          "posted_date": "2026-09-10"
+        }
+      ],
+      "description_sample": "Owner shifting - 3 BHK Central Park Flower Valley open for rent, brokers welcome 1 month"
+    },
+    {
+      "unit_id": "HOMEIE-0084",
+      "society": "Bestech Park View",
+      "sector": "48",
+      "tower": "T3",
+      "bhk": 2,
+      "floor": 21,
+      "total_floors": 32,
+      "facing": "SW",
+      "carpet_sqft": 1000,
+      "rent_min": 68000,
+      "rent_max": 68000,
+      "rent_representative": 68000,
+      "maintenance": 4000,
+      "club": 2500,
+      "furnishing": "unfurnished",
+      "amenities": [
+        "clubhouse",
+        "covered parking",
+        "visitor parking"
+      ],
+      "is_active_anywhere": true,
+      "is_off_market_only": true,
+      "num_duplicate_listings": 1,
+      "sources": [
+        {
+          "source_type": "off_market",
+          "source_name": "Homeie Direct Network",
+          "listing_id": "HOME-UNIT-0010-1",
+          "rent": 68000,
+          "total_monthly_cost": 74500,
+          "is_active": true,
+          "posted_date": "2026-09-07"
+        }
+      ],
+      "description_sample": "Owner shifting - 2 BHK Bestech Park View open for rent, brokers welcome 1 month"
+    },
+    {
+      "unit_id": "HOMEIE-0085",
+      "society": "Central Park Flower Valley",
+      "sector": "33",
+      "tower": "T9",
+      "bhk": 4,
+      "floor": 17,
+      "total_floors": 27,
+      "facing": "N",
+      "carpet_sqft": 1776,
+      "rent_min": 86000,
+      "rent_max": 86000,
+      "rent_representative": 86000,
+      "maintenance": 5600,
+      "club": 1500,
+      "furnishing": "unfurnished",
+      "amenities": [
+        "24x7 power backup",
+        "children's play area",
+        "covered parking",
+        "gym",
+        "jogging track",
+        "pet friendly",
+        "piped gas"
+      ],
+      "is_active_anywhere": true,
+      "is_off_market_only": true,
+      "num_duplicate_listings": 1,
+      "sources": [
+        {
+          "source_type": "off_market",
+          "source_name": "Homeie Direct Network",
+          "listing_id": "HOME-UNIT-0012-1",
+          "rent": 86000,
+          "total_monthly_cost": 93100,
+          "is_active": true,
+          "posted_date": "2026-09-08"
+        }
+      ],
+      "description_sample": "4bhk Central Park Flower Valley sec 33 available!! unfurnished floor 17 call fast"
+    },
+    {
+      "unit_id": "HOMEIE-0086",
+      "society": "ATS Kocoon",
+      "sector": "109",
+      "tower": "T4",
+      "bhk": 2,
+      "floor": 22,
+      "total_floors": 34,
+      "facing": "W",
+      "carpet_sqft": 896,
+      "rent_min": 74000,
+      "rent_max": 74000,
+      "rent_representative": 74000,
+      "maintenance": 2300,
+      "club": 1000,
+      "furnishing": "semi-furnished",
+      "amenities": [
+        "CCTV surveillance",
+        "covered parking",
+        "jogging track",
+        "pet friendly",
+        "swimming pool"
+      ],
+      "is_active_anywhere": true,
+      "is_off_market_only": true,
+      "num_duplicate_listings": 1,
+      "sources": [
+        {
+          "source_type": "off_market",
+          "source_name": "Homeie Direct Network",
+          "listing_id": "HOME-UNIT-0014-1",
+          "rent": 74000,
+          "total_monthly_cost": 77300,
+          "is_active": true,
+          "posted_date": "2026-09-06"
+        }
+      ],
+      "description_sample": "Direct from owner: ATS Kocoon 2BHK, 896 sq ft approx, negotiable"
+    },
+    {
+      "unit_id": "HOMEIE-0087",
+      "society": "Tulip Violet",
+      "sector": "69",
+      "tower": "T7",
+      "bhk": 2,
+      "floor": 3,
+      "total_floors": 24,
+      "facing": "SW",
+      "carpet_sqft": 966,
+      "rent_min": 88000,
+      "rent_max": 88000,
+      "rent_representative": 88000,
+      "maintenance": 2900,
+      "club": 2000,
+      "furnishing": "semi-furnished",
+      "amenities": [
+        "24x7 power backup",
+        "CCTV surveillance",
+        "clubhouse",
+        "pet friendly",
+        "piped gas",
+        "visitor parking"
+      ],
+      "is_active_anywhere": true,
+      "is_off_market_only": true,
+      "num_duplicate_listings": 1,
+      "sources": [
+        {
+          "source_type": "off_market",
+          "source_name": "Homeie Direct Network",
+          "listing_id": "HOME-UNIT-0016-1",
+          "rent": 88000,
+          "total_monthly_cost": 92900,
+          "is_active": true,
+          "posted_date": "2026-09-10"
+        }
+      ],
+      "description_sample": "Direct from owner: Tulip Violet 2BHK, 966 sq ft approx, negotiable"
+    },
+    {
+      "unit_id": "HOMEIE-0088",
+      "society": "Godrej Habitat",
+      "sector": "78",
+      "tower": "T7",
+      "bhk": 3,
+      "floor": 10,
+      "total_floors": 19,
+      "facing": "N",
+      "carpet_sqft": 1524,
+      "rent_min": 110000,
+      "rent_max": 110000,
+      "rent_representative": 110000,
+      "maintenance": 7500,
+      "club": 0,
+      "furnishing": "unfurnished",
+      "amenities": [
+        "covered parking"
+      ],
+      "is_active_anywhere": true,
+      "is_off_market_only": true,
+      "num_duplicate_listings": 1,
+      "sources": [
+        {
+          "source_type": "off_market",
+          "source_name": "Homeie Direct Network",
+          "listing_id": "HOME-UNIT-0023-1",
+          "rent": 110000,
+          "total_monthly_cost": 117500,
+          "is_active": true,
+          "posted_date": "2026-09-09"
+        }
+      ],
+      "description_sample": "Direct from owner: Godrej Habitat 3BHK, 1524 sq ft approx, negotiable"
+    },
+    {
+      "unit_id": "HOMEIE-0089",
+      "society": "Experion Windchants",
+      "sector": "112",
+      "tower": "T4",
+      "bhk": 3,
+      "floor": 26,
+      "total_floors": 32,
+      "facing": "S",
+      "carpet_sqft": 1497,
+      "rent_min": 115000,
+      "rent_max": 115000,
+      "rent_representative": 115000,
+      "maintenance": 4500,
+      "club": 1000,
+      "furnishing": "semi-furnished",
+      "amenities": [
+        "24x7 power backup",
+        "gym"
+      ],
+      "is_active_anywhere": true,
+      "is_off_market_only": true,
+      "num_duplicate_listings": 1,
+      "sources": [
+        {
+          "source_type": "off_market",
+          "source_name": "Homeie Direct Network",
+          "listing_id": "HOME-UNIT-0024-1",
+          "rent": 115000,
+          "total_monthly_cost": 120500,
+          "is_active": true,
+          "posted_date": "2026-09-14"
+        }
+      ],
+      "description_sample": "Owner shifting - 3 BHK Experion Windchants open for rent, brokers welcome 1 month"
+    },
+    {
+      "unit_id": "HOMEIE-0090",
+      "society": "Central Park Flower Valley",
+      "sector": "33",
+      "tower": "T7",
+      "bhk": 3,
+      "floor": 11,
+      "total_floors": 27,
+      "facing": "N",
+      "carpet_sqft": 1542,
+      "rent_min": 49000,
+      "rent_max": 49000,
+      "rent_representative": 49000,
+      "maintenance": 3200,
+      "club": 2000,
+      "furnishing": "semi-furnished",
+      "amenities": [
+        "children's play area",
+        "modular kitchen",
+        "swimming pool"
+      ],
+      "is_active_anywhere": true,
+      "is_off_market_only": true,
+      "num_duplicate_listings": 1,
+      "sources": [
+        {
+          "source_type": "off_market",
+          "source_name": "Homeie Direct Network",
+          "listing_id": "HOME-UNIT-0026-1",
+          "rent": 49000,
+          "total_monthly_cost": 54200,
+          "is_active": true,
+          "posted_date": "2026-09-15"
+        }
+      ],
+      "description_sample": "Direct from owner: Central Park Flower Valley 3BHK, 1542 sq ft approx, negotiable"
+    },
+    {
+      "unit_id": "HOMEIE-0091",
+      "society": "Adani Oyster Grande",
+      "sector": "102",
+      "tower": "T8",
+      "bhk": 3,
+      "floor": 23,
+      "total_floors": 27,
+      "facing": "W",
+      "carpet_sqft": 1437,
+      "rent_min": 67000,
+      "rent_max": 67000,
+      "rent_representative": 67000,
+      "maintenance": 4300,
+      "club": 0,
+      "furnishing": "unfurnished",
+      "amenities": [
+        "24x7 power backup",
+        "CCTV surveillance",
+        "children's play area",
+        "piped gas",
+        "rainwater harvesting"
+      ],
+      "is_active_anywhere": true,
+      "is_off_market_only": true,
+      "num_duplicate_listings": 1,
+      "sources": [
+        {
+          "source_type": "off_market",
+          "source_name": "Homeie Direct Network",
+          "listing_id": "HOME-UNIT-0031-1",
+          "rent": 67000,
+          "total_monthly_cost": 71300,
+          "is_active": true,
+          "posted_date": "2026-09-13"
+        }
+      ],
+      "description_sample": "3bhk Adani Oyster Grande sec 102 available!! unfurnished floor 23 call fast"
+    },
+    {
+      "unit_id": "HOMEIE-0092",
+      "society": "M3M Heights",
+      "sector": "65",
+      "tower": "T3",
+      "bhk": 3,
+      "floor": 12,
+      "total_floors": 14,
+      "facing": "NE",
+      "carpet_sqft": 1413,
+      "rent_min": 128000,
+      "rent_max": 128000,
+      "rent_representative": 128000,
+      "maintenance": 7700,
+      "club": 1000,
+      "furnishing": "unfurnished",
+      "amenities": [
+        "children's play area",
+        "modular kitchen",
+        "visitor parking"
+      ],
+      "is_active_anywhere": true,
+      "is_off_market_only": true,
+      "num_duplicate_listings": 1,
+      "sources": [
+        {
+          "source_type": "off_market",
+          "source_name": "Homeie Direct Network",
+          "listing_id": "HOME-UNIT-0032-1",
+          "rent": 128000,
+          "total_monthly_cost": 136700,
+          "is_active": true,
+          "posted_date": "2026-09-10"
+        }
+      ],
+      "description_sample": "Direct from owner: M3M Heights 3BHK, 1413 sq ft approx, negotiable"
+    },
+    {
+      "unit_id": "HOMEIE-0093",
+      "society": "Vatika India Next",
+      "sector": "82",
+      "tower": "T9",
+      "bhk": 3,
+      "floor": 12,
+      "total_floors": 25,
+      "facing": "E",
+      "carpet_sqft": 1449,
+      "rent_min": 120000,
+      "rent_max": 120000,
+      "rent_representative": 120000,
+      "maintenance": 6700,
+      "club": 2000,
+      "furnishing": "fully-furnished",
+      "amenities": [
+        "children's play area",
+        "gym"
+      ],
+      "is_active_anywhere": true,
+      "is_off_market_only": true,
+      "num_duplicate_listings": 1,
+      "sources": [
+        {
+          "source_type": "off_market",
+          "source_name": "Homeie Direct Network",
+          "listing_id": "HOME-UNIT-0034-1",
+          "rent": 120000,
+          "total_monthly_cost": 128700,
+          "is_active": true,
+          "posted_date": "2026-09-12"
+        }
+      ],
+      "description_sample": "3bhk Vatika India Next sec 82 available!! fully-furnished floor 12 call fast"
+    },
+    {
+      "unit_id": "HOMEIE-0094",
+      "society": "DLF Regal Gardens",
+      "sector": "90",
+      "tower": "T4",
+      "bhk": 2,
+      "floor": 26,
+      "total_floors": 27,
+      "facing": "W",
+      "carpet_sqft": 1010,
+      "rent_min": 107000,
+      "rent_max": 107000,
+      "rent_representative": 107000,
+      "maintenance": 4100,
+      "club": 1000,
+      "furnishing": "semi-furnished",
+      "amenities": [
+        "CCTV surveillance",
+        "gym",
+        "piped gas"
+      ],
+      "is_active_anywhere": true,
+      "is_off_market_only": true,
+      "num_duplicate_listings": 1,
+      "sources": [
+        {
+          "source_type": "off_market",
+          "source_name": "Homeie Direct Network",
+          "listing_id": "HOME-UNIT-0035-1",
+          "rent": 107000,
+          "total_monthly_cost": 112100,
+          "is_active": true,
+          "posted_date": "2026-09-07"
+        }
+      ],
+      "description_sample": "2bhk DLF Regal Gardens sec 90 available!! semi-furnished floor 26 call fast"
+    },
+    {
+      "unit_id": "HOMEIE-0095",
+      "society": "Ireo Skyon",
+      "sector": "60",
+      "tower": "T3",
+      "bhk": 4,
+      "floor": 24,
+      "total_floors": 32,
+      "facing": "N",
+      "carpet_sqft": 2020,
+      "rent_min": 82000,
+      "rent_max": 82000,
+      "rent_representative": 82000,
+      "maintenance": 5600,
+      "club": 2500,
+      "furnishing": "semi-furnished",
+      "amenities": [
+        "children's play area",
+        "jogging track",
+        "rainwater harvesting"
+      ],
+      "is_active_anywhere": true,
+      "is_off_market_only": true,
+      "num_duplicate_listings": 1,
+      "sources": [
+        {
+          "source_type": "off_market",
+          "source_name": "Homeie Direct Network",
+          "listing_id": "HOME-UNIT-0038-1",
+          "rent": 82000,
+          "total_monthly_cost": 90100,
+          "is_active": true,
+          "posted_date": "2026-09-06"
+        }
+      ],
+      "description_sample": "Direct from owner: Ireo Skyon 4BHK, 2020 sq ft approx, negotiable"
+    },
+    {
+      "unit_id": "HOMEIE-0096",
+      "society": "Bestech Park View",
+      "sector": "48",
+      "tower": "T9",
+      "bhk": 3,
+      "floor": 28,
+      "total_floors": 28,
+      "facing": "NE",
+      "carpet_sqft": 1299,
+      "rent_min": 106000,
+      "rent_max": 106000,
+      "rent_representative": 106000,
+      "maintenance": 3900,
+      "club": 1500,
+      "furnishing": "semi-furnished",
+      "amenities": [
+        "24x7 power backup",
+        "clubhouse",
+        "piped gas",
+        "visitor parking"
+      ],
+      "is_active_anywhere": true,
+      "is_off_market_only": true,
+      "num_duplicate_listings": 1,
+      "sources": [
+        {
+          "source_type": "off_market",
+          "source_name": "Homeie Direct Network",
+          "listing_id": "HOME-UNIT-0039-1",
+          "rent": 106000,
+          "total_monthly_cost": 111400,
+          "is_active": true,
+          "posted_date": "2026-09-06"
+        }
+      ],
+      "description_sample": "3bhk Bestech Park View sec 48 available!! semi-furnished floor 28 call fast"
+    },
+    {
+      "unit_id": "HOMEIE-0097",
+      "society": "Birla Navya",
+      "sector": "63A",
+      "tower": "T2",
+      "bhk": 3,
+      "floor": 2,
+      "total_floors": 19,
+      "facing": "SW",
+      "carpet_sqft": 1542,
+      "rent_min": 121000,
+      "rent_max": 121000,
+      "rent_representative": 121000,
+      "maintenance": 5700,
+      "club": 2500,
+      "furnishing": "semi-furnished",
+      "amenities": [
+        "children's play area",
+        "covered parking",
+        "gym",
+        "jogging track",
+        "modular kitchen",
+        "swimming pool"
+      ],
+      "is_active_anywhere": true,
+      "is_off_market_only": true,
+      "num_duplicate_listings": 1,
+      "sources": [
+        {
+          "source_type": "off_market",
+          "source_name": "Homeie Direct Network",
+          "listing_id": "HOME-UNIT-0040-1",
+          "rent": 121000,
+          "total_monthly_cost": 129200,
+          "is_active": true,
+          "posted_date": "2026-09-16"
+        }
+      ],
+      "description_sample": "3bhk Birla Navya sec 63A available!! semi-furnished floor 2 call fast"
+    },
+    {
+      "unit_id": "HOMEIE-0098",
+      "society": "ATS Kocoon",
+      "sector": "109",
+      "tower": "T7",
+      "bhk": 2,
+      "floor": 8,
+      "total_floors": 24,
+      "facing": "S",
+      "carpet_sqft": 960,
+      "rent_min": 90000,
+      "rent_max": 90000,
+      "rent_representative": 90000,
+      "maintenance": 5800,
+      "club": 1500,
+      "furnishing": "unfurnished",
+      "amenities": [
+        "CCTV surveillance",
+        "clubhouse",
+        "modular kitchen",
+        "rainwater harvesting"
+      ],
+      "is_active_anywhere": true,
+      "is_off_market_only": true,
+      "num_duplicate_listings": 1,
+      "sources": [
+        {
+          "source_type": "off_market",
+          "source_name": "Homeie Direct Network",
+          "listing_id": "HOME-UNIT-0042-1",
+          "rent": 90000,
+          "total_monthly_cost": 97300,
+          "is_active": true,
+          "posted_date": "2026-09-12"
+        }
+      ],
+      "description_sample": "Direct from owner: ATS Kocoon 2BHK, 960 sq ft approx, negotiable"
+    },
+    {
+      "unit_id": "HOMEIE-0099",
+      "society": "Emaar Digi Homes",
+      "sector": "62",
+      "tower": "T9",
+      "bhk": 2,
+      "floor": 17,
+      "total_floors": 18,
+      "facing": "NW",
+      "carpet_sqft": 1018,
+      "rent_min": 104000,
+      "rent_max": 104000,
+      "rent_representative": 104000,
+      "maintenance": 3700,
+      "club": 2000,
+      "furnishing": "unfurnished",
+      "amenities": [
+        "CCTV surveillance",
+        "piped gas",
+        "visitor parking"
+      ],
+      "is_active_anywhere": true,
+      "is_off_market_only": true,
+      "num_duplicate_listings": 1,
+      "sources": [
+        {
+          "source_type": "off_market",
+          "source_name": "Homeie Direct Network",
+          "listing_id": "HOME-UNIT-0046-1",
+          "rent": 104000,
+          "total_monthly_cost": 109700,
+          "is_active": true,
+          "posted_date": "2026-09-16"
+        }
+      ],
+      "description_sample": "Owner shifting - 2 BHK Emaar Digi Homes open for rent, brokers welcome 1 month"
+    },
+    {
+      "unit_id": "HOMEIE-0100",
+      "society": "Bestech Park View",
+      "sector": "48",
+      "tower": "T2",
+      "bhk": 2,
+      "floor": 12,
+      "total_floors": 30,
+      "facing": "NW",
+      "carpet_sqft": 894,
+      "rent_min": 65000,
+      "rent_max": 65000,
+      "rent_representative": 65000,
+      "maintenance": 2100,
+      "club": 2500,
+      "furnishing": "semi-furnished",
+      "amenities": [
+        "CCTV surveillance",
+        "pet friendly",
+        "rainwater harvesting"
+      ],
+      "is_active_anywhere": true,
+      "is_off_market_only": true,
+      "num_duplicate_listings": 1,
+      "sources": [
+        {
+          "source_type": "off_market",
+          "source_name": "Homeie Direct Network",
+          "listing_id": "HOME-UNIT-0050-1",
+          "rent": 65000,
+          "total_monthly_cost": 69600,
+          "is_active": true,
+          "posted_date": "2026-09-06"
+        }
+      ],
+      "description_sample": "Direct from owner: Bestech Park View 2BHK, 894 sq ft approx, negotiable"
+    },
+    {
+      "unit_id": "HOMEIE-0101",
+      "society": "Godrej Habitat",
+      "sector": "78",
+      "tower": "T9",
+      "bhk": 2,
+      "floor": 19,
+      "total_floors": 30,
+      "facing": "SE",
+      "carpet_sqft": 940,
+      "rent_min": 52000,
+      "rent_max": 52000,
+      "rent_representative": 52000,
+      "maintenance": 2900,
+      "club": 1000,
+      "furnishing": "unfurnished",
+      "amenities": [
+        "clubhouse",
+        "pet friendly",
+        "visitor parking"
+      ],
+      "is_active_anywhere": true,
+      "is_off_market_only": true,
+      "num_duplicate_listings": 1,
+      "sources": [
+        {
+          "source_type": "off_market",
+          "source_name": "Homeie Direct Network",
+          "listing_id": "HOME-UNIT-0053-1",
+          "rent": 52000,
+          "total_monthly_cost": 55900,
+          "is_active": true,
+          "posted_date": "2026-09-08"
+        }
+      ],
+      "description_sample": "Direct from owner: Godrej Habitat 2BHK, 940 sq ft approx, negotiable"
+    },
+    {
+      "unit_id": "HOMEIE-0102",
+      "society": "Godrej Habitat",
+      "sector": "78",
+      "tower": "T3",
+      "bhk": 4,
+      "floor": 17,
+      "total_floors": 34,
+      "facing": "E",
+      "carpet_sqft": 1784,
+      "rent_min": 79000,
+      "rent_max": 79000,
+      "rent_representative": 79000,
+      "maintenance": 3700,
+      "club": 0,
+      "furnishing": "unfurnished",
+      "amenities": [
+        "CCTV surveillance",
+        "clubhouse",
+        "gym",
+        "piped gas",
+        "rainwater harvesting",
+        "swimming pool"
+      ],
+      "is_active_anywhere": true,
+      "is_off_market_only": true,
+      "num_duplicate_listings": 1,
+      "sources": [
+        {
+          "source_type": "off_market",
+          "source_name": "Homeie Direct Network",
+          "listing_id": "HOME-UNIT-0055-1",
+          "rent": 79000,
+          "total_monthly_cost": 82700,
+          "is_active": true,
+          "posted_date": "2026-09-15"
+        }
+      ],
+      "description_sample": "Direct from owner: Godrej Habitat 4BHK, 1784 sq ft approx, negotiable"
+    },
+    {
+      "unit_id": "HOMEIE-0103",
+      "society": "Adani Oyster Grande",
+      "sector": "102",
+      "tower": "T4",
+      "bhk": 3,
+      "floor": 9,
+      "total_floors": 33,
+      "facing": "SE",
+      "carpet_sqft": 1527,
+      "rent_min": 118000,
+      "rent_max": 118000,
+      "rent_representative": 118000,
+      "maintenance": 6600,
+      "club": 2000,
+      "furnishing": "fully-furnished",
+      "amenities": [
+        "clubhouse",
+        "gym",
+        "jogging track",
+        "pet friendly",
+        "rainwater harvesting",
+        "swimming pool"
+      ],
+      "is_active_anywhere": true,
+      "is_off_market_only": true,
+      "num_duplicate_listings": 1,
+      "sources": [
+        {
+          "source_type": "off_market",
+          "source_name": "Homeie Direct Network",
+          "listing_id": "HOME-UNIT-0056-1",
+          "rent": 118000,
+          "total_monthly_cost": 126600,
+          "is_active": true,
+          "posted_date": "2026-09-10"
+        }
+      ],
+      "description_sample": "3bhk Adani Oyster Grande sec 102 available!! fully-furnished floor 9 call fast"
+    },
+    {
+      "unit_id": "HOMEIE-0104",
+      "society": "Bestech Park View",
+      "sector": "48",
+      "tower": "T1",
+      "bhk": 4,
+      "floor": 28,
+      "total_floors": 35,
+      "facing": "NE",
+      "carpet_sqft": 2052,
+      "rent_min": 123000,
+      "rent_max": 123000,
+      "rent_representative": 123000,
+      "maintenance": 7500,
+      "club": 2500,
+      "furnishing": "fully-furnished",
+      "amenities": [
+        "pet friendly",
+        "visitor parking"
+      ],
+      "is_active_anywhere": true,
+      "is_off_market_only": true,
+      "num_duplicate_listings": 1,
+      "sources": [
+        {
+          "source_type": "off_market",
+          "source_name": "Homeie Direct Network",
+          "listing_id": "HOME-UNIT-0060-1",
+          "rent": 123000,
+          "total_monthly_cost": 133000,
+          "is_active": true,
+          "posted_date": "2026-09-10"
+        }
+      ],
+      "description_sample": "Direct from owner: Bestech Park View 4BHK, 2052 sq ft approx, negotiable"
+    },
+    {
+      "unit_id": "HOMEIE-0105",
+      "society": "Ireo Skyon",
+      "sector": "60",
+      "tower": "T7",
+      "bhk": 3,
+      "floor": 22,
+      "total_floors": 28,
+      "facing": "NW",
+      "carpet_sqft": 1344,
+      "rent_min": 104000,
+      "rent_max": 104000,
+      "rent_representative": 104000,
+      "maintenance": 4300,
+      "club": 1500,
+      "furnishing": "fully-furnished",
+      "amenities": [
+        "children's play area",
+        "pet friendly"
+      ],
+      "is_active_anywhere": true,
+      "is_off_market_only": true,
+      "num_duplicate_listings": 1,
+      "sources": [
+        {
+          "source_type": "off_market",
+          "source_name": "Homeie Direct Network",
+          "listing_id": "HOME-UNIT-0062-1",
+          "rent": 104000,
+          "total_monthly_cost": 109800,
+          "is_active": true,
+          "posted_date": "2026-09-08"
+        }
+      ],
+      "description_sample": "Direct from owner: Ireo Skyon 3BHK, 1344 sq ft approx, negotiable"
+    },
+    {
+      "unit_id": "HOMEIE-0106",
+      "society": "Experion Windchants",
+      "sector": "112",
+      "tower": "T9",
+      "bhk": 3,
+      "floor": 10,
+      "total_floors": 26,
+      "facing": "SW",
+      "carpet_sqft": 1341,
+      "rent_min": 93000,
+      "rent_max": 93000,
+      "rent_representative": 93000,
+      "maintenance": 6000,
+      "club": 2000,
+      "furnishing": "semi-furnished",
+      "amenities": [
+        "children's play area",
+        "covered parking"
+      ],
+      "is_active_anywhere": true,
+      "is_off_market_only": true,
+      "num_duplicate_listings": 1,
+      "sources": [
+        {
+          "source_type": "off_market",
+          "source_name": "Homeie Direct Network",
+          "listing_id": "HOME-UNIT-0064-1",
+          "rent": 93000,
+          "total_monthly_cost": 101000,
+          "is_active": true,
+          "posted_date": "2026-09-15"
+        }
+      ],
+      "description_sample": "3bhk Experion Windchants sec 112 available!! semi-furnished floor 10 call fast"
+    },
+    {
+      "unit_id": "HOMEIE-0107",
+      "society": "Adani Oyster Grande",
+      "sector": "102",
+      "tower": "T9",
+      "bhk": 3,
+      "floor": 4,
+      "total_floors": 29,
+      "facing": "E",
+      "carpet_sqft": 1374,
+      "rent_min": 57000,
+      "rent_max": 57000,
+      "rent_representative": 57000,
+      "maintenance": 3600,
+      "club": 0,
+      "furnishing": "semi-furnished",
+      "amenities": [
+        "CCTV surveillance",
+        "jogging track",
+        "modular kitchen",
+        "piped gas",
+        "rainwater harvesting",
+        "visitor parking"
+      ],
+      "is_active_anywhere": true,
+      "is_off_market_only": true,
+      "num_duplicate_listings": 1,
+      "sources": [
+        {
+          "source_type": "off_market",
+          "source_name": "Homeie Direct Network",
+          "listing_id": "HOME-UNIT-0068-1",
+          "rent": 57000,
+          "total_monthly_cost": 60600,
+          "is_active": true,
+          "posted_date": "2026-09-07"
+        }
+      ],
+      "description_sample": "Direct from owner: Adani Oyster Grande 3BHK, 1374 sq ft approx, negotiable"
+    },
+    {
+      "unit_id": "HOMEIE-0108",
+      "society": "Godrej Habitat",
+      "sector": "78",
+      "tower": "T1",
+      "bhk": 3,
+      "floor": 22,
+      "total_floors": 25,
+      "facing": "N",
+      "carpet_sqft": 1443,
+      "rent_min": 125000,
+      "rent_max": 125000,
+      "rent_representative": 125000,
+      "maintenance": 5900,
+      "club": 2500,
+      "furnishing": "unfurnished",
+      "amenities": [
+        "clubhouse",
+        "modular kitchen"
+      ],
+      "is_active_anywhere": true,
+      "is_off_market_only": true,
+      "num_duplicate_listings": 1,
+      "sources": [
+        {
+          "source_type": "off_market",
+          "source_name": "Homeie Direct Network",
+          "listing_id": "HOME-UNIT-0069-1",
+          "rent": 125000,
+          "total_monthly_cost": 133400,
+          "is_active": true,
+          "posted_date": "2026-09-06"
+        }
+      ],
+      "description_sample": "3bhk Godrej Habitat sec 78 available!! unfurnished floor 22 call fast"
+    },
+    {
+      "unit_id": "HOMEIE-0109",
+      "society": "Bestech Park View",
+      "sector": "48",
+      "tower": "T4",
+      "bhk": 4,
+      "floor": 16,
+      "total_floors": 27,
+      "facing": "NW",
+      "carpet_sqft": 1928,
+      "rent_min": 75000,
+      "rent_max": 75000,
+      "rent_representative": 75000,
+      "maintenance": 2400,
+      "club": 1000,
+      "furnishing": "fully-furnished",
+      "amenities": [
+        "gym",
+        "modular kitchen"
+      ],
+      "is_active_anywhere": true,
+      "is_off_market_only": true,
+      "num_duplicate_listings": 1,
+      "sources": [
+        {
+          "source_type": "off_market",
+          "source_name": "Homeie Direct Network",
+          "listing_id": "HOME-UNIT-0072-1",
+          "rent": 75000,
+          "total_monthly_cost": 78400,
+          "is_active": true,
+          "posted_date": "2026-09-06"
+        }
+      ],
+      "description_sample": "Direct from owner: Bestech Park View 4BHK, 1928 sq ft approx, negotiable"
+    },
+    {
+      "unit_id": "HOMEIE-0110",
+      "society": "Vatika India Next",
+      "sector": "82",
+      "tower": "T1",
+      "bhk": 3,
+      "floor": 16,
+      "total_floors": 21,
+      "facing": "S",
+      "carpet_sqft": 1479,
+      "rent_min": 42000,
+      "rent_max": 42000,
+      "rent_representative": 42000,
+      "maintenance": 2700,
+      "club": 1500,
+      "furnishing": "fully-furnished",
+      "amenities": [
+        "24x7 power backup",
+        "modular kitchen",
+        "swimming pool"
+      ],
+      "is_active_anywhere": true,
+      "is_off_market_only": true,
+      "num_duplicate_listings": 1,
+      "sources": [
+        {
+          "source_type": "off_market",
+          "source_name": "Homeie Direct Network",
+          "listing_id": "HOME-UNIT-0075-1",
+          "rent": 42000,
+          "total_monthly_cost": 46200,
+          "is_active": true,
+          "posted_date": "2026-09-12"
+        }
+      ],
+      "description_sample": "Owner shifting - 3 BHK Vatika India Next open for rent, brokers welcome 1 month"
+    },
+    {
+      "unit_id": "HOMEIE-0111",
+      "society": "Tulip Violet",
+      "sector": "69",
+      "tower": "T3",
+      "bhk": 2,
+      "floor": 3,
+      "total_floors": 27,
+      "facing": "E",
+      "carpet_sqft": 958,
+      "rent_min": 69000,
+      "rent_max": 69000,
+      "rent_representative": 69000,
+      "maintenance": 2900,
+      "club": 0,
+      "furnishing": "unfurnished",
+      "amenities": [
+        "children's play area",
+        "gym",
+        "pet friendly"
+      ],
+      "is_active_anywhere": true,
+      "is_off_market_only": true,
+      "num_duplicate_listings": 1,
+      "sources": [
+        {
+          "source_type": "off_market",
+          "source_name": "Homeie Direct Network",
+          "listing_id": "HOME-UNIT-0077-1",
+          "rent": 69000,
+          "total_monthly_cost": 71900,
+          "is_active": true,
+          "posted_date": "2026-09-12"
+        }
+      ],
+      "description_sample": "Direct from owner: Tulip Violet 2BHK, 958 sq ft approx, negotiable"
+    },
+    {
+      "unit_id": "HOMEIE-0112",
+      "society": "Tulip Violet",
+      "sector": "69",
+      "tower": "T2",
+      "bhk": 2,
+      "floor": 15,
+      "total_floors": 28,
+      "facing": "SW",
+      "carpet_sqft": 894,
+      "rent_min": 72000,
+      "rent_max": 72000,
+      "rent_representative": 72000,
+      "maintenance": 4000,
+      "club": 1000,
+      "furnishing": "semi-furnished",
+      "amenities": [
+        "CCTV surveillance",
+        "visitor parking"
+      ],
+      "is_active_anywhere": true,
+      "is_off_market_only": true,
+      "num_duplicate_listings": 1,
+      "sources": [
+        {
+          "source_type": "off_market",
+          "source_name": "Homeie Direct Network",
+          "listing_id": "HOME-UNIT-0080-1",
+          "rent": 72000,
+          "total_monthly_cost": 77000,
+          "is_active": true,
+          "posted_date": "2026-09-12"
+        }
+      ],
+      "description_sample": "Owner shifting - 2 BHK Tulip Violet open for rent, brokers welcome 1 month"
+    },
+    {
+      "unit_id": "HOMEIE-0113",
+      "society": "Central Park Flower Valley",
+      "sector": "33",
+      "tower": "T7",
+      "bhk": 4,
+      "floor": 5,
+      "total_floors": 18,
+      "facing": "E",
+      "carpet_sqft": 2012,
+      "rent_min": 100000,
+      "rent_max": 100000,
+      "rent_representative": 100000,
+      "maintenance": 4500,
+      "club": 1000,
+      "furnishing": "semi-furnished",
+      "amenities": [
+        "CCTV surveillance",
+        "clubhouse",
+        "modular kitchen",
+        "pet friendly",
+        "piped gas",
+        "visitor parking"
+      ],
+      "is_active_anywhere": true,
+      "is_off_market_only": true,
+      "num_duplicate_listings": 1,
+      "sources": [
+        {
+          "source_type": "off_market",
+          "source_name": "Homeie Direct Network",
+          "listing_id": "HOME-UNIT-0084-1",
+          "rent": 100000,
+          "total_monthly_cost": 105500,
+          "is_active": true,
+          "posted_date": "2026-09-06"
+        }
+      ],
+      "description_sample": "4bhk Central Park Flower Valley sec 33 available!! semi-furnished floor 5 call fast"
+    },
+    {
+      "unit_id": "HOMEIE-0114",
+      "society": "Godrej Habitat",
+      "sector": "78",
+      "tower": "T4",
+      "bhk": 2,
+      "floor": 25,
+      "total_floors": 34,
+      "facing": "NW",
+      "carpet_sqft": 1040,
+      "rent_min": 65000,
+      "rent_max": 65000,
+      "rent_representative": 65000,
+      "maintenance": 3500,
+      "club": 2000,
+      "furnishing": "unfurnished",
+      "amenities": [
+        "24x7 power backup",
+        "children's play area",
+        "clubhouse",
+        "pet friendly",
+        "visitor parking"
+      ],
+      "is_active_anywhere": true,
+      "is_off_market_only": true,
+      "num_duplicate_listings": 1,
+      "sources": [
+        {
+          "source_type": "off_market",
+          "source_name": "Homeie Direct Network",
+          "listing_id": "HOME-UNIT-0086-1",
+          "rent": 65000,
+          "total_monthly_cost": 70500,
+          "is_active": true,
+          "posted_date": "2026-09-15"
+        }
+      ],
+      "description_sample": "Direct from owner: Godrej Habitat 2BHK, 1040 sq ft approx, negotiable"
+    },
+    {
+      "unit_id": "HOMEIE-0115",
+      "society": "Bestech Park View",
+      "sector": "48",
+      "tower": "T2",
+      "bhk": 2,
+      "floor": 1,
+      "total_floors": 1,
+      "facing": "NE",
+      "carpet_sqft": 914,
+      "rent_min": 110000,
+      "rent_max": 110000,
+      "rent_representative": 110000,
+      "maintenance": 3500,
+      "club": 0,
+      "furnishing": "semi-furnished",
+      "amenities": [
+        "jogging track",
+        "piped gas",
+        "rainwater harvesting"
+      ],
+      "is_active_anywhere": true,
+      "is_off_market_only": true,
+      "num_duplicate_listings": 1,
+      "sources": [
+        {
+          "source_type": "off_market",
+          "source_name": "Homeie Direct Network",
+          "listing_id": "HOME-UNIT-0092-1",
+          "rent": 110000,
+          "total_monthly_cost": 113500,
+          "is_active": true,
+          "posted_date": "2026-09-15"
+        }
+      ],
+      "description_sample": "2bhk Bestech Park View sec 48 available!! semi-furnished floor 1 call fast"
+    },
+    {
+      "unit_id": "HOMEIE-0116",
+      "society": "Experion Windchants",
+      "sector": "112",
+      "tower": "T1",
+      "bhk": 3,
+      "floor": 4,
+      "total_floors": 23,
+      "facing": "E",
+      "carpet_sqft": 1335,
+      "rent_min": 93000,
+      "rent_max": 93000,
+      "rent_representative": 93000,
+      "maintenance": 2800,
+      "club": 1000,
+      "furnishing": "fully-furnished",
+      "amenities": [
+        "children's play area",
+        "clubhouse"
+      ],
+      "is_active_anywhere": true,
+      "is_off_market_only": true,
+      "num_duplicate_listings": 1,
+      "sources": [
+        {
+          "source_type": "off_market",
+          "source_name": "Homeie Direct Network",
+          "listing_id": "HOME-UNIT-0093-1",
+          "rent": 93000,
+          "total_monthly_cost": 96800,
+          "is_active": true,
+          "posted_date": "2026-09-15"
+        }
+      ],
+      "description_sample": "Direct from owner: Experion Windchants 3BHK, 1335 sq ft approx, negotiable"
+    },
+    {
+      "unit_id": "HOMEIE-0117",
+      "society": "M3M Heights",
+      "sector": "65",
+      "tower": "T3",
+      "bhk": 3,
+      "floor": 28,
+      "total_floors": 33,
+      "facing": "E",
+      "carpet_sqft": 1386,
+      "rent_min": 107000,
+      "rent_max": 107000,
+      "rent_representative": 107000,
+      "maintenance": 6500,
+      "club": 2500,
+      "furnishing": "fully-furnished",
+      "amenities": [
+        "modular kitchen",
+        "swimming pool",
+        "visitor parking"
+      ],
+      "is_active_anywhere": true,
+      "is_off_market_only": true,
+      "num_duplicate_listings": 1,
+      "sources": [
+        {
+          "source_type": "off_market",
+          "source_name": "Homeie Direct Network",
+          "listing_id": "HOME-UNIT-0094-1",
+          "rent": 107000,
+          "total_monthly_cost": 116000,
+          "is_active": true,
+          "posted_date": "2026-09-08"
+        }
+      ],
+      "description_sample": "Direct from owner: M3M Heights 3BHK, 1386 sq ft approx, negotiable"
+    },
+    {
+      "unit_id": "HOMEIE-0118",
+      "society": "Experion Windchants",
+      "sector": "112",
+      "tower": "T2",
+      "bhk": 4,
+      "floor": 11,
+      "total_floors": 29,
+      "facing": "NW",
+      "carpet_sqft": 1780,
+      "rent_min": 69000,
+      "rent_max": 69000,
+      "rent_representative": 69000,
+      "maintenance": 3500,
+      "club": 0,
+      "furnishing": "unfurnished",
+      "amenities": [
+        "24x7 power backup",
+        "CCTV surveillance",
+        "jogging track",
+        "modular kitchen"
+      ],
+      "is_active_anywhere": true,
+      "is_off_market_only": true,
+      "num_duplicate_listings": 1,
+      "sources": [
+        {
+          "source_type": "off_market",
+          "source_name": "Homeie Direct Network",
+          "listing_id": "HOME-UNIT-0095-1",
+          "rent": 69000,
+          "total_monthly_cost": 72500,
+          "is_active": true,
+          "posted_date": "2026-09-09"
+        }
+      ],
+      "description_sample": "Direct from owner: Experion Windchants 4BHK, 1780 sq ft approx, negotiable"
+    },
+    {
+      "unit_id": "HOMEIE-0119",
+      "society": "Tulip Violet",
+      "sector": "69",
+      "tower": "T3",
+      "bhk": 4,
+      "floor": 12,
+      "total_floors": 30,
+      "facing": "W",
+      "carpet_sqft": 1972,
+      "rent_min": 107000,
+      "rent_max": 107000,
+      "rent_representative": 107000,
+      "maintenance": 5500,
+      "club": 1000,
+      "furnishing": "semi-furnished",
+      "amenities": [
+        "24x7 power backup",
+        "covered parking"
+      ],
+      "is_active_anywhere": true,
+      "is_off_market_only": true,
+      "num_duplicate_listings": 1,
+      "sources": [
+        {
+          "source_type": "off_market",
+          "source_name": "Homeie Direct Network",
+          "listing_id": "HOME-UNIT-0102-1",
+          "rent": 107000,
+          "total_monthly_cost": 113500,
+          "is_active": true,
+          "posted_date": "2026-09-12"
+        }
+      ],
+      "description_sample": "Owner shifting - 4 BHK Tulip Violet open for rent, brokers welcome 1 month"
+    },
+    {
+      "unit_id": "HOMEIE-0120",
+      "society": "Central Park Flower Valley",
+      "sector": "33",
+      "tower": "T9",
+      "bhk": 2,
+      "floor": 7,
+      "total_floors": 30,
+      "facing": "NE",
+      "carpet_sqft": 1028,
+      "rent_min": 87000,
+      "rent_max": 87000,
+      "rent_representative": 87000,
+      "maintenance": 3600,
+      "club": 1000,
+      "furnishing": "unfurnished",
+      "amenities": [
+        "piped gas"
+      ],
+      "is_active_anywhere": true,
+      "is_off_market_only": true,
+      "num_duplicate_listings": 1,
+      "sources": [
+        {
+          "source_type": "off_market",
+          "source_name": "Homeie Direct Network",
+          "listing_id": "HOME-UNIT-0106-1",
+          "rent": 87000,
+          "total_monthly_cost": 91600,
+          "is_active": true,
+          "posted_date": "2026-09-14"
+        }
+      ],
+      "description_sample": "Direct from owner: Central Park Flower Valley 2BHK, 1028 sq ft approx, negotiable"
+    },
+    {
+      "unit_id": "HOMEIE-0121",
+      "society": "M3M Heights",
+      "sector": "65",
+      "tower": "T4",
+      "bhk": 3,
+      "floor": 11,
+      "total_floors": 12,
+      "facing": "SW",
+      "carpet_sqft": 1392,
+      "rent_min": 123000,
+      "rent_max": 123000,
+      "rent_representative": 123000,
+      "maintenance": 8100,
+      "club": 0,
+      "furnishing": "semi-furnished",
+      "amenities": [
+        "CCTV surveillance",
+        "covered parking",
+        "pet friendly",
+        "swimming pool"
+      ],
+      "is_active_anywhere": true,
+      "is_off_market_only": true,
+      "num_duplicate_listings": 1,
+      "sources": [
+        {
+          "source_type": "off_market",
+          "source_name": "Homeie Direct Network",
+          "listing_id": "HOME-UNIT-0110-1",
+          "rent": 123000,
+          "total_monthly_cost": 131100,
+          "is_active": true,
+          "posted_date": "2026-09-13"
+        }
+      ],
+      "description_sample": "Owner shifting - 3 BHK M3M Heights open for rent, brokers welcome 1 month"
+    },
+    {
+      "unit_id": "HOMEIE-0122",
+      "society": "Emaar Digi Homes",
+      "sector": "62",
+      "tower": "T3",
+      "bhk": 4,
+      "floor": 17,
+      "total_floors": 33,
+      "facing": "N",
+      "carpet_sqft": 1808,
+      "rent_min": 86000,
+      "rent_max": 86000,
+      "rent_representative": 86000,
+      "maintenance": 3200,
+      "club": 1000,
+      "furnishing": "unfurnished",
+      "amenities": [
+        "24x7 power backup",
+        "CCTV surveillance",
+        "children's play area",
+        "pet friendly"
+      ],
+      "is_active_anywhere": true,
+      "is_off_market_only": true,
+      "num_duplicate_listings": 1,
+      "sources": [
+        {
+          "source_type": "off_market",
+          "source_name": "Homeie Direct Network",
+          "listing_id": "HOME-UNIT-0111-1",
+          "rent": 86000,
+          "total_monthly_cost": 90200,
+          "is_active": true,
+          "posted_date": "2026-09-12"
+        }
+      ],
+      "description_sample": "Direct from owner: Emaar Digi Homes 4BHK, 1808 sq ft approx, negotiable"
+    },
+    {
+      "unit_id": "HOMEIE-0123",
+      "society": "Central Park Flower Valley",
+      "sector": "33",
+      "tower": "T8",
+      "bhk": 4,
+      "floor": 2,
+      "total_floors": 19,
+      "facing": "W",
+      "carpet_sqft": 1804,
+      "rent_min": 35000,
+      "rent_max": 35000,
+      "rent_representative": 35000,
+      "maintenance": 1900,
+      "club": 1000,
+      "furnishing": "semi-furnished",
+      "amenities": [
+        "clubhouse",
+        "jogging track",
+        "piped gas"
+      ],
+      "is_active_anywhere": true,
+      "is_off_market_only": true,
+      "num_duplicate_listings": 1,
+      "sources": [
+        {
+          "source_type": "off_market",
+          "source_name": "Homeie Direct Network",
+          "listing_id": "HOME-UNIT-0116-1",
+          "rent": 35000,
+          "total_monthly_cost": 37900,
+          "is_active": true,
+          "posted_date": "2026-09-13"
+        }
+      ],
+      "description_sample": "Direct from owner: Central Park Flower Valley 4BHK, 1804 sq ft approx, negotiable"
+    },
+    {
+      "unit_id": "HOMEIE-0124",
+      "society": "Tulip Violet",
+      "sector": "69",
+      "tower": "T2",
+      "bhk": 3,
+      "floor": 10,
+      "total_floors": 22,
+      "facing": "NE",
+      "carpet_sqft": 1353,
+      "rent_min": 51000,
+      "rent_max": 51000,
+      "rent_representative": 51000,
+      "maintenance": 1700,
+      "club": 0,
+      "furnishing": "semi-furnished",
+      "amenities": [
+        "pet friendly",
+        "piped gas",
+        "rainwater harvesting",
+        "visitor parking"
+      ],
+      "is_active_anywhere": true,
+      "is_off_market_only": true,
+      "num_duplicate_listings": 1,
+      "sources": [
+        {
+          "source_type": "off_market",
+          "source_name": "Homeie Direct Network",
+          "listing_id": "HOME-UNIT-0117-1",
+          "rent": 51000,
+          "total_monthly_cost": 52700,
+          "is_active": true,
+          "posted_date": "2026-09-13"
+        }
+      ],
+      "description_sample": "Direct from owner: Tulip Violet 3BHK, 1353 sq ft approx, negotiable"
+    },
+    {
+      "unit_id": "HOMEIE-0125",
+      "society": "Experion Windchants",
+      "sector": "112",
+      "tower": "T8",
+      "bhk": 3,
+      "floor": 21,
+      "total_floors": 25,
+      "facing": "NE",
+      "carpet_sqft": 1467,
+      "rent_min": 64000,
+      "rent_max": 64000,
+      "rent_representative": 64000,
+      "maintenance": 2000,
+      "club": 1000,
+      "furnishing": "unfurnished",
+      "amenities": [
+        "children's play area",
+        "covered parking",
+        "jogging track"
+      ],
+      "is_active_anywhere": true,
+      "is_off_market_only": true,
+      "num_duplicate_listings": 1,
+      "sources": [
+        {
+          "source_type": "off_market",
+          "source_name": "Homeie Direct Network",
+          "listing_id": "HOME-UNIT-0120-1",
+          "rent": 64000,
+          "total_monthly_cost": 67000,
+          "is_active": true,
+          "posted_date": "2026-09-14"
+        }
+      ],
+      "description_sample": "Direct from owner: Experion Windchants 3BHK, 1467 sq ft approx, negotiable"
+    },
+    {
+      "unit_id": "HOMEIE-0126",
+      "society": "ATS Kocoon",
+      "sector": "109",
+      "tower": "T8",
+      "bhk": 2,
+      "floor": 3,
+      "total_floors": 31,
+      "facing": "S",
+      "carpet_sqft": 986,
+      "rent_min": 93000,
+      "rent_max": 93000,
+      "rent_representative": 93000,
+      "maintenance": 4500,
+      "club": 0,
+      "furnishing": "semi-furnished",
+      "amenities": [
+        "covered parking",
+        "jogging track",
+        "visitor parking"
+      ],
+      "is_active_anywhere": true,
+      "is_off_market_only": true,
+      "num_duplicate_listings": 1,
+      "sources": [
+        {
+          "source_type": "off_market",
+          "source_name": "Homeie Direct Network",
+          "listing_id": "HOME-UNIT-0123-1",
+          "rent": 93000,
+          "total_monthly_cost": 97500,
+          "is_active": true,
+          "posted_date": "2026-09-09"
+        }
+      ],
+      "description_sample": "2bhk ATS Kocoon sec 109 available!! semi-furnished floor 3 call fast"
+    },
+    {
+      "unit_id": "HOMEIE-0127",
+      "society": "Ireo Skyon",
+      "sector": "60",
+      "tower": "T6",
+      "bhk": 4,
+      "floor": 8,
+      "total_floors": 19,
+      "facing": "NE",
+      "carpet_sqft": 2000,
+      "rent_min": 35000,
+      "rent_max": 35000,
+      "rent_representative": 35000,
+      "maintenance": 1800,
+      "club": 0,
+      "furnishing": "unfurnished",
+      "amenities": [
+        "clubhouse",
+        "covered parking",
+        "jogging track",
+        "pet friendly"
+      ],
+      "is_active_anywhere": true,
+      "is_off_market_only": true,
+      "num_duplicate_listings": 1,
+      "sources": [
+        {
+          "source_type": "off_market",
+          "source_name": "Homeie Direct Network",
+          "listing_id": "HOME-UNIT-0124-1",
+          "rent": 35000,
+          "total_monthly_cost": 36800,
+          "is_active": true,
+          "posted_date": "2026-09-10"
+        }
+      ],
+      "description_sample": "4bhk Ireo Skyon sec 60 available!! unfurnished floor 8 call fast"
+    },
+    {
+      "unit_id": "HOMEIE-0128",
+      "society": "Godrej Habitat",
+      "sector": "78",
+      "tower": "T1",
+      "bhk": 2,
+      "floor": 17,
+      "total_floors": 34,
+      "facing": "SE",
+      "carpet_sqft": 1008,
+      "rent_min": 129000,
+      "rent_max": 129000,
+      "rent_representative": 129000,
+      "maintenance": 6400,
+      "club": 2500,
+      "furnishing": "unfurnished",
+      "amenities": [
+        "children's play area",
+        "clubhouse",
+        "visitor parking"
+      ],
+      "is_active_anywhere": true,
+      "is_off_market_only": true,
+      "num_duplicate_listings": 1,
+      "sources": [
+        {
+          "source_type": "off_market",
+          "source_name": "Homeie Direct Network",
+          "listing_id": "HOME-UNIT-0125-1",
+          "rent": 129000,
+          "total_monthly_cost": 137900,
+          "is_active": true,
+          "posted_date": "2026-09-10"
+        }
+      ],
+      "description_sample": "Owner shifting - 2 BHK Godrej Habitat open for rent, brokers welcome 1 month"
+    },
+    {
+      "unit_id": "HOMEIE-0129",
+      "society": "Ambience Creacions",
+      "sector": "22",
+      "tower": "T6",
+      "bhk": 4,
+      "floor": 10,
+      "total_floors": 31,
+      "facing": "E",
+      "carpet_sqft": 2080,
+      "rent_min": 122000,
+      "rent_max": 122000,
+      "rent_representative": 122000,
+      "maintenance": 6800,
+      "club": 1000,
+      "furnishing": "fully-furnished",
+      "amenities": [
+        "children's play area",
+        "covered parking",
+        "pet friendly",
+        "rainwater harvesting",
+        "visitor parking"
+      ],
+      "is_active_anywhere": true,
+      "is_off_market_only": true,
+      "num_duplicate_listings": 1,
+      "sources": [
+        {
+          "source_type": "off_market",
+          "source_name": "Homeie Direct Network",
+          "listing_id": "HOME-UNIT-0126-1",
+          "rent": 122000,
+          "total_monthly_cost": 129800,
+          "is_active": true,
+          "posted_date": "2026-09-08"
+        }
+      ],
+      "description_sample": "Owner shifting - 4 BHK Ambience Creacions open for rent, brokers welcome 1 month"
+    },
+    {
+      "unit_id": "HOMEIE-0130",
+      "society": "Godrej Habitat",
+      "sector": "78",
+      "tower": "T3",
+      "bhk": 2,
+      "floor": 22,
+      "total_floors": 24,
+      "facing": "S",
+      "carpet_sqft": 956,
+      "rent_min": 44000,
+      "rent_max": 44000,
+      "rent_representative": 44000,
+      "maintenance": 1400,
+      "club": 1500,
+      "furnishing": "fully-furnished",
+      "amenities": [
+        "24x7 power backup",
+        "CCTV surveillance",
+        "clubhouse",
+        "gym",
+        "piped gas"
+      ],
+      "is_active_anywhere": true,
+      "is_off_market_only": true,
+      "num_duplicate_listings": 1,
+      "sources": [
+        {
+          "source_type": "off_market",
+          "source_name": "Homeie Direct Network",
+          "listing_id": "HOME-UNIT-0128-1",
+          "rent": 44000,
+          "total_monthly_cost": 46900,
+          "is_active": true,
+          "posted_date": "2026-09-12"
+        }
+      ],
+      "description_sample": "2bhk Godrej Habitat sec 78 available!! fully-furnished floor 22 call fast"
+    }
+  ]
