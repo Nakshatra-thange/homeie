@@ -1,0 +1,597 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>Homeie Engine — Dedup + HomeScore demo</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,300;9..144,500;9..144,600&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+<style>
+  :root {
+    --bg: #12161a;
+    --bg-panel: #1b2126;
+    --bg-raised: #212932;
+    --ink: #f3efe7;
+    --ink-dim: #97a1a8;
+    --ink-faint: #5e686f;
+    --accent: #c98a4b;
+    --accent-ink: #2a1c0f;
+    --good: #6fa287;
+    --mid: #c98a4b;
+    --low: #b65c4a;
+    --line: #2a3138;
+    --serif: 'Fraunces', Georgia, 'Times New Roman', serif;
+    --sans: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+  }
+
+  * { box-sizing: border-box; }
+  html, body { margin: 0; padding: 0; }
+  body {
+    background: var(--bg);
+    color: var(--ink);
+    font-family: var(--sans);
+    font-size: 15px;
+    line-height: 1.5;
+    -webkit-font-smoothing: antialiased;
+  }
+  a { color: inherit; }
+
+  ::selection { background: var(--accent); color: var(--accent-ink); }
+
+  /* ---------- header ---------- */
+  header {
+    display: flex;
+    align-items: baseline;
+    justify-content: space-between;
+    gap: 24px;
+    padding: 22px 32px;
+    border-bottom: 1px solid var(--line);
+    flex-wrap: wrap;
+  }
+  .wordmark {
+    font-family: var(--serif);
+    font-weight: 500;
+    font-size: 22px;
+    letter-spacing: 0.2px;
+  }
+  .wordmark span { color: var(--ink-dim); font-size: 14px; font-family: var(--sans); margin-left: 10px; }
+  .stats-strip {
+    display: flex;
+    gap: 26px;
+    font-size: 13px;
+    color: var(--ink-dim);
+  }
+  .stats-strip b { color: var(--ink); font-weight: 600; }
+  .stats-strip .metric-good { color: var(--good); font-weight: 600; }
+
+  /* ---------- shell ---------- */
+  .shell {
+    display: grid;
+    grid-template-columns: 360px 1fr;
+    gap: 0;
+    align-items: start;
+  }
+  @media (max-width: 880px) {
+    .shell { grid-template-columns: 1fr; }
+  }
+
+  /* ---------- brief panel ---------- */
+  .brief {
+    position: sticky;
+    top: 0;
+    padding: 28px 28px 40px;
+    border-right: 1px solid var(--line);
+    height: 100vh;
+    overflow-y: auto;
+  }
+  @media (max-width: 880px) {
+    .brief { position: static; height: auto; border-right: none; border-bottom: 1px solid var(--line); }
+  }
+  .brief h2 {
+    font-family: var(--serif);
+    font-weight: 500;
+    font-size: 19px;
+    margin: 0 0 4px;
+  }
+  .brief .sub {
+    color: var(--ink-dim);
+    font-size: 13px;
+    margin: 0 0 24px;
+    line-height: 1.5;
+  }
+  .field { margin-bottom: 18px; }
+  .field label {
+    display: block;
+    font-size: 12.5px;
+    color: var(--ink-dim);
+    margin-bottom: 6px;
+  }
+  .field input[type=text], .field input[type=number] {
+    width: 100%;
+    background: var(--bg-panel);
+    border: 1px solid var(--line);
+    border-radius: 6px;
+    color: var(--ink);
+    padding: 9px 11px;
+    font-size: 14px;
+    font-family: var(--sans);
+  }
+  .field input:focus { outline: 2px solid var(--accent); outline-offset: 1px; border-color: transparent; }
+  .row-2 { display: grid; grid-template-columns: 1fr 1fr; gap: 12px; }
+
+  .checkbox-row {
+    display: flex;
+    align-items: center;
+    gap: 9px;
+    padding: 10px 0 2px;
+  }
+  .checkbox-row input { width: 16px; height: 16px; accent-color: var(--accent); }
+  .checkbox-row label { font-size: 13.5px; color: var(--ink); }
+
+  .priorities-title {
+    font-size: 12.5px;
+    color: var(--ink-dim);
+    margin: 22px 0 10px;
+    padding-top: 16px;
+    border-top: 1px solid var(--line);
+  }
+  .slider-field { margin-bottom: 13px; }
+  .slider-field .slider-head {
+    display: flex;
+    justify-content: space-between;
+    font-size: 13px;
+    margin-bottom: 4px;
+  }
+  .slider-field .slider-head span:last-child { color: var(--ink-dim); font-variant-numeric: tabular-nums; }
+  input[type=range] {
+    width: 100%;
+    accent-color: var(--accent);
+    height: 18px;
+  }
+
+  .btn {
+    display: block;
+    width: 100%;
+    text-align: center;
+    padding: 11px 14px;
+    border-radius: 7px;
+    border: 1px solid transparent;
+    font-size: 14px;
+    font-weight: 600;
+    cursor: pointer;
+    font-family: var(--sans);
+  }
+  .btn-primary { background: var(--accent); color: var(--accent-ink); margin-top: 20px; }
+  .btn-primary:hover { filter: brightness(1.08); }
+  .btn-ghost { background: transparent; color: var(--ink-dim); border-color: var(--line); margin-top: 10px; }
+  .btn-ghost:hover { color: var(--ink); border-color: var(--ink-faint); }
+  .btn:disabled { opacity: 0.5; cursor: default; }
+
+  .api-note {
+    font-size: 11.5px;
+    color: var(--ink-faint);
+    margin-top: 18px;
+    line-height: 1.5;
+  }
+  .api-note code { color: var(--ink-dim); }
+
+  /* ---------- results ---------- */
+  .results { padding: 28px 32px 80px; }
+  .results-head {
+    display: flex;
+    align-items: baseline;
+    justify-content: space-between;
+    margin-bottom: 20px;
+    flex-wrap: wrap;
+    gap: 8px;
+  }
+  .results-head h1 {
+    font-family: var(--serif);
+    font-weight: 500;
+    font-size: 24px;
+    margin: 0;
+  }
+  .results-head .count { color: var(--ink-dim); font-size: 13.5px; }
+
+  .state-msg {
+    border: 1px dashed var(--line);
+    border-radius: 10px;
+    padding: 28px;
+    color: var(--ink-dim);
+    font-size: 14px;
+    line-height: 1.6;
+  }
+  .state-msg.error { border-color: #5c3630; color: #e3ab9d; }
+  .state-msg pre {
+    background: var(--bg-panel);
+    padding: 10px 12px;
+    border-radius: 6px;
+    font-size: 12.5px;
+    overflow-x: auto;
+    color: var(--ink);
+    margin-top: 10px;
+  }
+
+  .card {
+    display: grid;
+    grid-template-columns: 88px 1fr;
+    gap: 20px;
+    background: var(--bg-panel);
+    border-radius: 10px;
+    padding: 20px 22px;
+    margin-bottom: 14px;
+    border-left: 3px solid var(--line);
+  }
+  .card.tier-good { border-left-color: var(--good); }
+  .card.tier-mid { border-left-color: var(--mid); }
+  .card.tier-low { border-left-color: var(--low); }
+
+  @media (max-width: 560px) {
+    .card { grid-template-columns: 1fr; }
+  }
+
+  .score-block { text-align: center; }
+  .score-block .num {
+    font-family: var(--serif);
+    font-size: 40px;
+    font-weight: 500;
+    line-height: 1;
+  }
+  .score-block .num.tier-good { color: var(--good); }
+  .score-block .num.tier-mid { color: var(--mid); }
+  .score-block .num.tier-low { color: var(--low); }
+  .score-block .label { font-size: 10.5px; color: var(--ink-faint); margin-top: 4px; }
+  .score-block .rank { font-size: 12px; color: var(--ink-dim); margin-bottom: 6px; }
+
+  .card-body h3 {
+    font-family: var(--serif);
+    font-weight: 500;
+    font-size: 17px;
+    margin: 0 0 3px;
+  }
+  .card-meta { font-size: 13px; color: var(--ink-dim); margin-bottom: 2px; }
+  .card-price { font-size: 13.5px; color: var(--ink); margin-bottom: 14px; }
+  .card-price .range { color: var(--ink-faint); font-size: 12px; }
+
+  .bars {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 8px 22px;
+    margin-bottom: 14px;
+  }
+  @media (max-width: 480px) { .bars { grid-template-columns: 1fr; } }
+  .bar-row { font-size: 12px; }
+  .bar-row .bar-head { display: flex; justify-content: space-between; color: var(--ink-dim); margin-bottom: 3px; }
+  .bar-track { background: var(--bg-raised); border-radius: 3px; height: 5px; overflow: hidden; }
+  .bar-fill { height: 100%; border-radius: 3px; }
+  .bar-fill.tier-good { background: var(--good); }
+  .bar-fill.tier-mid { background: var(--mid); }
+  .bar-fill.tier-low { background: var(--low); }
+
+  .trade-offs { font-size: 13px; color: var(--ink-dim); line-height: 1.6; margin-bottom: 10px; }
+  .trade-offs li { margin-left: 18px; }
+
+  .sources-toggle {
+    font-size: 12px;
+    color: var(--ink-faint);
+    cursor: pointer;
+    border: none;
+    background: none;
+    padding: 0;
+    font-family: var(--sans);
+    text-decoration: underline;
+    text-decoration-color: var(--line);
+    text-underline-offset: 3px;
+  }
+  .sources-toggle:hover { color: var(--ink-dim); }
+  .sources-list {
+    margin-top: 10px;
+    padding-top: 10px;
+    border-top: 1px solid var(--line);
+    display: none;
+    font-size: 12px;
+    color: var(--ink-dim);
+  }
+  .sources-list.open { display: block; }
+  .sources-list .src-row { display: flex; justify-content: space-between; padding: 3px 0; }
+  .sources-list .src-row .stale { color: var(--low); }
+
+  footer {
+    text-align: center;
+    color: var(--ink-faint);
+    font-size: 12px;
+    padding: 30px 20px 40px;
+  }
+</style>
+</head>
+<body>
+
+<header>
+  <div class="wordmark">Homeie Engine <span>dedup + HomeScore demo</span></div>
+  <div class="stats-strip" id="statsStrip">Connecting to API…</div>
+</header>
+
+<div class="shell">
+
+  <aside class="brief">
+    <h2>Your brief</h2>
+    <p class="sub">This becomes a <code>ProfileRequest</code> sent to <code>POST /shortlist</code>. Adjust it and every ranking below updates.</p>
+
+    <div class="field">
+      <label for="f-name">Name</label>
+      <input type="text" id="f-name" value="Renter">
+    </div>
+
+    <div class="row-2">
+      <div class="field">
+        <label for="f-budget">Budget ceiling (Rs./mo)</label>
+        <input type="number" id="f-budget" value="95000" step="1000">
+      </div>
+      <div class="field">
+        <label for="f-minbhk">Minimum BHK</label>
+        <input type="number" id="f-minbhk" value="3" min="1" max="5">
+      </div>
+    </div>
+
+    <div class="field">
+      <label for="f-office">Office (label only, for display)</label>
+      <input type="text" id="f-office" value="Cyber City">
+    </div>
+    <div class="row-2">
+      <div class="field">
+        <label for="f-lat">Office latitude</label>
+        <input type="number" id="f-lat" value="28.4950" step="0.0001">
+      </div>
+      <div class="field">
+        <label for="f-lon">Office longitude</label>
+        <input type="number" id="f-lon" value="77.0890" step="0.0001">
+      </div>
+    </div>
+
+    <div class="checkbox-row">
+      <input type="checkbox" id="f-noground" checked>
+      <label for="f-noground">No ground floors</label>
+    </div>
+
+    <div class="priorities-title">What matters to you (0 = don't care, 1 = a lot)</div>
+    <div id="sliders"></div>
+
+    <button class="btn btn-primary" id="btnSubmit">Find my shortlist</button>
+    <button class="btn btn-ghost" id="btnExample">Load Homeie's own example brief</button>
+
+    <p class="api-note">
+      Talking to <code id="apiBaseLabel">http://localhost:8000</code>.
+      Start it with <code>uvicorn app.main:app --reload --port 8000</code> from <code>backend/</code>.
+    </p>
+  </aside>
+
+  <main class="results">
+    <div class="results-head">
+      <h1>Shortlist</h1>
+      <span class="count" id="resultsCount"></span>
+    </div>
+    <div id="resultsArea">
+      <div class="state-msg">Set your brief on the left, then press <strong>Find my shortlist</strong>.</div>
+    </div>
+  </main>
+
+</div>
+
+<footer>Built against Homeie's own product model — ingestion → dedup → HomeScore → ranked shortlist.</footer>
+
+<script>
+const API_BASE = 'http://localhost:8000';
+document.getElementById('apiBaseLabel').textContent = API_BASE;
+
+const PRIORITY_FIELDS = [
+  ['priority_sunlight', 'Sunlight', 0.5],
+  ['priority_noise', 'Quiet', 0.5],
+  ['priority_commute', 'Commute', 0.5],
+  ['priority_water', 'Water quality', 0.5],
+  ['priority_condition', 'Condition', 0.5],
+  ['priority_society', 'Society upkeep', 0.5],
+  ['priority_neighborhood', 'Neighborhood', 0.5],
+];
+
+const slidersEl = document.getElementById('sliders');
+PRIORITY_FIELDS.forEach(([key, label, def]) => {
+  const wrap = document.createElement('div');
+  wrap.className = 'slider-field';
+  wrap.innerHTML = `
+    <div class="slider-head"><span>${label}</span><span id="${key}-val">${def.toFixed(2)}</span></div>
+    <input type="range" id="${key}" min="0" max="1" step="0.05" value="${def}">
+  `;
+  slidersEl.appendChild(wrap);
+});
+slidersEl.addEventListener('input', (e) => {
+  if (e.target.type === 'range') {
+    document.getElementById(e.target.id + '-val').textContent = parseFloat(e.target.value).toFixed(2);
+  }
+});
+
+function tierOf(score) {
+  if (score >= 75) return 'good';
+  if (score >= 45) return 'mid';
+  return 'low';
+}
+
+function readProfile() {
+  const profile = {
+    name: document.getElementById('f-name').value || 'Renter',
+    no_ground_floor: document.getElementById('f-noground').checked,
+    budget_max: numOrNull(document.getElementById('f-budget').value),
+    min_bhk: numOrNull(document.getElementById('f-minbhk').value),
+    office_lat: numOrNull(document.getElementById('f-lat').value),
+    office_lon: numOrNull(document.getElementById('f-lon').value),
+    office_label: document.getElementById('f-office').value || '',
+  };
+  PRIORITY_FIELDS.forEach(([key]) => {
+    profile[key] = parseFloat(document.getElementById(key).value);
+  });
+  return profile;
+}
+
+function numOrNull(v) {
+  if (v === '' || v === null || v === undefined) return null;
+  const n = Number(v);
+  return Number.isNaN(n) ? null : n;
+}
+
+function applyProfile(p) {
+  document.getElementById('f-name').value = p.name ?? 'Renter';
+  document.getElementById('f-noground').checked = !!p.no_ground_floor;
+  document.getElementById('f-budget').value = p.budget_max ?? '';
+  document.getElementById('f-minbhk').value = p.min_bhk ?? '';
+  document.getElementById('f-office').value = p.office_label ?? '';
+  document.getElementById('f-lat').value = p.office_lat ?? '';
+  document.getElementById('f-lon').value = p.office_lon ?? '';
+  PRIORITY_FIELDS.forEach(([key]) => {
+    const v = p[key] ?? 0.5;
+    document.getElementById(key).value = v;
+    document.getElementById(key + '-val').textContent = Number(v).toFixed(2);
+  });
+}
+
+async function loadStats() {
+  const el = document.getElementById('statsStrip');
+  try {
+    const res = await fetch(API_BASE + '/stats');
+    if (!res.ok) throw new Error('HTTP ' + res.status);
+    const s = await res.json();
+    el.innerHTML = `
+      <span><b>${s.raw_listings_total}</b> raw listings in</span>
+      <span><b>${s.deduped_unique_units}</b> unique homes</span>
+      <span class="metric-good">dedup precision ${(s.dedup_pairwise_precision * 100).toFixed(0)}%</span>
+    `;
+  } catch (err) {
+    el.innerHTML = `<span style="color:#e3ab9d">Can't reach API at ${API_BASE}</span>`;
+  }
+}
+
+async function loadExample() {
+  const btn = document.getElementById('btnExample');
+  btn.disabled = true;
+  try {
+    const res = await fetch(API_BASE + '/profile/example');
+    if (!res.ok) throw new Error('HTTP ' + res.status);
+    applyProfile(await res.json());
+  } catch (err) {
+    alert("Couldn't load the example brief — is the API running? (" + err.message + ")");
+  } finally {
+    btn.disabled = false;
+  }
+}
+
+function bar(label, value) {
+  const tier = tierOf(value);
+  return `
+    <div class="bar-row">
+      <div class="bar-head"><span>${label}</span><span>${Math.round(value)}</span></div>
+      <div class="bar-track"><div class="bar-fill tier-${tier}" style="width:${Math.max(2, value)}%"></div></div>
+    </div>
+  `;
+}
+
+const SUBSCORE_LABELS = {
+  sunlight: 'Sunlight', noise: 'Quiet', water: 'Water', condition: 'Condition',
+  society: 'Society', neighborhood: 'Neighborhood', commute: 'Commute',
+};
+
+function renderCard(result, rank) {
+  const u = result.unit;
+  const tier = tierOf(result.home_score);
+  const barsHtml = Object.entries(result.sub_scores)
+    .map(([key, val]) => bar(SUBSCORE_LABELS[key] || key, val))
+    .join('');
+
+  const priceLine = u.rent_min === u.rent_max
+    ? `Rs.${u.rent_representative.toLocaleString('en-IN')} rent + Rs.${u.maintenance.toLocaleString('en-IN')} maint`
+    : `Rs.${u.rent_representative.toLocaleString('en-IN')} rent (range Rs.${u.rent_min.toLocaleString('en-IN')}–${u.rent_max.toLocaleString('en-IN')} across sources)`;
+
+  const tradeOffsHtml = result.trade_offs.length
+    ? `<ul class="trade-offs">${result.trade_offs.map(t => `<li>${t}</li>`).join('')}</ul>`
+    : '';
+
+  const dupNote = u.num_duplicate_listings > 1
+    ? `<button class="sources-toggle" data-id="${u.unit_id}">${u.num_duplicate_listings} listings collapsed into this one — show sources</button>
+       <div class="sources-list" id="sources-${u.unit_id}">
+         ${u.sources.map(s => `
+           <div class="src-row">
+             <span>[${s.source_type}] ${s.source_name}</span>
+             <span class="${s.is_active ? '' : 'stale'}">Rs.${s.rent.toLocaleString('en-IN')} ${s.is_active ? '' : '· stale'}</span>
+           </div>`).join('')}
+       </div>`
+    : `<span class="sources-toggle" style="text-decoration:none;cursor:default;">Single source · ${u.sources[0]?.source_type.replace('_',' ') || ''}</span>`;
+
+  return `
+    <div class="card tier-${tier}">
+      <div class="score-block">
+        <div class="rank">#${rank}</div>
+        <div class="num tier-${tier}">${result.home_score}</div>
+        <div class="label">HomeScore</div>
+      </div>
+      <div class="card-body">
+        <h3>${u.society}, Sector ${u.sector}</h3>
+        <div class="card-meta">${u.bhk}BHK · floor ${u.floor} of ${u.total_floors} · ${u.facing}-facing · ${u.carpet_sqft.toLocaleString('en-IN')} sqft · ${u.furnishing}</div>
+        <div class="card-price">${priceLine}${result.commute_km !== null ? ` <span class="range">· ~${result.commute_km} km from office</span>` : ''}</div>
+        <div class="bars">${barsHtml}</div>
+        ${tradeOffsHtml}
+        ${dupNote}
+      </div>
+    </div>
+  `;
+}
+
+async function submitProfile() {
+  const btn = document.getElementById('btnSubmit');
+  const area = document.getElementById('resultsArea');
+  const countEl = document.getElementById('resultsCount');
+  btn.disabled = true;
+  btn.textContent = 'Scoring…';
+  area.innerHTML = '<div class="state-msg">Ranking units against your brief…</div>';
+
+  try {
+    const profile = readProfile();
+    const res = await fetch(API_BASE + '/shortlist?limit=20', {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify(profile),
+    });
+
+    if (!res.ok) {
+      const errBody = await res.text();
+      throw new Error(`API returned ${res.status}\n${errBody}`);
+    }
+
+    const data = await res.json();
+    countEl.textContent = `${data.units_passing_filters} of ${data.total_units_considered} homes match your brief`;
+
+    if (data.results.length === 0) {
+      area.innerHTML = `<div class="state-msg">No homes cleared your filters. Try raising the budget or dropping "no ground floors".</div>`;
+      return;
+    }
+
+    area.innerHTML = data.results.map((r, i) => renderCard(r, i + 1)).join('');
+    area.querySelectorAll('.sources-toggle[data-id]').forEach(btn => {
+      btn.addEventListener('click', () => {
+        document.getElementById('sources-' + btn.dataset.id).classList.toggle('open');
+      });
+    });
+  } catch (err) {
+    area.innerHTML = `<div class="state-msg error">Couldn't fetch a shortlist.<pre>${err.message}</pre>Make sure the backend is running at ${API_BASE}.</div>`;
+    countEl.textContent = '';
+  } finally {
+    btn.disabled = false;
+    btn.textContent = 'Find my shortlist';
+  }
+}
+
+document.getElementById('btnSubmit').addEventListener('click', submitProfile);
+document.getElementById('btnExample').addEventListener('click', loadExample);
+
+loadStats();
+</script>
+
+</body>
+</html>
